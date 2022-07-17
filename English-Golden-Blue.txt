@@ -176,7 +176,7 @@ This song is very popular. It's a popular song. It's a beautiful place. This pla
 emotions. She has very positive emotions. It's a negative sentence. This sentence is negative. He's a professional teacher.
 They're professional teachers. He's a personal trainer. He's my personal trainer. It's a basik level. This level is basik.
 He's very talented. She's a talented person. She has very positive emotions. It's a negative sentence. This sentence is negative.
-He's a professonal teacher. They're professional teachers. He's a personal trainer. He's my personal trainer.
+He's a professional teacher. They're professional teachers. He's a personal trainer. He's my personal trainer.
 It's a basic level. This level is basic. He's very talented. She's a talented person. He has big money. He has so many
 problems. He has very big money. I feel confidence. I feel more confidence. I want to feel more confidence. I feel very
 big confidence thanks to these exercises and my regular trainings. 
@@ -192,7 +192,7 @@ This song is very low. It's a new car. He has a reach father. It's a negative se
 professional teachers. It's a long process. It's a basic level. I feel more confidence. This task is very easy. It's a popular
 song. It's a low level. I feel great confidence thanks to thses exercises and my regular trainings. It's an easy test.
 It's a bad thing. These exercises are so simple. He's a young man. He has so many problems. It's a difficult exercise. 
-I have so many questinos. I really feel more confidence.
+I have so many questions. I really feel more confidence.
 
 {7 golden blue}
 It's a good idea. It's a very good idea. You have very good ideas. It's a very effective method. It's a very intensive course.
@@ -216,8 +216,8 @@ I prefer very intensive courses. It's a very important thing. It's a very import
 It's a very effective method. It's an important thing. He has very deep knowledge in this area. It's my strong point. 
 It's another example. It's a very old house. It's a very intensive course. You're a lucky person. It's a very simple task.
 He's successful. This lake is very deep. It's an informative lecture. He's very successful. It's a very interesting thing.
-It's a very esay exercise. It's a very common mistake which so many people make. I have very good results. It's anothe story. 
-It's my weak point. It's a very populat channel. This story is very funny. I prefer to watch intensive courses online.
+It's a very easy exercise. It's a very common mistake which so many people make. I have very good results. It's anothe story. 
+It's my weak point. It's a very popular channel. This story is very funny. I prefer to watch intensive courses online.
 You have very good ideas. They make very common mistakes. You're lucky. I do very difficult exercises. These task are so
 simple. He's very strong. He's very strong man. It's a very common mistake. It's a very long story. He's a very successful
 businessman. It's a very good idea. It's a very funny video. It's a very difficult test. It's a global problem. It's a good
@@ -257,4 +257,31 @@ knowledge which a get here. It's an expensive ticket.
 It's a new car. It's a good idea. It's a bad thing. This level is very high. It's a high level. It's a low level. 
 He's a young man. He has reach parents. He has a reach father. It's a long process. She has new interesting ideas.
 These details are very important. It's an important detail. It's an easy test. It's a difficult test. It's a difficult 
-exercise. It's a simple exercise. These exercises are so simple. 
+exercise. It's a simple exercise. These exercises are so simple. This task is very easy. It's an easy task. It's a common
+mistake. This mistake is very common. These mistakes are very common among students. This song is very popular. 
+It's a popular song. It's a beautiful place. This place is so beautiful. I have very positive emotions. I have very 
+positive emotions. She has very positive emotions. It's a negative sentence. This sentence is negative. He's a professional
+teacher. They're professional teachers. He's a personal trainer. He's my personal trainer. It's a basik level. 
+This level is basic. He's very talented. She's a talentes person. She has very positive emotions. It's a negative 
+sentence. This sentence is negative. He's a professional teacher. They're professional teachers. He's a personal 
+trainer. He's my personal trainer. It's a basic level. This level is basic. He's very talented. She's a talented 
+person. He has big money. He has so many problems. He has very big money. I feel confidence. I feel more confidence.
+I want to feel more confidence. I feel very big confidence thanks to exercises and my regular trainings. I feel great 
+confidence. 
+
+{6 golden blue}
+It's a beautiful place. It's a high level. He's very talented. It's a difficult test. I have very positive emotions.
+It's a simple exercise. It's an important detail. It's an easy task. She has this information. She's a talented person.
+This mistake is very common. I feel great confidence. He has reach parents. It's a common mistake. I feel confidence.
+He's a personal trainer. I want to feel more confidence. He's my personal trainer. These mistakes are very common
+among students. This place is so beautiful. These details are very important. This sentence is negative. She has very
+positive emotions. He's a professional teacher. He has very big money. This level is very high. This level is basic.
+It's a good idea. This song is very popular. This level is very low. It's a new car. He has a reach father. It's 
+a negative sentence. He has big money. They're professional teachers. It's a long process. It's a basic level.
+I feel more confidence. This task is very easy. It's a popular song. It's a low level. I feel very big confidence thanks
+to these exercises and my regular trainings. It's an easy test. It's a bad thing. These exercises are so simple.
+He's a young man. He has so many problems. It's a difficult exercise. I have so many questions. I really feel 
+more confidence. 
+
+{7 golden blue}
+

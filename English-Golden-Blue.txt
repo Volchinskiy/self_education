@@ -19,7 +19,7 @@ I want to speak English fluently. I want to speak English correctly.
 I like learning English. I enjoy learning English. I enjoy doing it. I enjoy travelling. I enjoy
 sport. I enjoy watching this channel. I need your advice. I need your help. I really need your help. 
 I really enjoy listening to music. I want to know English like native speaker. I want to know English like
-native speakers. I prefer to do it more regularly. I do these exercises beacause I don't want to make 
+native speakers. I prefer to do it more regularly. I do these exercises because I don't want to make 
 mistakes. I do this kind of exercises because I want to speak English correctly. I watch this kind of 
 videos because I get real knowledge here. I want to know English like you or even better. We try to
 do something. We see how it works. You show outstanding results. You help me a lot.
@@ -72,7 +72,7 @@ That method is ineffective. I heve a good result. I have an exellent result. It'
 You have an interesting idea. She has some plans. I have exellent results. He has good results. She has 
 a big problem. This thing is important. It's a cheap thing. She has a problem. It's a useless lessons.
 This lesson is very useful. You have very interesting ideas. She has very big problems. He has a dream. 
-She has a small house. I have a result. I have big plans. It's my mistake. It's an interestin idea.
+She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea.
 I have real knowledge which a get here. It's an expensive ticket. 
 
 {5 golden blue}
@@ -162,7 +162,7 @@ thing. I have a brilliant result. This thing is very cheap. It's a small problem
 This idea is interesting. This ticket is so expensive. It's an ineffective method. That method is ineffective.
 I have an exellent result. It's an important thing. You have an interesting idea. She has some plans. I have 
 exellent results. He has good results. She has a big problem. This thing is important. It's a cheap thing. She has a problem.
-It's a useless lesson. This lesson is very useful. You have very interestin ideas. She has very big problems. 
+It's a useless lesson. This lesson is very useful. You have very interesting ideas. She has very big problems. 
 He has a dream. She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea.
 I have real knowledge which I get here. It's an expensive ticket.
 
@@ -262,7 +262,7 @@ mistake. This mistake is very common. These mistakes are very common among stude
 It's a popular song. It's a beautiful place. This place is so beautiful. I have very positive emotions. I have very 
 positive emotions. She has very positive emotions. It's a negative sentence. This sentence is negative. He's a professional
 teacher. They're professional teachers. He's a personal trainer. He's my personal trainer. It's a basik level. 
-This level is basic. He's very talented. She's a talentes person. She has very positive emotions. It's a negative 
+This level is basic. He's very talented. She's a talented person. She has very positive emotions. It's a negative 
 sentence. This sentence is negative. He's a professional teacher. They're professional teachers. He's a personal 
 trainer. He's my personal trainer. It's a basic level. This level is basic. He's very talented. She's a talented 
 person. He has big money. He has so many problems. He has very big money. I feel confidence. I feel more confidence.
@@ -351,13 +351,13 @@ opportunity to use these materials. It's a useful resource. It's useful. It's a 
 useful resource. These resources are so useful. You can use such resources. I don't such food. They don't have such 
 a teacher. He's so friendly. They are so hospitable. He's such a friendly person. They're such hospitable people.
 He has such a talent. He's such an outstanding person. It's such an outstanding achievement. This achievement is really 
-outstanding. He's so talented. He's very talented. He's a very talentes boy. He's such a talented boy. It's a formal answer.
+outstanding. He's so talented. He's very talented. He's a very talented boy. He's such a talented boy. It's a formal answer.
 It's an informal answer. It's a very formal answer. It's a very informal answer. It's such a formal answer. It's such an 
 informal answer. It's an unimportant thing. It's such an unimportant thing. It's an ineffective method. It's a very 
 effective method. It's a very effective method of learning English. It's such an effective method of learning English. 
 It's such an effective method of learning foreign languages. It's a very effective method of learning foreign languages. 
 It's such an important playlist. It's such an informative playlist. It was such an anforgettable trip. This trip 
-was unforgetable.  
+was unforgettable.  
 
 {12 golden blue}
 I enjoy doing it. I enjoy learning foreign languages. I like learning foreign languages. I really like to communicating with 
@@ -412,7 +412,7 @@ It's a terrible thig. It's such a terrible thig. He's so busy. He's such a busy 
 He wears such cheap clothes. It's such a funny joke. It's such an intensive course. They don't understand such simple
 things. They don't want to understand such obvious thigs. These thigs are so simple. It's such a simple things. These 
 thigs are so obvious. It's such an obvious thing. It's such a famous place. It's such an expensive hotel. This mobile 
-application is so useful. It's such a useful application. This application is so popular. It's such a populat application.
+application is so useful. It's such a useful application. This application is so popular. It's such a popular application.
 
 19.07.2022
 {10 golden blue}
@@ -438,7 +438,7 @@ to these materials. It's a useful resource. It's useful. It's a very useful reso
 These resources are so useful. You can use such resources. I don't like such food. They don't have such a teacher.
 He's so friendly. They're so hospitable. He's such a friendly person. They such a hospitable people. He has such a 
 talent. He's such an outstanding person. It's such an outstanding achievement. This achievement is really outstanding.
-He's so talented. He's very talented. He's a very talented boy. He's sych a talentes boy. It's a formal answer. 
+He's so talented. He's very talented. He's a very talented boy. He's sych a talented boy. It's a formal answer. 
 It's an informal answer. It's a very formal answer. It's a vert informal answer. It's such a formal answer. It's such 
 an informal answer. It's an unimportant thing. It's such an unimportant thing. It's an ineffective method. It's a 
 very effective method. It's a very effective method of learn English. It's such an effective method of learning English. 
@@ -471,4 +471,26 @@ English for free.
 We have such an opportunity. Thid lake is very deep. It's such am effective method of learning foreign languages. 
 It's a bad thing. You can learn English for free. I improved my speaking a lot. These exercises are so simple. 
 They motivate me a lot. It's a cheap thing. It's a very interesting question. I have real knowledge which I get here.
-He has very big money. He's my personal trainer. 05:07
+He has very big money. He's my personal trainer. 05:07 He has so many problems. You help me so much. It's a brilliant 
+idea. It's a very high level. It's really a long process. It's a very common mistake which so many people make. 
+He's the best personal trainer. These tasks are so difficult. It's such an interesting thing. We use it in negative 
+sentences. He has such a talent. It's my strong point. It was an unforgettable trip. This task is so easy. It's 
+am important thing. I have very positive emotions. It's such a famous place. This lesson is very useful. I improved
+my English a lot. He's a young man. She has an interesting idea. It's such a boring book. It's such a useful mobile 
+application. I show exellent results. It's a long process. It motivates me greatly. This idea is so good. 
+
+22.07.2022
+{15 golden blue}
+It's a very common mistake among students. It's an outstanding achievement. I feel very big confidence thanks to 
+these exercises and my regular trainings. I enjoy leraning English here because I improve my knowledge thanks to
+this channel. It's a very easy exercise. I don't like such food. It's such a popular application. I need your advice.
+It's such a boring video. This level is basic. It's such an effective method because it really works. I feel more 
+confidence. It's a very effective method. He's a very successful businessman. That method isn't effective. She has 
+very interesting ideas. This song is very popular. I like learning foreign languages. I have so much enthusiasm. 
+It's a long story. She has such a talent. I really like this idea. I like this idea a lot. He's very talented. 
+These lessons help my greatly. She does these exercises because she like this practice. It's a beautiful place.
+These things are so simple. This thing is useless. I watch this kind of videos because I get real knowledge here.
+It's a terrible thing. He has so much money. I want to know English like you. This book is so boring. It's a useless lesson.
+I improved my English significantly thanks to such an intensive training. This application is so popular. We don't have 
+such information. I feel great confidence. It's a very good idea. They often discuss such important things. 
+NEXT STEP [10,11,12,13,14,15,16,17,18 golden blue]

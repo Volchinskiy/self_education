@@ -1,0 +1,2 @@
+02.08.2022 NEXT STEP { learn: [1], marker: 'front'}
+03.08.2022 NEXT STEP { firstRepeat: [1] learn: [2], marker: 'front'}

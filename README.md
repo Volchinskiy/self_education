@@ -1,5 +1,3 @@
-I learn English **every day**. 
-And now I'm starting to track it on git. 
-I am studying the courses of this channel **https://www.youtube.com/channel/UCcnjJu-ejZlLaz-OwpBd7dQ** and I also recommend it to everyone.
+I will become a good software engineer as soon as possible. 
 
-Also I want to tell you that when I write these sentences I use **"10 finger touch typing method"**.
+This repository helps me remember what I'm currently learning or repeating.

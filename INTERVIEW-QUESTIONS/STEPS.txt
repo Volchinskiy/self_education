@@ -1,3 +1,4 @@
 02.08.2022 NEXT STEP { learn: [1], marker: 'video'}
 03.08.2022 NEXT STEP { firstRepeat: [1] learn: [2], marker: 'video'}
-04.08.2022 NEXT STEP { secondRepeat: [1], firstRepeat: [2] learn: [3], marker: 'video'}
+04.08.2022 NEXT STEP { secondRepeat: [1], firstRepeat: [2], learn: [3], marker: 'video'}
+06.08.2022 NEXT STEP { secondRepeat: [2], firstRepeat: [3], learn: [4], marker: 'video'}

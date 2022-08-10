@@ -42,5 +42,7 @@
  { question: 'Какие есть методы строк в Js?', answer: 'Когда я узнавал их было 27, всех я на изусть не знаю но могу назвать основние которыми пользовался: .charAt(), .endsWith(), startsWith(), .toUpperCase(), .toLowerCase(), length, .includes(), .replace(), .slice(), .split(), .trim(), .match(), .indexOf(), .lastIndexOf().' },
  { question: 'Какие есть методы массивов в Js?', answer: 'У масивов есть большое количество методов как у екземпляров класса так и у самого класса, я постараюсь перечислить основные которые активно использовал: .map(), .pop(), .push(), .shif(), .unshift(), .join(), .forEach(), .isArray(), .concat(), .at(), .fill(), .find(), .sort(), .filter(), .includes(), .slice(), .splice(), .reduce().' },
  { question: 'Какая разница между e.preventDefault() и e.stopPropagation()?', answer: 'e.preventDefault() отменяет дефолтное поведение елемента например если слеоать ссылку и применить этот метод к событию клик то ссылка не будет нас перенаправлять на другую страницу, а e.stopPropagation() отменяет всплытие события.' },
+ 
+ { question: 'Какие есть методы поиска элементов в DOM?', answer: 'В браузерном JS есть 6 основных методов для поиска элементов .getElementById(), .getElementsByName(), .getElementsByTagName(), .getElementsByClassName(), .querySelector(), .querySelectorAll().' },
  { question: '', answer: '' },
 ]

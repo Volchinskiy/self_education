@@ -7,3 +7,4 @@
 02.08.2022 NEXT STEP { secondRepeat: [16,17,18], firstRepeat: [19,20,21], learn: [22,23,24], marker: 'golden blue'}
 05.08.2022 NEXT STEP { secondRepeat: [19,20,21], firstRepeat: [22,23,24], learn: [25,26,27], marker: 'golden blue'}
 08.08.2022 NEXT STEP { secondRepeat: [22,23,24], firstRepeat: [25,26,27], learn: [28,29,30], marker: 'golden blue'}
+11.08.2022 NEXT STEP { secondRepeat: [25,26,27], firstRepeat: [28,29,30], learn: [31,32,33], marker: 'golden blue'}

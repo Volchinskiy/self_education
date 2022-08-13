@@ -807,7 +807,7 @@ unimportant thing. This thing helps me greatly. It's an informal answer. I enjoy
 want to have such problems. This place is so beautiful. It's such an intensive course. This achievement is really
 outstanding. The boy is so strong. It's such an interesting book. I have exellent results. It's an important tning.
 I improved my pronunciation greatly. These lessons really help me. It's a small problem. I have big plans. I think 
-thant you also have big plans. This thing is important. He has such interesting ideas. It's a very long story. It's 
+that you also have big plans. This thing is important. He has such interesting ideas. It's a very long story. It's 
 such a formal answer. I really need these things. I have so many friends. She has so many ideas. He has so much 
 enthusiasm. They often ignore these problems. It's a difficult exercise. I have so many questions. I have a big 
 dream. He has such big problems. 
@@ -823,7 +823,7 @@ make these mistakes. I really like communicating with people from other countrie
 a big problem. You have an interesting idea. Ha does it like me. He's a personal trainer. It's a useless thing. He doesn't
 have such a chance. It's such a profitable company. These things are so useless. I don't want to spend time on such useless 
 things. It's such a good idea. It's a very low level. It's such an effective method of learning English. It's a very useful 
-resource. It's a formal answer. It's a very profitable business. We have such a unique opportunity. I'm so happy thant I 
+resource. It's a formal answer. It's a very profitable business. We have such a unique opportunity. I'm so happy that I 
 feel more confidence. I don't make so many mistakes because I have so much practice. I really want to apply all these 
 knowledge which I get here. 
 
@@ -885,7 +885,7 @@ businessman. I want to know English like a native speaker. These deatils are ver
 thing. This thing helps me greatly. It's an informal answer. I enjoy learning foreign languages. I don't want to have such 
 problems. This place is so beautiful. It's such an intensive course. This achievement is really outstanding. The boy 
 is so strong. It's such an interesting book. I have exellent results. It's an important thing. I improved my pronunciation
-greatly. These lessons really help me. It's a small problem. I have big plans. I think thant you also have big plans. 
+greatly. These lessons really help me. It's a small problem. I have big plans. I think that you also have big plans. 
 This thing is important. He has such interesting ideas. It's a very long story. It's such a formal answer. I really need 
 these things. I have so many friends. She has so many ideas. He has so much enthusiasm. They often ignore these problems. 
 It's a difficult exercise. I have so many questions. I have a big dream. He has such big problems. 
@@ -1074,7 +1074,7 @@ thing. They don't want to change anything. They don't have this experience. I se
 a perfectly understand you. I perfectly realize the importance of these things but they don't see it. I don't want 
 to continue doing it. I don't recommend these resources. I don't recommend this book to you. I recommend this channel
 to my friends. I see you don't like it. They don't recommend this course to us. I often recommend this course to my 
-acquaintance. They don't want to think about it right now. They don't try to change anything in their life. We don't 
+acquaintances. They don't want to think about it right now. They don't try to change anything in their life. We don't 
 want to waste time because time flies and we can't turn it back. I don't agree with it I have another opinion. 
 I don't think it really works. This method seems so ineffective. I don't train so often but I perfectly understand 
 that it's such an important thing to train regularly if I really want to achieve my aim. I don't worry about these 
@@ -1120,3 +1120,48 @@ to do it. He misses you a lot. He never does it. He complains about it from time
 They like spending time together. It often attracts my attention. She never talks about it. He never discusses it.
 She usually washes the dishes. He goes to the swimming pool two times a week. She usually goes to the swimming pool
 twice a week. He often gets up later than usual.   
+
+13.08.2022
+{28 golden blue}
+This thing really motivates me. These things really motivate me. This speech really inspires me. These examples really
+inspire me. This student shows outstanding results. These students show brilliant results. This lesson seem 
+extremely useful. These lessons look very informative. The lesson seems very boring. Games seem very tiring. 
+The problem seems unimportant but I have another opinion. The problems seem very small but I don't think so. 
+The book seems very boring. These books seem usless. The article seem so useful. These articles seem so interesting. 
+The boys study very well. The boy goes to this school. The girls have so many talents. These girls study in one 
+group. My father does business. My mother works as a doctor. My sister works as a manager. This project brings 
+them big money. My life seems very interesting. His life seems amazing. Children love sweets. The children show 
+outstanding abilities. These things make us happy. This hobby makes my life brighter. This idea looks quite new.
+These idaes look quite innovative. This information seems quite reliable. I don't think that money always brings 
+people happiness. I don't think that money always brings happiness to people. The news seems really strange. 
+This practice seems extremely important. These knowledge makes me smarter and more educated. 
+
+{29 golden blue}
+Those things seem very tiring. The problems seems very small but I don't think so. The book seems very boring. 
+These knowledge makes me smarter and more educated. This game seems so thrilling. This girl has so many talents. 
+My friend has another opinion. I don't think that money always brings happiness to people. These girls study in
+one group. This speech really inspires me. This project brings them big money. These things really motivate me. 
+Thid information seems quite reliable. The problem seems unimportant but I have another opinion. This thing really 
+motivates me. This student shows outstanding results. My life seems very interesting. This idea looks quite new.
+His life seems amazing. These students show brilliant results. These things make us happy. These examples really 
+inspire me. These games seem so exciting. This hobby make my life brighter. These books seem usless. Such things
+interest me. This thing really interests me. This lesson seem extremely useful. My sister works as a manager. 
+Children love sweets. The article looks really useful. The children have outstanding abilities. My parents don't 
+think so. These lessons look very informative. I don't think that money always brings people happiness. This 
+practice seems extremely important. The news seems really strange. My father does business. The boys study very 
+well. These ideas look quite innovative. The boy goes to this school. My mother works as a doctor. These articles 
+seem so interesting. 
+
+{30 golden blue}
+I don't know why it happens. We don't understand why she always says it. You don't realize the importance of this 
+thing. They don't want to change anything. They don't have this experience. I see you don't want to live here 
+and I perfectly understand you. I perfectly realize the importance of these things but they don't see it. I don't 
+want to continue doing it. I don't recommend these resources. I don't recommend this book to you. I recommend this 
+channel to my friends. I see you don't like it. They don't recommend this course to us. I often recommend this 
+course to my acquaintances. They don't want to think about it right now. They don't try to change anything in their
+life. We don't want to waste time because time flies and we can't turn it back. I don't agree with it. I have another
+opinion. I don't think it really works. This method seems so ineffective. I don't train so often but I perfectly 
+understand that it's such an important thing to train regularly if I really want to achieve my aim. I don't worry 
+about these things at all. I don't want to think about it at all. They don't help me at all. I don't want to continue 
+working here. I want to develop in another area. I want to stop working here because I feel that I don't develop
+in this place and I can do much more.   

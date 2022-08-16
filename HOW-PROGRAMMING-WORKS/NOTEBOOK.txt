@@ -6,3 +6,5 @@
 13.08.2022 learn: https://www.youtube.com/watch?v=pn5myCmpV2U
 14.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 1
 15.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 2
+16.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 3
+16.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 4

@@ -83,6 +83,22 @@ learn: { [6],
     { question: 'Разница между синхронными и асинхронными функциями?', answer: 'Синхронные функции блокируют выполнение Js, а асинхронные нет. Синхронные функции выполняються последовательно строчка за стройчкой, а асинхронные нет.', },
   ] 
 secondRepeat: { [5], "17.08.2022", }
+firstRepeat: { [6], "18.08.2022", }
+learn: { [7],
+  "18.08.2022" : [
+    { question: 'Что такое прогрессивный рендеринг?', answer: '', }, 
+    { question: 'Почему результат сравнения 2х объектов это false?', answer: '', }, 
+    { question: 'Что такое прототипное наследование? Как создать объект без прототипа?', answer: '', }, 
+    { question: 'Почему расширение нативных JavaScript-объектов это плохая практика?', answer: '', }, 
+    { question: 'Что такое NaN? Как определить, что значение равно NaN?', answer: '', }, 
+    { question: 'Что такое ECMAScript? В чём отличие от JavaScript?', answer: '', }, 
+    { question: 'Можно ли изменить значение определённое через const?', answer: '', }, 
+    { question: 'Что такое временная мёртвая зона (temporal dead zone)?', answer: '', }, 
+    { question: 'Что такое AJAX?', answer: '', }, 
+    { question: 'Что такое same-origin policy в контексте JavaScript?', answer: '', }, 
+    { question: 'Разница между attribute и property у DOM-элементов?', answer: '', }, 
+    { question: 'Разница между HTMLCollection и NodeList?', answer: '', }, 
+  ] 
 
 learn: { [],
   "" : [

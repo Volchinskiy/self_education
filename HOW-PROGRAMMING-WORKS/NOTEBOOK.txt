@@ -8,3 +8,6 @@
 15.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 2
 16.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 3
 16.08.2022 learn: https://github.com/HowProgrammingWorks/Function Exercise 4
+18.08.2022 learn: https://github.com/HowProgrammingWorks/Closure Exercise 1
+18.08.2022 learn: https://github.com/HowProgrammingWorks/Closure Exercise 2
+18.08.2022 learn: https://www.youtube.com/watch?v=VBMGnAPfmsY 

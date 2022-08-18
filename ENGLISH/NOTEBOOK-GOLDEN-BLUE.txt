@@ -245,7 +245,7 @@ I have very good knowledge which I get here. It's so interesting. It's an effect
 I have a brilliant result. This thing is very cheap. It's a small problem. I have an interesting idea. This idea is
 interesting. This ticket is so expensive. It's an ineffective method. That method is ineffective. I have an exellent 
 result. It's an important thing. You have an interesting idea. She has some plans. I have exellent results. 
-He has good results. She has a big problem. This thing is important. It'a a cheap thign. She has a problem. It's 
+He has good results. She has a big problem. This thing is important. It'a a cheap thing. She has a problem. It's 
 a useless lesson. This lesson is very useful. You have very interesting ideas. She has very big problems. He has 
 a dream. She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea. I have real 
 knowledge which a get here. It's an expensive ticket. 
@@ -293,7 +293,7 @@ weak. It's my strong point. It's my weak point. He's a very strong man. It's a v
 It's a very difficult test. It's a very useful lesson. It's a very informative lecture. It's a very common mistake.
 They make very common mistakes. I do very difficult exercises. It's a very common mistake among students. It's a very common 
 mistake which so many people make. It's a very interesting question. It's a very good result. I have very good results. 
-It's a very deep lake. Thid lake is very deep. He has very deep knowledge in this area. 
+It's a very deep lake. This lake is very deep. He has very deep knowledge in this area. 
 
 {8 golden blue}
 He's a successful businessman. It's a very interesting question. They see that a heve very good knowledge. It's a very common 
@@ -315,7 +315,7 @@ The book is so interesting. It's such an interesting book. They often discuss cu
 important. It's such an interesting thing. This thing is so important. It's such a good idea. This idea is so good. 
 It's such an effective method. This is so effective. This method is really effective. It's such a high level. I want to 
 have such a high level. It's such a low level. He has such big problems. I don't want to have such problems. 
-I know such people. Such thigs sometimes happen. I have such friends. I have so many friends. I have so much enthusiasm.
+I know such people. Such things sometimes happen. I have such friends. I have so many friends. I have so much enthusiasm.
 She makes so many mistakes. He has so much money. Many pounds. It's such a boring book. This book is so boring. 
 They discuss such boring things. This things are so boring. It's so boring. It's such a boring video. He's so tired. 
 It's a terrible thing. It's such a terrible thing. He's so busy. He's such a busy person. He's clothes are so chep. 
@@ -323,7 +323,7 @@ He wears such cheap clothes. It's such a funny joke. It's such an intensive cour
 things. They don't want to understand such obvious things. These things are so simple. It's such a simple thing. These 
 things are so obvious. It's such an obvious thing. It's such a famous place. It's such an expensive hotel. This mobile 
 application is so useful. I want to apply my knowledge. I want to apply these skills. I want to apply my knowledge of 
-English. It's such a useful mobile application. Thid application is so popular. It's such a popular application.
+English. It's such a useful mobile application. This application is so popular. It's such a popular application.
 
 {10 golden blue}
 It's such an effective method. It's such an obvious thing. It's such a good idea. Such things sometimes happen. 
@@ -332,7 +332,7 @@ application. He has such big problems. It's so boring. It's such simple thing. T
 an expensive hotel. He has so much money. I have so many friends. It's such an intensive course. I don't want to have 
 such problems. These things are so boring. They often discuss such boring things. I have such friends. He wears such 
 cheap clothes. I want to apply my knowledge. He's clothes are so cheap. It's such a low level. They don't understand such
-simple things. Thid application is so popular. It's such a funny joke. It's such an interesting thing. I have so much 
+simple things. This application is so popular. It's such a funny joke. It's such an interesting thing. I have so much 
 enthusiasm. It's such a useful mobile application. I want to have such a high level. This idea is so good. 
 This mobile application is so useful. It's such a famous place. These things are so simple. This book is so boring. 
 She makes so many mistakes. I know such people. It's such a boring book. They often discuss such important things. 
@@ -397,17 +397,17 @@ idea. It's a very useful lesson. It's a very low level. They have very big probl
 deep lake. 
 
 {9 golden blue}
-The book is so interesting. It's such an interesting book. They often discuss such important thigs. These thigs 
+The book is so interesting. It's such an interesting book. They often discuss such important things. These things 
 are so important. It's such an interesting thing. This thing is so important. It's such a good idea. This idea is 
 so good. It's such an effective method. This method is so effective. This method is really effective. It's such a 
 high level. I want to have such a high level. It's such a low level. He has such big problems. I don't want to have 
-such problems. I know such people. Such thigs sometimes happen. I have such friends. I have so many friends. I have so 
+such problems. I know such people. Such things sometimes happen. I have such friends. I have so many friends. I have so 
 much enthusiasm. She make so many mistakes. He has so much money. It's such a boring book. This book is so boring. 
-They discuss such boring things. These thigs are so boring. It's so boring. It's such a boring video. He's so tired.
+They discuss such boring things. These things are so boring. It's so boring. It's such a boring video. He's so tired.
 It's a terrible thing. It's such a terrible thing. He's so busy. He's such a busy person. He's clothes are so cheap. 
 He wears such cheap clothes. It's such a funny joke. It's such an intensive course. They don't understand such simple
-things. They don't want to understand such obvious thigs. These thigs are so simple. It's such a simple things. These 
-thigs are so obvious. It's such an obvious thing. It's such a famous place. It's such an expensive hotel. This mobile 
+things. They don't want to understand such obvious things. These things are so simple. It's such a simple things. These 
+things are so obvious. It's such an obvious thing. It's such a famous place. It's such an expensive hotel. This mobile 
 application is so useful. It's such a useful application. This application is so popular. It's such a popular application.
 
 19.07.2022
@@ -464,7 +464,7 @@ Such a profitable company. Advice. Speak English correctly. An outstanding achie
 English for free. 
 
 {14 golden blue}
-We have such an opportunity. Thid lake is very deep. It's such an effective method of learning foreign languages. 
+We have such an opportunity. This lake is very deep. It's such an effective method of learning foreign languages. 
 It's a bad thing. You can learn English for free. I improved my speaking a lot. These exercises are so simple. 
 They motivate me a lot. It's a cheap thing. It's a very interesting question. I have real knowledge which I get here.
 He has very big money. He's my personal trainer. 05:07 He has so many problems. You help me so much. It's a brilliant 
@@ -733,7 +733,7 @@ I improved my English significantly. They are so hospitable. I enjoy doing it. S
 It's a very important thing. This example inspires me greatly. This detail is so important. They don't have such an opportunity. 
 I have very good knowledge which I get here. It's a very famous place. I really feel more confidence. It's so boring. 
 I prefer to learn English for free. I like this kind of tings. It's a very simple task. They have very big problems. 
-They don't understand such simple thigs. It's my weak point. 
+They don't understand such simple things. It's my weak point. 
 
 {17 golden blue}
 They don't have such money. The answer is obvious. She has very big problems. I have one interesting plan. You're lucky.
@@ -1093,7 +1093,7 @@ free Education. I have motivation to continue doing it. I prefer to invest my ti
 enough time to do it. They do it to earn more money. We often compare our achievements. I like the idea of free 
 education. You do it really weel and wa all see your professionalism. They say it from time to time and this 
 information can be very interesting for you. I have an aim. I have a dream. I have an aim to get a well-paid job.
-I often compare our results. Thet invest thir money and time in this project. I have an aim to learn English. I like 
+I often compare our results. Thet invest this money and time in this project. I have an aim to learn English. I like 
 the idea of free video English lessons. I prefer to invest my time in Education because I really want to improve me 
 knowledge. 
 
@@ -1141,7 +1141,7 @@ Those things seem very tiring. The problems seems very small but I don't think s
 These knowledge makes me smarter and more educated. This game seems so thrilling. This girl has so many talents. 
 My friend has another opinion. I don't think that money always brings happiness to people. These girls study in
 one group. This speech really inspires me. This project brings them big money. These things really motivate me. 
-Thid information seems quite reliable. The problem seems unimportant but I have another opinion. This thing really 
+This information seems quite reliable. The problem seems unimportant but I have another opinion. This thing really 
 motivates me. This student shows outstanding results. My life seems very interesting. This idea looks quite new.
 His life seems amazing. These students show brilliant results. These things make us happy. These examples really 
 inspire me. These games seem so exciting. This hobby make my life brighter. These books seem usless. Such things
@@ -1339,3 +1339,45 @@ Does she make much fewer mistakes? Does she know that she makes lots of mistakes
 mistaeks? Does he understand that only lots of practice can really help him? Does he pay for his Education? Does it 
 depend only on him? Does she realize the importance of these tings? Does he realize that it's very important to do it?
 
+18.08.2022
+{31 golden blue}
+I don't want to think about it at all. I don't recommend this book to you. I want to stop working here because I feel that 
+I don't develop in this place and I can do much more. I don't want to continue doing it. They don't help me at all. I 
+recommend this channel to my friends. They don't want to change anything. We don't understand why she always says it.
+I don't recommend these resources. I don't train so often but I perfectly understand that It's such an important thing 
+to train regularly if I really want to achieve my aim. Thye don't try to change anything in their life. My acquaintances 
+often have another opinion. I see you don't like it. You don't realize the importance of this thing. They don't want 
+to think about it right now. My acquaintances don't understand why I do it. I perfectly realize the importance 
+of these things but they don't see it. I often recommend this course to my acquaintances. I don't know why it happens.
+I see you want to live in another place and I perfectly understand you. I don't worry about these things at all. 
+I don't agree with it. I have another opinion. They don't have this experience. They don't recommend this course to 
+us. I don't think it really works. This method seems so ineffective. I don't want to continue working here. I want to 
+develop in another area. We don't want to waste time because time flies and we can't turn it back. 
+
+{32 golden blue}
+This result doesn't inspire me. These achievements don't inspire me. This thing doesn't seem so important. These 
+things don't seem so important. These things don't help me at all. Those lessons don't help me at all. The boy 
+don't know it. The boys don't like this idea. These people don't understand the seriousness of these things.
+This person doesn't understand the seriousness of this situation. This method doesn't work. These details don't 
+seem so important. My father doesn't work here. He works in another place. My mother doesn't work in Education. 
+She works in another area. She works in medicine. His wife doesn't work in medicine she works in another spehre. 
+His father doesn't do business. He works as a marketing specialist. This infotmation doesn't look reliable. 
+My acquaintances dont' think so. My acquaintances don't share this point of view. My best friend doesn't support 
+this idea. He has another point of view. This house doesn't cost so much. These things don't cost this money. 
+He thinks that money doesn't brings people real happiness. English doesn't seem so simple. This test doesn't look 
+so easy. Those exercises don't hepl me so much. That course doesn't give me real knowledge. This place doesn't look
+so attractive.  
+
+{33 golden blue}
+Those exercises don't help me so much. This house doesn't cost so much. His father doesn't do business. He works as 
+a marketing specialist. These achievements don't inspire me. English doesn't seem so simple. This person doesn't 
+understand the seriousness of this situation. My acquaintances don't think so. This test doesn't look so easy. 
+My acquaintances don't share this point of view. These things don't seem so important. This information doesn't 
+look reliable. These things don't cost this money. These details don't seem so important. That course doesn't 
+give me real knowledge. Those lessons don't help me at all. This result doesn't inspire me. This method doesn't 
+work. The boys don't like this idea. My father doesn't work here. He works in another place. These people don't 
+understand all the seriousness of these things. This place doesn't look so attractive. My mother doesn't work in 
+Education. She works in another area. She works in medicine. My best friend doesn't support this idea. He has 
+another point of view. The boy doesn't know it. She thinks that money doesn't bring real happiness to people.
+These things don't help me at all. His wife doesn't work in medicine. She works in another sphere. This thing 
+doesn't seem so important. He thinks that money doesn't bring real happiness to people. 

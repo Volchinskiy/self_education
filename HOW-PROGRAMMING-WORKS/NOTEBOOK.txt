@@ -11,3 +11,10 @@
 18.08.2022 learn: https://github.com/HowProgrammingWorks/Closure Exercise 1
 18.08.2022 learn: https://github.com/HowProgrammingWorks/Closure Exercise 2
 18.08.2022 learn: https://www.youtube.com/watch?v=VBMGnAPfmsY 
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 1
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 2
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 3
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 4
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 5
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 6
+20.08.2022 learn: https://github.com/HowProgrammingWorks/Iteration Exercise 7

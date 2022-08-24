@@ -21,3 +21,6 @@
 21.08.2022 learn: https://www.youtube.com/watch?v=enHA1CRkJe0
 22.08.2022 learn: https://www.youtube.com/watch?v=wqkQ6eslyzY
 23.08.2022 secondRepeat: https://www.youtube.com/watch?v=xJn3k1f4BiM
+24.08.2022 secondRepeat: https://github.com/HowProgrammingWorks/Reusable
+24.08.2022 secondRepeat: https://github.com/HowProgrammingWorks/Cheatsheet
+24.08.2022 secondRepeat: https://github.com/HowProgrammingWorks/DataTypes

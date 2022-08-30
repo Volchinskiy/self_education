@@ -144,6 +144,7 @@ learn: { lesson: [9],
   ]
 }
 secondRepeat: { [8], "29.08.2022", }
+firstRepeat: { [9], "30.08.2022", }
 
 learn: { lesson: [],
   "" : [

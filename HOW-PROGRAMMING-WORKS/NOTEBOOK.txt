@@ -32,3 +32,4 @@
 30.08.2022 firstRepeat: https://github.com/HowProgrammingWorks/Closure Exercise 2
 31.08.2022 firstRepeat: https://www.youtube.com/watch?v=VBMGnAPfmsY
 01.09.2022 firstRepeat: https://www.youtube.com/watch?v=enHA1CRkJe0
+02.09.2022 firstRepeat: https://www.youtube.com/watch?v=wqkQ6eslyzY

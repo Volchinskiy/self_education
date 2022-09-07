@@ -34,3 +34,4 @@
 01.09.2022 firstRepeat: https://www.youtube.com/watch?v=enHA1CRkJe0
 02.09.2022 firstRepeat: https://www.youtube.com/watch?v=wqkQ6eslyzY
 04.09.2022 learn: https://www.youtube.com/watch?v=ND8KQ5xjk7o
+07.09.2022 learn: https://github.com/HowProgrammingWorks/PartialApplication Exercise 1

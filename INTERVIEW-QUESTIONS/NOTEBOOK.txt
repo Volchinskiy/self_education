@@ -162,7 +162,7 @@ learn: { lesson: [10],
   ]
 }
 secondRepeat: { [9], "07.09.2022", }
-firstRepeat: { [10], "30.08.2022", }
+firstRepeat: { [10], "07.09.2022", }
 
 learn: { lesson: [],
   "" : [

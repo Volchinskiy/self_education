@@ -9,3 +9,4 @@
 23.08.2022 NEXT STEP { secondRepeat: [7], firstRepeat: [8], learn: [9], marker: 'video'}
 29.08.2022 NEXT STEP { secondRepeat: [8], firstRepeat: [9], learn: [10], marker: 'video'}
 01.09.2022 NEXT STEP { secondRepeat: [9], firstRepeat: [10], learn: [11], marker: 'video'}
+08.09.2022 NEXT STEP { secondRepeat: [10], firstRepeat: [11], learn: [12], marker: 'video'}

@@ -17,3 +17,5 @@
 02.09.2022 NEXT STEP { secondRepeat: [46,47,48], firstRepeat: [49,50,51], learn: [52,53,54], marker: 'golden blue'}
 06.09.2022 NEXT STEP { secondRepeat: [49,50,51], firstRepeat: [52,53,54], learn: [55,56,57], marker: 'golden blue'}
 09.09.2022 NEXT STEP { secondRepeat: [52,53,54], firstRepeat: [55,56,57], learn: [58,59,60], marker: 'golden blue'}
+
+00.00.000 NEXT STEP { learn: { Orange: [1,2,3], Titanium: [1], }, }

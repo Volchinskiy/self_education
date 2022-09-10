@@ -41,3 +41,6 @@
 08.09.2022 learn: https://github.com/HowProgrammingWorks/PartialApplication Exercise 5
 08.09.2022 learn: https://github.com/HowProgrammingWorks/PartialApplication Exercise 6
 09.09.2022 learn: https://www.youtube.com/watch?v=1vqATwbGHnc
+10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 1
+10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 2
+10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 3

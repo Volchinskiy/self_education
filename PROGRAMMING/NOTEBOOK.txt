@@ -44,3 +44,10 @@
 10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 1
 10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 2
 10.09.2022 learn: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 3
+11.09.2022 secondRepeat: https://www.youtube.com/watch?v=pn5myCmpV2U 
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Function Exercise 1
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Function Exercise 2
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Function Exercise 3
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Function Exercise 4
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Closure Exercise 1
+11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Closure Exercise 2

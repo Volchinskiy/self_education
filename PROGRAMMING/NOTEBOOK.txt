@@ -51,3 +51,4 @@
 11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Function Exercise 4
 11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Closure Exercise 1
 11.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Closure Exercise 2
+12.09.2022 secondRepeat: https://www.youtube.com/watch?v=VBMGnAPfmsY

@@ -1,21 +1,22 @@
-12.07.2022 NEXT STEP { firstRepeat: [1,2,3], learn: [4,5,6], marker: 'golden blue'}
-13.07.2022 NEXT STEP { secondRepeat: [1,2,3], firstRepeat: [4,5,6], learn: [7,8,9], marker: 'golden blue'}
-15.07.2022 NEXT STEP { secondRepeat: [4,5,6], firstRepeat: [7,8,9], learn: [10,11,12], marker: 'golden blue'}
-17.07.2022 NEXT STEP { secondRepeat: [7,8,9], firstRepeat: [10,11,12], learn: [13,14,15], marker: 'golden blue'}
-22.07.2022 NEXT STEP { secondRepeat: [10,11,12], firstRepeat: [13,14,15], learn: [16,17,18], marker: 'golden blue'}
-26.07.2022 NEXT STEP { secondRepeat: [13,14,15], firstRepeat: [16,17,18], learn: [19,20,21], marker: 'golden blue'}
-02.08.2022 NEXT STEP { secondRepeat: [16,17,18], firstRepeat: [19,20,21], learn: [22,23,24], marker: 'golden blue'}
-05.08.2022 NEXT STEP { secondRepeat: [19,20,21], firstRepeat: [22,23,24], learn: [25,26,27], marker: 'golden blue'}
-08.08.2022 NEXT STEP { secondRepeat: [22,23,24], firstRepeat: [25,26,27], learn: [28,29,30], marker: 'golden blue'}
-11.08.2022 NEXT STEP { secondRepeat: [25,26,27], firstRepeat: [28,29,30], learn: [31,32,33], marker: 'golden blue'}
-14.08.2022 NEXT STEP { secondRepeat: [28,29,30], firstRepeat: [31,32,33], learn: [34,35,36], marker: 'golden blue'}
-17.08.2022 NEXT STEP { secondRepeat: [31,32,33], firstRepeat: [34,35,36], learn: [37,38,39], marker: 'golden blue'}
-20.08.2022 NEXT STEP { secondRepeat: [34,35,36], firstRepeat: [37,38,39], learn: [40,41,42], marker: 'golden blue'}
-23.08.2022 NEXT STEP { secondRepeat: [37,38,39], firstRepeat: [40,41,42], learn: [43,44,45], marker: 'golden blue'}
-26.08.2022 NEXT STEP { secondRepeat: [40,41,42], firstRepeat: [43,44,45], learn: [46,47,48], marker: 'golden blue'}
-30.08.2022 NEXT STEP { secondRepeat: [43,44,45], firstRepeat: [46,47,48], learn: [49,50,51], marker: 'golden blue'}
-02.09.2022 NEXT STEP { secondRepeat: [46,47,48], firstRepeat: [49,50,51], learn: [52,53,54], marker: 'golden blue'}
-06.09.2022 NEXT STEP { secondRepeat: [49,50,51], firstRepeat: [52,53,54], learn: [55,56,57], marker: 'golden blue'}
-09.09.2022 NEXT STEP { secondRepeat: [52,53,54], firstRepeat: [55,56,57], learn: [58,59,60], marker: 'golden blue'}
+12.07.2022 NEXT STEP { firstRepeat: [1,2,3], learn: [4,5,6], marker: 'golden'}
+13.07.2022 NEXT STEP { secondRepeat: [1,2,3], firstRepeat: [4,5,6], learn: [7,8,9], marker: 'golden'}
+15.07.2022 NEXT STEP { secondRepeat: [4,5,6], firstRepeat: [7,8,9], learn: [10,11,12], marker: 'golden'}
+17.07.2022 NEXT STEP { secondRepeat: [7,8,9], firstRepeat: [10,11,12], learn: [13,14,15], marker: 'golden'}
+22.07.2022 NEXT STEP { secondRepeat: [10,11,12], firstRepeat: [13,14,15], learn: [16,17,18], marker: 'golden'}
+26.07.2022 NEXT STEP { secondRepeat: [13,14,15], firstRepeat: [16,17,18], learn: [19,20,21], marker: 'golden'}
+02.08.2022 NEXT STEP { secondRepeat: [16,17,18], firstRepeat: [19,20,21], learn: [22,23,24], marker: 'golden'}
+05.08.2022 NEXT STEP { secondRepeat: [19,20,21], firstRepeat: [22,23,24], learn: [25,26,27], marker: 'golden'}
+08.08.2022 NEXT STEP { secondRepeat: [22,23,24], firstRepeat: [25,26,27], learn: [28,29,30], marker: 'golden'}
+11.08.2022 NEXT STEP { secondRepeat: [25,26,27], firstRepeat: [28,29,30], learn: [31,32,33], marker: 'golden'}
+14.08.2022 NEXT STEP { secondRepeat: [28,29,30], firstRepeat: [31,32,33], learn: [34,35,36], marker: 'golden'}
+17.08.2022 NEXT STEP { secondRepeat: [31,32,33], firstRepeat: [34,35,36], learn: [37,38,39], marker: 'golden'}
+20.08.2022 NEXT STEP { secondRepeat: [34,35,36], firstRepeat: [37,38,39], learn: [40,41,42], marker: 'golden'}
+23.08.2022 NEXT STEP { secondRepeat: [37,38,39], firstRepeat: [40,41,42], learn: [43,44,45], marker: 'golden'}
+26.08.2022 NEXT STEP { secondRepeat: [40,41,42], firstRepeat: [43,44,45], learn: [46,47,48], marker: 'golden'}
+30.08.2022 NEXT STEP { secondRepeat: [43,44,45], firstRepeat: [46,47,48], learn: [49,50,51], marker: 'golden'}
+02.09.2022 NEXT STEP { secondRepeat: [46,47,48], firstRepeat: [49,50,51], learn: [52,53,54], marker: 'golden'}
+06.09.2022 NEXT STEP { secondRepeat: [49,50,51], firstRepeat: [52,53,54], learn: [55,56,57], marker: 'golden'}
+09.09.2022 NEXT STEP { secondRepeat: [52,53,54], firstRepeat: [55,56,57], learn: [58,59,60], marker: 'golden'}
+12.09.2022 NEXT STEP { secondRepeat: [55,56,57], firstRepeat: [58,59,60], learn: [634,635], marker: 'golden' }
 
 00.00.000 NEXT STEP { learn: { Orange: [1,2,3], Titanium: [1], }, }

@@ -1,5 +1,5 @@
 12.07.2022
-{3 golden blue}
+{3 golden}
 I have a result. I have a good result. I have an exellent result.
 I have a brilliant result. It's a brilliant idea. I have good results. I have some results. I have perfectly results.
 He has brilliant results. I have an idea. I have an interesting idea. It's an interesting idea. It's so 
@@ -13,7 +13,7 @@ It's a useless thing. It's a useless lesson. This thing is useless. I have a dre
 I have some plans. I have real knowledge which I get here. I have one dream.
 
 13.07.2022
-{1 golden blue}
+{1 golden}
 I want to speak English fluently. I want to speak English correctly. 
 I like learning English. I enjoy learning English. I enjoy doing it. I enjoy travelling. I enjoy
 sport. I enjoy watching this channel. I need your advice. I need your help. I really need your help. 
@@ -29,7 +29,7 @@ me a lot. They motivate me great. I enjoy learning English here because I improv
 thanks to this channel. I enjoy walking in the park because I breathe fresh air and I also improve 
 my health thanks to it.
 
-{2 golden blue}
+{2 golden}
 I enjoy walking in the park because I
 breath fresh air and I also improve my health thanks to it. I do this kind of exercises because I want 
 to speak English correctly. I enjoy watching this channel. We show brilliant results. I enjoy learning
@@ -47,7 +47,7 @@ I want to speak English fluently. I improve my health when I walk in the park an
 You really show outstanding rsults. I really doing this kind of exercises because they really help me
 and I have brilliant results. 
 
-{3 golden blue}
+{3 golden}
 I have a result. I have a good result. I have an exellent reult. I have a brilliant 
 result. It's a brilliant idea. I have good results. I have some results. I have exellent results.
 He has brilliant results. I have an idea. I have an interesting idea. It's an interesting idea. It's so
@@ -60,7 +60,7 @@ I have big plans. She has a small house. She has some plans. It's a useful lesso
 useful. It's a useless thing. It's a useless lesson. This thing is useless. I have a dream. I have a big
 dream. I have some plans. I have real knowledge which I get here.
 
-{4 golden blue}
+{4 golden}
 She has some problems. This thing is useless. It's a big mistake. I have a big house. I have some plans.
 He has brilliant results. I have a dream. I have a big dream. That method isn't effective. I have a good 
 result. It's a useful lesson. I have an idea. I have some results. It's a small mistake. It's a brilliant
@@ -74,7 +74,7 @@ This lesson is very useful. You have very interesting ideas. She has very big pr
 She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea.
 I have real knowledge which a get here. It's an expensive ticket. 
 
-{5 golden blue}
+{5 golden}
 It's a new car. It's a good idea. It's a bad thing. This level is very high. It's a high level. It's a low level.
 This level is very low. He's a young man. He has reach parents. He has a reach father. It's a long process.
 She has new interesting ideas. These details are very important. It's an important detail. It's an easy test.
@@ -91,7 +91,7 @@ person. He has big money. He has so many problems. He has very big money. I feel
 confidence. I want to feel more confidence. I feel very big confidence thanks to these sentences and my
 regular trainings. I feel great confidence.
 
-{6 golden blue}
+{6 golden}
 It's a beautiful place. It's a high level. He's talented. It's a difficult test. I have very positive 
 emotions. It's a simple exercise. It's an important detail. It's an easy task. She has this infotmation
 She's a talented person. This mistake is very common. I feel great confidence. He has reach parents. 
@@ -107,7 +107,7 @@ so simple. He's a young man. He has so many problems. It's a difficult exercise.
 I really feel more confidence.
 
 14.07.2022
-{1 golden blue}
+{1 golden}
 I want to speak English fluently. I want to speak English correctly. I like learning English.
 I enjoy learning English. I enjoy doing it. I enjoy travelling. I enjoy sport. I enjoy watching this channel.
 I need your advice. I need your help. I really need your help. I really enjoy listening to music. 
@@ -122,7 +122,7 @@ English here because I improve my knowledge thanks to this channel. I enjoy walk
 fresh air and I also improve my health thanks to it. 
 
 15.07.2022
-{2 golden blue}
+{2 golden}
 I enjoy walking in the park because I breath fresh air and also improve my health thanks to it. I do this
 kind of exercises because I want to speak English correctly. I enjoy watching this channel. We show brilliant
 results. I enjoy learning English. These lessons really help me. I need your advice. They often ignore 
@@ -139,7 +139,7 @@ I want to speak English fluently. I improve my health when I walk in the park an
 You really show outstanding results. I really enjoy doing this kind of exercises because they really help me
 and I have brilliant results.
 
-{3 golden blue}
+{3 golden}
 I have a result. I have a good result. I have an exellent result. I have a brilliant result. It's a brilliant idea. 
 I have good results. I have some results. I have exellent results. He has brilliant results. I have an idea.
 I have an interesting idea. It's an interesting idea. It's so interesting. This idea is interesting.
@@ -151,7 +151,7 @@ I have a big house. I have big plans. She has a small house. She has some plans.
 This lesson is very useful. It's a useless thing. This thing is useless. I have a dream. I have a big dream.
 I have some plans. I have real knowledge which I get here. I have one dream. 
 
-{4 golden blue}
+{4 golden}
 She has some problems. Tis thing is useless. It's a big mistake. I have a big house. I have some plans. He has 
 brilliant results. I have a dream. I have a big dream. That method isn't effective. I have a good result. 
 It's a useful lesson. I have an idea. I have some results. It's a small mistake. It's a brilliant idea. I have 
@@ -164,7 +164,7 @@ It's a useless lesson. This lesson is very useful. You have very interesting ide
 He has a dream. She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea.
 I have real knowledge which I get here. It's an expensive ticket.
 
-{5 golden blue}
+{5 golden}
 It's a new car. It's a good idea. It's a bad thing. This level is very high. It's a high level. It's a low level.
 This level is very low. He's a young man. He has reach parents. He has reach father. It's a long process. She has 
 She has new interesting ideas. This details are very important. It's an important. It's an easy test. It's a difficult
@@ -179,7 +179,7 @@ It's a basic level. This level is basic. He's very talented. She's a talented pe
 problems. He has very big money. I feel confidence. I feel more confidence. I want to feel more confidence. I feel very
 big confidence thanks to these exercises and my regular trainings. 
 
-{6 golden blue} 
+{6 golden} 
 It's a beautiful place. It's a high level. He's very talented. It's a difficult test. I have very positive emotions.
 It's a simple exercise. It's an important detail. It's an easy task. She has this information. She a talented person.
 This mistake is very common. I feel great He has reach parents. It's a common mistake. I feel confidence. He's a personal 
@@ -192,7 +192,7 @@ song. It's a low level. I feel great confidence thanks to thses exercises and my
 It's a bad thing. These exercises are so simple. He's a young man. He has so many problems. It's a difficult exercise. 
 I have so many questions. I really feel more confidence.
 
-{7 golden blue}
+{7 golden}
 It's a good idea. It's a very good idea. You have very good ideas. It's a very effective method. It's a very intensive course.
 It's a very popular channel. I prefer to watch intensive courses online. I prefer very intensive courses. It's a very high level.
 It's another example. It's another story. It's a very low level. It's a very funny video. It's a very funny joke. 
@@ -207,7 +207,7 @@ It's a very common mistake among students. It's a very common mistake which so m
 It's a very good result. I have very good results. It's a very deep lake. This lake is very deep. He has very deep knowledge
 in this area.
 
-{8 golden blue}
+{8 golden}
 He's a successful businessman. It's a very interesting question. They see that I have very good knowledge. It's a very common
 mistake among students. He's very weak. It's an old house. It's a long story. You're so lucky. It's a very high level.
 I prefer very intensive courses. It's a very important thing. It's a very important detail. It's a very good result. 
@@ -222,7 +222,7 @@ businessman. It's a very good idea. It's a very funny video. It's a very difficu
 idea. It's a very useful lesson. It's a very low level. They have very big problems. It's a very funny joke. It's a very deep 
 lake.
 
-{9 golden blue}
+{9 golden}
 The book is so interesting. It's such an interesting book. They often discuss such important things. These things are so important.
 It's such an interesting thing. This thing is so important. It's such a good idea. This idea is so good. It's such an effective method.
 This method is so effective. It's such a high level. I want to have such a high level. It's such a low level. He has such 
@@ -237,7 +237,7 @@ This mobile application is so useful. I want to apply these skills. I want to ap
 It's such a useful mobile application. This application is so popular. It's such a popular application.
 
 16.07.2022
-{4 golden blue}
+{4 golden}
 He has some problems. This thing is useless. It's a big mistake. I have a big house. I have some plans. He has
 brilliant results. I have a dream. I have a big dream. That method isn't effective. I have a good result. It's a 
 useful lesson. I have an idea. I have some results. It's a small mistake. It's a brilliant idea. I have one dream. 
@@ -250,7 +250,7 @@ a useless lesson. This lesson is very useful. You have very interesting ideas. S
 a dream. She has a small house. I have a result. I have big plans. It's my mistake. It's an interesting idea. I have real 
 knowledge which a get here. It's an expensive ticket. 
 
-{5 golden blue}
+{5 golden}
 It's a new car. It's a good idea. It's a bad thing. This level is very high. It's a high level. It's a low level. 
 He's a young man. He has reach parents. He has a reach father. It's a long process. She has new interesting ideas.
 These details are very important. It's an important detail. It's an easy test. It's a difficult test. It's a difficult 
@@ -266,7 +266,7 @@ person. He has big money. He has so many problems. He has very big money. I feel
 I want to feel more confidence. I feel very big confidence thanks to exercises and my regular trainings. I feel great 
 confidence. 
 
-{6 golden blue}
+{6 golden}
 It's a beautiful place. It's a high level. He's very talented. It's a difficult test. I have very positive emotions.
 It's a simple exercise. It's an important detail. It's an easy task. She has this information. She's a talented person.
 This mistake is very common. I feel great confidence. He has reach parents. It's a common mistake. I feel confidence.
@@ -281,7 +281,7 @@ He's a young man. He has so many problems. It's a difficult exercise. I have so 
 more confidence. 
 
 17.07.2022
-{7 golden blue}
+{7 golden}
 It's a good ideea. It's a very good idea. You have very good ideas. It's a very effective method. It's a very 
 intensive course. It's a very popular channel. I prefer to watch intensive courses online. I prefer very intensive courses.
 It's a very high level. It's another example. It's another story. It's a very low level. It's a very funny video. 
@@ -295,7 +295,7 @@ They make very common mistakes. I do very difficult exercises. It's a very commo
 mistake which so many people make. It's a very interesting question. It's a very good result. I have very good results. 
 It's a very deep lake. This lake is very deep. He has very deep knowledge in this area. 
 
-{8 golden blue}
+{8 golden}
 He's a successful businessman. It's a very interesting question. They see that a heve very good knowledge. It's a very common 
 mistake among students. He's very weak. It's an old house. It's a long story. You're so lucky. It's a very high level.
 I prefer very intensive courses. It's a very important thing. It's a very important detail. It's a very good result. 
@@ -310,7 +310,7 @@ He's a very successful businessman. It's a very good idea. It's a very funny vid
 It's a global problem. It's a very useful lesson. It's a very low level. They have very big problems. It's a very funny joke. 
 It's a very deep lake. 
 
-{9 golden blue}
+{9 golden}
 The book is so interesting. It's such an interesting book. They often discuss cuch important things. These things are so
 important. It's such an interesting thing. This thing is so important. It's such a good idea. This idea is so good. 
 It's such an effective method. This is so effective. This method is really effective. It's such a high level. I want to 
@@ -325,7 +325,7 @@ things are so obvious. It's such an obvious thing. It's such a famous place. It'
 application is so useful. I want to apply my knowledge. I want to apply these skills. I want to apply my knowledge of 
 English. It's such a useful mobile application. This application is so popular. It's such a popular application.
 
-{10 golden blue}
+{10 golden}
 It's such an effective method. It's such an obvious thing. It's such a good idea. Such things sometimes happen. 
 It's such a high level. They don't want to understand such obvious things. It's a terrible thing. It's such a popular
 application. He has such big problems. It's so boring. It's such simple thing. These things are so obvious. It's such 
@@ -340,7 +340,7 @@ He's so busy. It's such a boring video. The book is so interesting. This thing i
 This method is so effective. I want to apply this skills. It's such an interesting book. These things are so 
 important. He's so tired. He's such a busy person. I want to apply my knowledge of English. 
 
-{11 golden blue}
+{11 golden}
 We don't so such examples. We don't see such an example. I don't have such an opportunity. We don't have such 
 information. They don't have such money. He doesn't have such a chance. I don't have such a problem. It's a unique
 opportunity. It's such a unique opportunity. It's such a unique opportunity to learn English here. It's such a unique
@@ -356,7 +356,7 @@ It's such an effective method of learning foreign languages. It's a very effecti
 It's such an important playlist. It's such an informative playlist. It was such an anforgettable trip. This trip 
 was unforgettable.  
 
-{12 golden blue}
+{12 golden}
 I enjoy doing it. I enjoy learning foreign languages. I like learning foreign languages. I really like to communicating with 
 people from other countries. I really enjoy doing it. I like this kind of things. I really like this idea. I like this idea 
 a lot. You help me a lot. You help mu so much. It motivates me a lot. You inspire my greatly. This examples inspire me really. 
@@ -367,7 +367,7 @@ It's really very effective way of learning English. It's an outstanding achievem
 English for free. We can learn English for free here.
 
 18.07.2022
-{7 golden blue}
+{7 golden}
 It's a good idea. It's a very good idea. You have very good ideas. It's a very effective method. It's a very intensive course.
 It's a very popular channel. I prefer intensive courses online. I prefer very intensive courses. It's a very high level. 
 It's another example. It's another story. It's a very low level. It's a very funny video. It's a very funny joke. 
@@ -381,7 +381,7 @@ common mistakes. I do very difficult exercises. It's a very common mistake among
 so many people make. It's a very interesting question. It's a very good result. I have very good results. It's a very deep lake.
 This lake is very deep. He has very deep knowledge in this area.
 
-{8 golden blue}
+{8 golden}
 He's a successful businessman. It's a very interesting question. They see that I have very good knowledge. It's a very common 
 mistake among students. He's very weak. It's an old house. It's a long story. You're so lucky. It's a very high level. 
 I prefer very intensive courses. It's very important thing. It's a very important detail. It's a very good result. It's a very
@@ -396,7 +396,7 @@ businessman. It's a very good idea. It's a very funny video. It's a very difficu
 idea. It's a very useful lesson. It's a very low level. They have very big problems. It's a very funny joke. It's a very 
 deep lake. 
 
-{9 golden blue}
+{9 golden}
 The book is so interesting. It's such an interesting book. They often discuss such important things. These things 
 are so important. It's such an interesting thing. This thing is so important. It's such a good idea. This idea is 
 so good. It's such an effective method. This method is so effective. This method is really effective. It's such a 
@@ -411,7 +411,7 @@ things are so obvious. It's such an obvious thing. It's such a famous place. It'
 application is so useful. It's such a useful application. This application is so popular. It's such a popular application.
 
 19.07.2022
-{10 golden blue}
+{10 golden}
 It's such an effective method. It's such an obvious thing. It's such a good idea. Such things sometimes happen. 
 It's such a high level. They don't want to understand such obvious things. It's a terrible thing. It's such a popular
 application. He has such big problems. It's so boring. It's such a simple thing. These thing are so obvious. It's such 
@@ -426,7 +426,7 @@ boring video. The book is so interesting. This thing is so important. It's such 
 effective. I want to apply these skills. It's such an interesting book. These things are so important. He's so tired.
 He's such a busy person. I want to apply my knowledge of English. 
 
-{11 golden blue}
+{11 golden}
 We don't such examples. We don't see such an example. I don't have such an opportunity. We don't such information.
 They don't have such money. He doesn't have such a chance. I don't have such a problem. It's a unique opportunity. 
 It's such a unique opportunity. It's such a unique opportunity to learn English here. It's such a unique opportunity 
@@ -440,7 +440,7 @@ an informal answer. It's an unimportant thing. It's such an unimportant thing. I
 very effective method. It's a very effective method of learn English. It's such an effective method of learning English. 
 It's such an effective method of learning foreign languages. It's a very effective method of learning foreign languages.
 
-{12 golden blue}
+{12 golden}
 I enjoy doing it. I enjoy learning foreign languages. I like learning foreign languages. I really like communicating 
 with people from other countries. I really enjoy doing it. I like this kind of things. I really like this sort of 
 things. I really like this idea. I like this idea a lot. You help me a lot. You help me so much. It motivates me greatly.
@@ -451,7 +451,7 @@ It's a very profitable company. It's such a profitable company. It's really effe
 It's an outstanding achievement. It's such a unique opportunity to learn English for free. We can learn English for free here.
 
 20.07.2022
-{13 golden blue}
+{13 golden}
 My weak point. Brilliant results. Enjoy. Such a unique opportunity. An anforgettable trip. A high level. Another.
 My strong point. Know English like a native speaker. A long process. Chance. Speak English fluently and correctly.
 Inspire. A basic level. A global problem. Enthusiasm. Feel great confidence. Improve my English significantly.
@@ -463,7 +463,7 @@ Spelling. A common mistake. Pronunciation. Thanks to this channel. Breathe fresh
 Such a profitable company. Advice. Speak English correctly. An outstanding achievement. Improve my health. Learn 
 English for free. 
 
-{14 golden blue}
+{14 golden}
 We have such an opportunity. This lake is very deep. It's such an effective method of learning foreign languages. 
 It's a bad thing. You can learn English for free. I improved my speaking a lot. These exercises are so simple. 
 They motivate me a lot. It's a cheap thing. It's a very interesting question. I have real knowledge which I get here.
@@ -476,7 +476,7 @@ my English a lot. He's a young man. She has an interesting idea. It's such a bor
 application. I show exellent results. It's a long process. It motivates me greatly. This idea is so good. 
 
 22.07.2022
-{15 golden blue}
+{15 golden}
 It's a very common mistake among students. It's an outstanding achievement. I feel very big confidence thanks to 
 these exercises and my regular trainings. I enjoy learning English here because I improve my knowledge thanks to
 this channel. It's a very easy exercise. I don't like such food. It's such a popular application. I need your advice.
@@ -491,7 +491,7 @@ I improved my English significantly thanks to such an intensive training. This a
 such information. I feel great confidence. It's a very good idea. They often discuss such important things. 
 
 23.07.2022
-{10 golden blue}
+{10 golden}
 It's such an effective method. It's such an obvious thing. It's such a good idea. Such things sometimes happen. It's such a high 
 level. They don't want to understand such obvious things. It's a terrible thing. It's such a popular application. He has such big
 problems. It's so boring. It's such a simple thing. These things are so obvious. It's such an expensive hotel. He has so much 
@@ -505,7 +505,7 @@ book. They often discuss such important things. He's so busy. It's such a boring
 is so important. It's such a terrible thing. This method is so effective. I want to apply these skills. It's such an interesting
 book. These things are so important. He's so tired. He's such a busy person. I want to apply my knowledge of English. 
 
-{11 golden blue}
+{11 golden}
 We don't see such examples. We don't see such an example. I don't have such an opportunity. We don't have such information. 
 They don't have such money. He doesn't have have such a chance. I don't have such a problem. It's a unique opportunity.
 It's such a unique opportunity. It's such a unique opportunity to learn English here. It's such a unique opportunity to 
@@ -520,7 +520,7 @@ It's a very effective method of learning English. It's such an effective method 
 effective method of learning foreign languages. It's a very effective method of learning foreign languages. 
 It's such an important playlist. It's such an informative playlist. It's was an unforgettable trip. 
 
-{12 golden blue}
+{12 golden}
 I enjoy doing it. I enjoy learning foreign languages. I like learning foreign languages. I really like foreign languages.
 I really like communicating with people from other countries. I like this king of things. I really like this idea. 
 I like this idea a lot. You help me a lot. You help me so much. It's motivates me greatly. You inspire me greatly.
@@ -531,7 +531,7 @@ very profitable company. It's such a profitable company. It's really effective m
 achievement. It's such a unique opportunity to learn English for free. We can learn English for free here.
 
 24.07.2022
-{13 golden blue}
+{13 golden}
 My weak point. Brilliant results. Enjoy. Such a unique opportunity. An unforgettable trip. A high level. Another. 
 My strong point. Know English like a native speaker. A long process. Chance. Speak English fluently and correctly. 
 Inspire. A basic level. A global problem. Enthusiasm. Feel great confidence. Improve my English significantly. 
@@ -544,7 +544,7 @@ Breathe fresh air. This kind of exercises. Help me a lot. Such a profitable comp
 An outstanding achievement. Improve my health. Learn English for free.
 
 25.07.2022
-{14 golden blue}
+{14 golden}
 We have such an opportunity. This lake is very deep. It's such an effective method of learning foreign languages.
 It's a bad thing. You can learn English for free. I improved my speaking a lot. These exercises are so simple. 
 They motivate me a lot. It's a cheap thing. It's a very interesting question. I have real knowledge which I get here.
@@ -556,7 +556,7 @@ I have very positive emotions. It's such a famous place. This lesson is very use
 He's a young man. She has an interesting idea. It's such a boring book. It's such a useful mobile application. 
 I show exellent results. It's a long process. It motivates me greatly. This idea is so good. 
 
-{15 golden blue}
+{15 golden}
 It's a very common mistake among students. It's an outstanding achievement. I feel very big confidence thanks to 
 these exercises and my regular trainings. I enjoy learning English here because I improve my knowledge greatly 
 thanks to this channel. It's a very easy exercise. I don't like such food. It's such a popular mobile application.
@@ -572,7 +572,7 @@ application is so popular. We don't have such information. I feel great confiden
 discuss such important things. 
 
 26.07.2022
-{16 golden blue}
+{16 golden}
 You inspire me greatly. He's so talented. She has an idea. It's my mistake. I improved my reading greatly. They motivate
 my greatly. He has good results. I really enjoy English. I have a dream. It's a very old house. She has a small house.
 It's a very popular channel. He has such an interesting idea. He wears such cheap clothes. It's an unimportant detail.
@@ -583,7 +583,7 @@ They don't have such an opportunity. I have very good knowledge which I get here
 more confidence. It's so boring. I prefer to learn English for free. I like this kind of things. It's a very simple task.
 They have very big problems. They don't understand such simple things. It's my weak point. 
 
-{17 golden blue}
+{17 golden}
 They don't have such money. The asnwer is obvious. She has very big problems. I have one interesting plan. You're lucky.
 It's a very funny joke. I improved my pronunciation a lot. He does it like him. He has a dream. This sentence is 
 negative. I really like this idea. I want to apply all these skills. It's really a good idea. I really enjoy listening
@@ -595,7 +595,7 @@ to music. I improved my pronunciation significantly thanks to this playlist. You
 She has some plans. I don't have such an opportunity. I improve my English when I walk in the park and breathe fresh
 air. I want to apply my skills. I don't have such a problem. He's very talented. It's small mistake. 
 
-{18 golden blue}
+{18 golden}
 He's a successful businessman. He's very srtong. I improved my spelling a lot. I enjoy walking in the park because 
 I breathe fresh air and a also improve my health thanks to it. I have very good results. These things are so obvious. 
 I improve my speaking significantly thanks to this practice. It's a useful lesson. They often discuss such boring things.
@@ -609,7 +609,7 @@ negative sentence. I do these exercises because i don't want to make mistakes. S
 such a teacher. I have such an opportunity. They don't want to understand such obvious things. 
 
 30.07.2022
-{13 golden blue}
+{13 golden}
 My weak point. Brilliant results. Enjoy. Such a unique opportunity. An unforgettable trip. A high level. Another. 
 My strong point. Know English a native speaker. A long process. Chance. Speak English fluently and correctly.
 Inspire. A basic level. A global problem. Enthusiasm. Feel great confidence. Improve my English significantly. 
@@ -622,7 +622,7 @@ This kind of exercises. Help me a lot. Such a profitable company. Advice. Speak 
 achievement. Improve my health. Learn English for free. 
 
 31.07.2022
-{14 golden blue}
+{14 golden}
 We such an opportunity. This lake is very deep. It's such an effective method of learning foreign languages. 
 It's a bad thing. You can learn English for free. I improved my speaking a lot. These exercises are so simple. 
 They motivate me a lot. It's a cheap thing. It's a very interesting question. I have real knowledge which I get 
@@ -634,7 +634,7 @@ an important thing. I have very positive emotions. It's such a famous place. Thi
 my speaking greatly. He's a young man. She has an interesting idea. It's such a boring book. It's such a useful 
 mobile application. I show exellent results. It's a long process. It motivates me greatly. This idea is so good. 
 
-{15 golden blue}
+{15 golden}
 It's a very common mistake among students. It's an outstanding achievement. I feel very big confidence thanks to 
 these exercises and my regular trainings. I enjoy learning English here because I improve my knowledge greatly thanks to
 this channel. It's a very easy exercise. I don't like such food. It's such a popular application. I need your advice.
@@ -649,7 +649,7 @@ thanks to such an intensive training. This application is so popular. We don't h
 confidence. It's a very good idea. They often discuss such important things. 
 
 01.08.2022
-{16 golden blue}
+{16 golden}
 You inspire me greatly. He's so talented. She has an idea. It's my mistake. I improved my reading greatly. They motivate 
 me greatly. He has good results. I really enjoy English. I have a dream. It's a very old house. She has a small house.
 It's a very popular channel. He has such an interesting idea. He wears such cheap clothes. It's an unimportant detail. 
@@ -660,7 +660,7 @@ They don't have such an opportunity. I have very good knowledge which I get here
 more confidence. It's so boring. I prefer to learn English for free. I like this kind of things. It's a very simple
 task. They have very big problems. They don't understand such simple things. It's my weak point.
 
-{17 golden blue}
+{17 golden}
 They don't have such money. The answer is obvious. She has very big problems. I have one interesting plan. You're 
 lucky. It's a very funny joke. I improved my pronunciation a lot. He does it like him. He has a dream. This sentence is
 negative. I really like this idea. I want to apply all these skills. It's really a good idea. I really enjoy listening 
@@ -672,7 +672,7 @@ my pronunciation significantly thanks to this playlist. You're so lucky. They're
 such an opportunity. I improve my English when I walk in the park and breathe fresh air. I want to apply my skills. 
 I don't have sucn a problem. He's very talented. It's a small mistake. 
 
-{18 golden blue}
+{18 golden}
 He's a successful businessman. He's very strong. I improved my spelling a lot. I enjoy walking in the park because 
 I breathe fresh air and and I also improve my health thanks to it. I have very good results. These things are so 
 obvious. I improved my speaking significantly thanks to this practice. It's a useful lesson. They often discuss such
@@ -687,7 +687,7 @@ mistakes. She's a talented person. They don't have such a teacher. I have such a
 understand such an obvious things.
 
 02.08.2022
-{19 golden blue}
+{19 golden}
 He's a successful businessman. He's very strong. I improved my spelling a lot. I enjoy walking in the park because 
 I breathe fresh air and a also improve my health thanks to it. I have very good results. These things are so obvious.
 I improved my speaking significantly thanks to this practice. It's a useful lesson. They often discuss such boring 
@@ -700,7 +700,7 @@ outstanding person. You have very interesting ideas. I know such people. It's a 
 results. We use it in a negative sentence. I do these exercises because I don't want to make mistakes. She's a talented
 person. They don't have such a teacher. I have such an opportunity. They don't want to understand such obvious things.
 
-{20 golden blue}
+{20 golden}
 I improved my grammar greatly. He's a professional teacher. It's a popular song. I have an interesting plan. They make 
 very common mistakes. I often hear such things. These mistakes are very common among students. I don't make such mistakes.
 I want to have such a high level. It's a very important detail. It's a big mistake. I improved my grammar a lot thanks to
@@ -711,7 +711,7 @@ test. It's an easy task. It's an ineffective method. Those lessons hepl me so mu
 funny video. I have some plans. It's a very useful lesson. He's so tired. I enjoy sport. It's such a terrible thing. 
 He's a very strong man. I have such friends. She has this information. I have a result. These things help me a lot. 
 
-{21 golden blue}
+{21 golden}
 I enjoy doing it. I like learning English. I prefer to watch intensive courses online. I learn English for free. 
 She has some problems. It's such a unique opportunity to use these materials. I really like this course. These things 
 help me greatly. He's so successful. These resources are so useful. I want to know English like a native speaker. 
@@ -724,7 +724,7 @@ We try to do something. I feel confidence. He's very weak. It's such a unique op
 It's a new car. He's such a busy person. You really show outstanding results. He has reach parents. 
 
 03.08.2022
-{16 golden blue}
+{16 golden}
 You inspire me greatly. He's so talented. She has an idea. It's my mistake. I improved my reading greatly. They motivate me greatly. 
 He has good results. I really enjoy English. I have a dream. It's a very old house. She has a small house. It's a very 
 popular channel. He has such an interesting idea. He wears such cheap clothes. It's an unimportant detail. It's useful. 
@@ -735,7 +735,7 @@ I have very good knowledge which I get here. It's a very famous place. I really 
 I prefer to learn English for free. I like this kind of tings. It's a very simple task. They have very big problems. 
 They don't understand such simple things. It's my weak point. 
 
-{17 golden blue}
+{17 golden}
 They don't have such money. The answer is obvious. She has very big problems. I have one interesting plan. You're lucky.
 It's a very funny joke. I improved my pornunciation a lot. He does it like him. He has a dream. This sentence is negative. 
 I really like this idea. I want to apply all these skills. It's really a good idea. I really enjoy listening to music. 
@@ -747,7 +747,7 @@ to this playlist. You're so lucky. They're lucky. She has some plans. I don't ha
 when I walk in the park and breathe fresh air. I want to apply my skills. I don't have such a problem. He's very talented. 
 It's a small mistake. 
 
-{18 golden blue}
+{18 golden}
 He's a successful businessman. He's very strong. I improved my spelling greatly. I enjoy walking in the park because I breathe 
 fresh air and I also improve my health thanks to it. I have a very good results. This things are so obvious. I improved my speaking
 significantly thanks to this practice. It's a useful lesson. They often discuss such boring things. He's so busy. 
@@ -761,7 +761,7 @@ sentence. I do these exercises because I don't want to make mistakes. She's a ta
 teacher. I have such an opportunity. They don't want to understand such obvious things. 
 
 04.08.2022
-{19 golden blue}
+{19 golden}
 I do this kind of exercises because I want to speak English correctly. He has a very interesting idea. I improved my 
 spelling greatly. I improved my grammar a lot. It's an important detail. I don't have such confidence but I work on it. 
 It's a common mistake. I want to speak English like her. It's a very intensive course. It's an another example. 
@@ -774,7 +774,7 @@ a lucky person. He does it like us. This exercise is really simple. It's a very 
 common. I feel real confidence. These things are so boring. It's a very difficult test. I improved my writing 
 significantly. It's really a very effective way of learning English. I have big plans. 
 
-{20 golden blue}
+{20 golden}
 I improved my grammar greatly. He's a professional teacher. It's a popular song. I have an interesting plan. They make
 very common mistakes. I often here such things. These mistakes are very common among students. I don't make such 
 mistakes. I want to have such a high level. It's a very important detail. It's a big mistake. I improved my grammar 
@@ -786,7 +786,7 @@ me so much. He has brilliant results. It's a very funny video. I have some plans
 so tired. I enjoy sport. It's such a terrible thing. He's a very strong man. I have such friends. She has this 
 information. I have a result. These things help me a lot. 
 
-{21 golden blue}
+{21 golden}
 I enjoy donig it. I like learning English. I prefer to watch intensive courses online. I learn English for free. 
 She has some problems. It's such a unique opportunity to use these materials. I really like these course. These things 
 help me greatly. He's so successful. These resources are so useful. I want to know English like a native speaker.
@@ -799,7 +799,7 @@ something. I feel confidence. He's very weak. It's such a unique opportunity to 
 He's such a busy person. You really show outstanding results. He has reach parents.   
 
 05.08.2022
-{22 golden blue}
+{22 golden}
 He's a very talented boy. I improved my writing a lot. I have some results. This method is so effective. I want to 
 apply my knowledge and skills. The book is so interesting. It's such a boring story. I don't think that He's such a 
 successful businessman. I want to know English like native speakers. These details are very important. It's such an 
@@ -812,7 +812,7 @@ such a formal answer. I really need these things. I have so many friends. She ha
 enthusiasm. They often ignore these problems. It's a difficult exercise. I have so many questions. I have a big 
 dream. He has such big problems. 
 
-{23 golden blue}
+{23 golden}
 I really enjoy doing this kind of exercises because they really help me and heve brilliant results. He has very deep 
 knowledge in this area. We don't see such an example. She makes so many mistakes. It's a very effective way of learning 
 foreign languages. I enjoy watching this channel. I really feel more confidence. He's really lucky. It's a profitable 
@@ -827,7 +827,7 @@ resource. It's a formal answer. It's a very profitable business. We have such a 
 feel more confidence. I don't make so many mistakes because I have so much practice. I really want to apply all these 
 knowledge which I get here. 
 
-{24 golden blue}
+{24 golden}
 I want to be a real expert in this area. We have more than enough time to do it. I do it really well and wa all see your 
 professionalism. They say it from time to time and this information can be very interesting for you. I want to say
 that I feel much more progress when I train very intensively and regularly. I want to tell you that I have a good job.
@@ -840,7 +840,7 @@ I have motivation to continue doing it. They do it to earn more money. They do i
 different examples. 
 
 05.08.2022
-{19 golden blue}
+{19 golden}
 I do this kind of exercises because I want to speak English correctly. He has very interesting idea. I improved my 
 spelling greatly. I improved my grammar a lot. It's an important detail. I don't have such confidence but I work on
 it. It's a common mistake. I want to speak English like her. It's a very intensive course. It's an another example. 
@@ -853,7 +853,7 @@ You're lucky person. He does it like us. This exercise is really simple. It's a 
 common. I feel real confidence. These things are so boring. It's a very difficult test. I improved my writing significantly.
 It's really a very effective way of learning English. I have big plans. 
 
-{20 golden blue}
+{20 golden}
 I improved my grammar greatly. He's a professional teacher. It's a popular song. I have an interesting plan. They make 
 very common mistakes. I often hear such things. These mistakes are very common among students. I don't make such 
 mistakes. I want to have such a high level. It's a very important detail. It's a big mistake. I improved my grammar a 
@@ -865,7 +865,7 @@ brilliant results. It's a very funny video. I have some plans. It's a very usefu
 sport. It's such a terrible thing. He's a very strong man. I have such friends. She has this information. I have 
 a result. These things help me a lot. 
 
-{21 golden blue} 
+{21 golden} 
 I enjoy doing it. I like learning English. I prefer watching intensive courses online. I learn English for free. 
 She has so problems. It's such a unique opprotunity to use these materials. I really like this course. These things 
 help greatly. He's so successful. These resources are so useful. I want to know English like a native speaker. 
@@ -878,7 +878,7 @@ something. I feel confidence. He's very weak. It's such a unique to learn Englis
 a busy person. You really show outstanding results. He has reach parents.  
 
 07.08.2022
-{22 golden blue}
+{22 golden}
 He's a very talented boy. I improved my writing a lot. I have some results. This method is so effective. I want to apply 
 my knowledge and skills. The book is so interesting. It's such a boring story. I don't think that he's such a successful 
 businessman. I want to know English like a native speaker. These deatils are very important. It's such an unimportant 
@@ -890,7 +890,7 @@ This thing is important. He has such interesting ideas. It's a very long story. 
 these things. I have so many friends. She has so many ideas. He has so much enthusiasm. They often ignore these problems. 
 It's a difficult exercise. I have so many questions. I have a big dream. He has such big problems. 
 
-{23 golden blue}
+{23 golden}
 I really enjoy doing this kind of exercises because they really help me and a have brilliant results. He has very deep knowledge 
 it this area. We don't see such an example. She makes so many mistakes. It's a very effective way of learning foreign languages. 
 I enjoy watching this channel. I really feel more confidence. He's really lucky. It's a profitable company. I think 
@@ -905,7 +905,7 @@ It's a formal answer. It's a very profitable business. We have such a unique opp
 more confidence. I don't make so many mistakes because I have so much practice. I really want to apply all these skills 
 which a get here. 
 
-{24 golden blue}
+{24 golden}
 I want to be a real expert in this area. We have more than enough time to do it. You do it really well and we all see
 your professionalism. They say it from time to time and this information can be interesting for you. I want to say that 
 I feel much more progress when I train very intensively adn regularly. I want to tell you that I heve a good job. 
@@ -918,7 +918,7 @@ people who live abroad. I have motivation to continue doing it. They do it to ea
 people. We see two different examples. 
 
 08.08.2022
-{25 golden blue}
+{25 golden}
 I want to tell you that I have a good job. I want to say that I feel much more progress when I train very intensively and
 regularly. I want to say that I continue doing it. I have motivation. I try to work on my weak points. I have an aim to 
 find a good job. I want to tell you that I continue learning English. I want to be a real expert in this area. 
@@ -931,7 +931,7 @@ interesting for you. I have an aim. I have a dream. I have an aim to get a well-
 They invest their money and time in this project. I have an aim to learn English. I like the idea of free video 
 English lessons. I prefer to invest my time in Education because I really want to improve my knowledge. 
 
-{26 golden blue}
+{26 golden}
 It attracts our attention. He complains on it. She recommends this book. He does everything with great pleasure. 
 She goes to the swimming pool twice a week. She teaches English in another place. She misses you. He misses you 
 a lot. I miss you greatly. She usually washes the dishes. It really worries me. He often plays this game. He sometimes 
@@ -942,7 +942,7 @@ more independent. He wnats to be successful and financially independent. She tri
 to do it more regularly. She really enjoys doing it. He continues work on this project. They like spending time 
 together. She really like travelling. 
 
-{27 golden blue}
+{27 golden}
 She tries to change her life. Sometimes he complains about it. He never tells us about these things. I never do it. 
 She teaches English in another place. She wants to be more independent. She recommends this book. I sometimes get 
 up later than usual. He often ignores such tings. It really worries me. He continues working on this project.
@@ -956,7 +956,7 @@ dishes. He goes to the swimming pool two times a week. She usually goes to the s
 up later than usual. 
 
 09.08.2022
-{22 golden blue}
+{22 golden}
 I really enjoy doing this kind of exercises because they really help me and I have brilliant results. He has very deep 
 knowledge in this area. We don't see such an example. She makes so many mistakes. It's a very effective method of 
 learning foreign languages. I enjoy watching this channel. I really feel more confidence. He's really lucky. It's a 
@@ -971,7 +971,7 @@ method of learning English. It's a very useful resource. It's a formal answer. I
 We have such a unique opportunity. I'm so happy that I feel more confidence. I don't make so many mistakes because 
 I have so much practice. I really want to apply all these knowledge which a get here. 
 
-{23 golden blue}
+{23 golden}
 I really enjoy doing this kind of exercises because they really help me and I have brilliant results. He has very deep 
 knowledge in this area. We don't see such an example. She makes so many mistakes. It's a very effective method of 
 learning foreign languages. I enjoy watching this cahnnel. I really feel more confidence. He's really lucky. It's 
@@ -986,7 +986,7 @@ method of learning English. It's a very useful resource. It's a formal answer. I
 We have such a unique opportunity. I'm so happy that I feel more confidence. I don't make so many mistakes because 
 I have so much practice. I really want to apply all this knowledge which a get here. 
 
-{24 golden blue}
+{24 golden}
 I want to be a real expert in this area. We have more than enough time to do it. You do it really well and we all 
 see your professionalism. They say it from time to time and this information can be very interesting for you. 
 I want to say that I feel much more progress when I train very intensively and regularly. I want to tell you that 
@@ -999,7 +999,7 @@ with other people who live abroad. I have a motivation to continue doing it. The
 it to help other people. We see two different examples. 
 
 10.08.2022
-{25 golden blue}
+{25 golden}
 I want to tell that I have a good job. I want to say that I have much more progress when I train very intensively and
 regularly. I want to say that I continue doing it. I have motivation. I try to work on my weak points. I have an aim to
 find a good job. I want to tell you that I continue learning English. I want to be a real expert in this area. 
@@ -1012,7 +1012,7 @@ interesting for you. I have an aim. I have a dream. I have an aim to get a well-
 They invest their money and time it this project. I have a dream to learn English. I like the idea of free video 
 English lessons. I prefer to invest my time in Education because I really want to improve my knowledge. 
 
-{26 golden blue}
+{26 golden}
 It attracts our attention. He complains about it. She recommends this book. He does everything with great pleasure.
 She goes to the swimming pool twice a week. She teaches English in another place. She misses you. He misses you a lot. 
 I miss you very much. She usually washes the dishes. It really worries me. He often plays this game. He sometimes plays 
@@ -1023,7 +1023,7 @@ He wants to be successful and financially independent. She tries to change here 
 She really enjoys doing it. He continues working on this project. They like spending time together. She really likes 
 travelling. 
 
-{27 golden blue}
+{27 golden}
 She tries to change here life. Sometimes he complains about it. He never tells us about these things. I never do it. 
 She teaches English in another place. She wants to be more independent. She recommends this book. I sometimes get up
 later than usual. He often ingore such things. It really worries me. He continues working on this project. She really 
@@ -1037,7 +1037,7 @@ He goes to the swimming pool two times a week. She usually goes to the swimming 
 later than usual.    
 
 11.08.2022
-{28 golden blue}
+{28 golden}
 This thing really motivates me. These things really motivate me. This speech really inspires me. These examples really 
 inspire me. This student shows outstanding results. These students show brilliant results. This lesson seems useful. 
 These lessons look very informative. The lesson seems very boring. Games seem very tiring.
@@ -1052,7 +1052,7 @@ that money always brings people happiness. I don't think that money always bring
 seems really strange. This practice seems really extremely important. This knowledge makes me smarter and more 
 educated. 
 
-{29 golden blue}
+{29 golden}
 Those things seem very tiring. The problems seems very small but a don't think so. The book seems very boring.
 This knowledge make me smarter and more educated. This game seems so thrilling. The girl has so many talents. 
 My friend has another opinion. I don't think that money always brings happiness to people. These girls study 
@@ -1068,7 +1068,7 @@ happiness. This practice seems extremely important. The news seems really strang
 The boys study very well. These ideas looks quite innovative. The boy goes to this school. My mother works as a 
 doctor. These articles seem so interesting. 
 
-{30 golden blue}
+{30 golden}
 I don't know why it happens. We don't understand why she always says it. You don't realize the importance of this 
 thing. They don't want to change anything. They don't have this experience. I see you don't want to live here and 
 a perfectly understand you. I perfectly realize the importance of these things but they don't see it. I don't want 
@@ -1083,7 +1083,7 @@ here. I want to develop in another area. I want to stop working here because I f
 place and I can do much more. 
 
 12.08.2022
-{25 golden blue}
+{25 golden}
 I wnat to tell you that I have a good job. I want to say that I feel much more progress when I train very intensively 
 and regularly. I want to say that I continue doing it. I have motivation. I try to work on my weak points. I have 
 an aim to find a good job. I want to tell you that I continue learning English. I want to be a real expert in this 
@@ -1097,7 +1097,7 @@ I often compare our results. Thet invest this money and time in this project. I 
 the idea of free video English lessons. I prefer to invest my time in Education because I really want to improve me 
 knowledge. 
 
-{26 golden blue}
+{26 golden}
 It attracts our attention. He compalains it. She recommends this book. He does everything with great pleasure. 
 She goes to the swimming pool twice a week. She teaches English in another place. She misses you. He misses you
 a lot. I miss you very much. She usually wahses the dishes. It's really worries me. He often plays this game.
@@ -1108,7 +1108,7 @@ to be more independent. He wants to be successful and financially independent. S
 to do it more regularly. She really enjoys doing it. He continues working on this project. They like spending time 
 together. She really like travelling. 
 
-{27 golden blue}
+{27 golden}
 She tries to change her life. Sometimes he complains about it. He never tells us about these things. I never do it.
 She teaches English in another place. She wants to be more independent. She recommends this book. I sometimes 
 get up later than usual. He often ignores such things. It really worries me. He continues working on this project. 
@@ -1122,7 +1122,7 @@ She usually washes the dishes. He goes to the swimming pool two times a week. Sh
 twice a week. He often gets up later than usual.   
 
 13.08.2022
-{28 golden blue}
+{28 golden}
 This thing really motivates me. These things really motivate me. This speech really inspires me. These examples really
 inspire me. This student shows outstanding results. These students show brilliant results. This lesson seem 
 extremely useful. These lessons look very informative. The lesson seems very boring. Games seem very tiring. 
@@ -1136,7 +1136,7 @@ These idaes look quite innovative. This information seems quite reliable. I don'
 people happiness. I don't think that money always brings happiness to people. The news seems really strange. 
 This practice seems extremely important. These knowledge makes me smarter and more educated. 
 
-{29 golden blue}
+{29 golden}
 Those things seem very tiring. The problems seems very small but I don't think so. The book seems very boring. 
 These knowledge makes me smarter and more educated. This game seems so thrilling. This girl has so many talents. 
 My friend has another opinion. I don't think that money always brings happiness to people. These girls study in
@@ -1152,7 +1152,7 @@ practice seems extremely important. The news seems really strange. My father doe
 well. These ideas look quite innovative. The boy goes to this school. My mother works as a doctor. These articles 
 seem so interesting. 
 
-{30 golden blue}
+{30 golden}
 I don't know why it happens. We don't understand why she always says it. You don't realize the importance of this 
 thing. They don't want to change anything. They don't have this experience. I see you don't want to live here 
 and I perfectly understand you. I perfectly realize the importance of these things but they don't see it. I don't 
@@ -1167,7 +1167,7 @@ working here. I want to develop in another area. I want to stop working here bec
 in this place and I can do much more. 
 
 14.08.2022
-{31 golden blue}
+{31 golden}
 I don't want to think about it at all. I don't recommend this book to you. I want to stop working here because I 
 feel that I don't develop in this place and I can do much more. I don't want to continue donig it. They don't help
 me at all. I recommend this channel to my friends. They don't want to change anything. We don't understand why she 
@@ -1182,7 +1182,7 @@ recommend this course to us. I don't thik it really works. This method seems so 
 working here. I want to develop in another area. We don't want to waste time because time flies and we can't turn 
 it back. 
 
-{32 golden blue}
+{32 golden}
 This result doesn't inspire me. These achievements don't inspire me. This thing doesn't seem so important. These things 
 don't seem so important. These things don't help me at all. Those lessons don't help me at all. The boy doesn't know 
 it. The boys don't like this idea. These people don't understand the seriousness of these things. This person 
@@ -1195,7 +1195,7 @@ of view. This house doesn't cost so much. These things don't cost this money. He
 people real happiness. English doesn't seem so simple. This test doesn't look so easy. Those exercises don't help me 
 so much. That course doesn't give me real knowledge. This place doesn't look so attractive. 
 
-{33 golden blue}
+{33 golden}
 Those exercises don't help me so much. This house doesn't cost so much. His father doesn't do business he works 
 as a marketing specialist. These achievement don't inspire me. English doesn't seem so simple. This person doesn't 
 understand the seriousness of this situation. My acquaintances don't think so. This test doesn't look so easy. 
@@ -1210,7 +1210,7 @@ help me at all. His wife doesn't work in medicine. She works in another sphere. 
 He thinks that money doesn't bring people real happiness. 
 
 15.08.2022
-{28 golden blue}
+{28 golden}
 This thing really motivates me. These things really motivate me. This speech really inspires me. These examples really 
 inspire me. This student shows outstanding results. These students show brilliant results. This lesson seems extremely 
 useful. These lessons look very informative. The lesson seems very boring. Games seem very tiring. The problem 
@@ -1224,7 +1224,7 @@ looks quite innovative. This information seems quite reliable. I don't think tha
 I don't think that money always brings happiness to people. The news seems really strange. This practice seems 
 extremely important. This knowledge makes me more smarter and educated. 
 
-{29 golden blue}
+{29 golden}
 Those things seem very tiring. The problems seem very small but I don't think so. The book seems very boring. 
 These knowledge makes me smarter and more educated. This game seems so thrilling. This girl has so many talents. 
 My friend has another opinion. I don't think that money always brings happiness to people. These girls study in 
@@ -1240,7 +1240,7 @@ happiness. This practice seems extremely important. The new seems really strange
 The boys study very well. These ideas look quite innovative. The boy goes to this school. My mother works as a 
 doctor. These articles seem so interesting. 
 
-{30 golden blue}
+{30 golden}
 I don't know why it happens. We don't understand why she always says it. You don't realize the importance of this 
 thing. They don't want to change anything. They don't this experience. I see you don't want to live here and I 
 perfectly understand you. I perfectly realize the importance of these things but they don't see it. I don't want 
@@ -1255,7 +1255,7 @@ want to continue working here. I want to develop in another area. I want to stop
 I don't develop in this palce and I can do much more. 
 
 16.08.2022
-{31 golden blue}
+{31 golden}
 I don't want to think about it at all. I don't recommend this book to you. I want to stop working here because I 
 feel that I don't develop in this palce and I can do much more. I don't want to continue doing it. They don't help 
 me at all. I reacommed this channel to my friends. They don't want to change anything. We don't understand why she 
@@ -1270,7 +1270,7 @@ don't recommend this course to us. I don't think it really works. This method se
 to continue working here. I want to develop in another area. We don't want to waste time because time flies and we 
 can't turn it back. 
 
-{32 golden blue}
+{32 golden}
 This result doesn't inspire me. These achievements don't inspire me. This thing doesn't seem so important. These 
 things don't seem so important. These things don't help me at all. Those lessons don't help me at all. The doy 
 doesn't know it. The doys don't like this idea. These people don't understand the seriousness of these things. 
@@ -1283,7 +1283,7 @@ another point of view. This house doesn't so much. These things don't cost this 
 bring people real happiness. English doesn't seem so simple. This test doesn't look so easy. Those exercises don't 
 help me so much. That course doesn't give me real knowledge. This place doesn't look so attractive. 
 
-{33 golden blue}
+{33 golden}
 Those exercises don't help me so much. This house doesn't cost so much. His father doesn't do business he work as 
 a marketing specialist. These achievements don't inspire me. English doesn't seem so simple. This person doesn't 
 understand the seriousness of this situation. My acquaintances don't think so. This test doesn't look so easy. 
@@ -1298,7 +1298,7 @@ help me at all. His wife doesn't work in medicine. She works in another sphere. 
 He thinks that money doesn't brings real happiness to people.
 
 17.08.2022
-{34 golden blue}
+{34 golden}
 Do I improve my results? Do we become more confident and fluent in English? Do you like this format? Do they share
 your point of view? Do they lack professionalism? Do you lack experience? Do I lack this knowledge? Do you want to 
 know the truth? Do you want to eat? Do you prefer to work from home? Do you try to change it? Do try to influence him?
@@ -1311,7 +1311,7 @@ Do you know what to do in this situation? Do you know how to get there? Do you k
 Do you think you can change the situation? Do you think that you can change this situation? Do you think it can 
 help us? Do you understand why I do it? Do you understand that I do it because I want to help you? 
 
-{35 golden blue}
+{35 golden}
 Do we become more confident and fluent in English? Do you think that she does the right thing? Do you know how to get
 to that place? Do you think you can change the situation? Do you think that you can change this situation? Do they 
 always say it? Do you understand why he does it? Do you try to influence this situation? Do you understand that I do 
@@ -1326,7 +1326,7 @@ to influence him? Do you become more confident and fluent in English? Do I impro
 truth? Do you see that you improve your English greatly here? Do they share you point of view? Do you know how to get 
 to this place? Do you understand why I do it? Do you try to influence her? Do you know what to do in this situation?
 
-{36 golden blue}
+{36 golden}
 Does he know the right answer? Does she have the same problem? Does it bring people happiness? Does it bring happiness 
 to people? Does she have similar opinion? Does he have similar ideas? Does it really motivate you? Does it really inspire 
 you? Does she like this idea? Does she really like this idea? Does he really want to do it? Does he really want to have 
@@ -1340,7 +1340,7 @@ mistakes? Does he understand that only lots of practice can really help him? Doe
 depend only on him? Does she realize the importance of these tings? Does he realize that it's very important to do it?
 
 18.08.2022
-{31 golden blue}
+{31 golden}
 I don't want to think about it at all. I don't recommend this book to you. I want to stop working here because I feel that 
 I don't develop in this place and I can do much more. I don't want to continue doing it. They don't help me at all. I 
 recommend this channel to my friends. They don't want to change anything. We don't understand why she always says it.
@@ -1354,7 +1354,7 @@ I don't agree with it. I have another opinion. They don't have this experience. 
 us. I don't think it really works. This method seems so ineffective. I don't want to continue working here. I want to 
 develop in another area. We don't want to waste time because time flies and we can't turn it back. 
 
-{32 golden blue}
+{32 golden}
 This result doesn't inspire me. These achievements don't inspire me. This thing doesn't seem so important. These 
 things don't seem so important. These things don't help me at all. Those lessons don't help me at all. The boy 
 don't know it. The boys don't like this idea. These people don't understand the seriousness of these things.
@@ -1368,7 +1368,7 @@ He thinks that money doesn't brings people real happiness. English doesn't seem 
 so easy. Those exercises don't hepl me so much. That course doesn't give me real knowledge. This place doesn't look
 so attractive.  
 
-{33 golden blue}
+{33 golden}
 Those exercises don't help me so much. This house doesn't cost so much. His father doesn't do business. He works as 
 a marketing specialist. These achievements don't inspire me. English doesn't seem so simple. This person doesn't 
 understand the seriousness of this situation. My acquaintances don't think so. This test doesn't look so easy. 
@@ -1383,7 +1383,7 @@ These things don't help me at all. His wife doesn't work in medicine. She works 
 doesn't seem so important. He thinks that money doesn't bring real happiness to people. 
 
 19.08.2022
-{34 golden blue}
+{34 golden}
 Do I imporove my results? Do we become more confident and fluent in English? Do you like this format? Do they 
 share you point of view? Do they lack professionalism? Do you lack experience? Do I lack this knowledge? Do you 
 want to know the truth? Do you want to eat? Do you prefer to work from home? Do you try to change it? Do you try 
@@ -1397,7 +1397,7 @@ Do you know how to get there? Do you know how to get to this place? Do you think
 Do you think that you can change this situation? Do you think it can hepl us? Do you understand why I do it?
 Do you understand that I do it because I want to help you? 
 
-{35 golden blue}
+{35 golden}
 Do we become more confident and fluent in English? Do you think that she does the right thing? Do you know how to 
 get to that place? Do you think that you can change the situation? Do you think that you can change this situation?
 Do they always say it? Do you understand why he does it? Do you try to influence this situation? Do you understand 
@@ -1413,7 +1413,7 @@ my results? Do they want to know the truth? Do you see that you imporove your En
 your point of view? Do you know how to get to this place? Do you understand why I do it? Do you try to influence 
 her? Do you know what to do in this situation? 
 
-{36 golden blue}
+{36 golden}
 Does he know the right answer? Does she have tha same problem? Does it bring people happiness? Does it bring happiness 
 to people? Does she have a similar opinion? Does he have similar ideas? Does it really motivate you? Does it really 
 inspire you? Does she like this idea? Does she really like this idea? Does he really want to do it? Does he really 
@@ -1428,7 +1428,7 @@ pay for his Education? Does it depend only on him? Does she realize the importan
 that it's very important to do it? 
 
 20.08.2022
-{37 golden blue}
+{37 golden}
 Does he know the right answer? Does she want to find another job? Does she really want to reach such a high level
 in English. Does he have similar results? Does it belong to him? Does he know that he makes so many mistakes? 
 Does he really want to have such a high level? Does he know how to answer those questions? Does she know that she 
@@ -1443,7 +1443,7 @@ a stable income? Does it bring him satisfaction? Does she know what to do in thi
 salary? Does he pay for his Education? Does it bring happiness to people? Does she make much fewer mistakes? Does 
 it bring him only dissatisfaction? Does it rally motivate you? Does he understand that it can be his last chance?
 
-{38 golden blue}
+{38 golden}
 Does your friend also think so? Do your friends think so, too? Does this example really inspire you? Do these
 words really inspire you? Does this thing motivate you? Do these things seem so important? Does this method 
 seem really effective? Does that method seem ineffective? Does sport play a very important role in your life?
@@ -1456,7 +1456,7 @@ better? Does the child know that what he needs to do? Does the boy understand wh
 inspire you? Do these results seem so impressive? Do these achievements help you feel more confidence? Does this 
 achievement look really impressive? 
 
-{39 golden blue}
+{39 golden}
 Does your friend think that we can't do it? Do these achievement help you feel more confidence? Does this result inspire
 you. Do your parents think differently? Does this thing motivate you? Do the children behave better? Does this 
 example really inspire you? Does Chinese seem very difficult? Do these results really seem so impressive? Does
@@ -1471,7 +1471,7 @@ you relax? Does your friend also think so? Does reading help you relax? Does mon
 method seem ineffective? Does this knowledge really help you?
 
 21.08.2022
-{34 golden blue}
+{34 golden}
 Do I improve my results? Do we become more confident and fluent in English? Do you like this format? Do they share 
 your point of view? Do thet lack professionalism? Do you lack experience? Do I lack this knowledge? Do you want to
 know the truth? Do you want to eat? Do you prefer to work from home? Do you try to change it? Do you try to influence 
@@ -1485,7 +1485,7 @@ get there? Do you know how to get to this place? Do you think you can change the
 can change this situation? Do you think it can help? Do you understand why I do it? Do you understand that I do it 
 because I want to help you? 
 
-{35 golden blue}
+{35 golden}
 Do we becom more confident and fluent in English? Do you think that she does the right thing? Do you know how to 
 get to that place? Do you think you can change the situation? Do you think that you can change the situation? Do 
 they always say it? Do you understand why he does it? Do you try to influence this situation? Do you understand 
@@ -1501,7 +1501,7 @@ Do I improve my results? Do they want to know the truth? Do you see that you imp
 Do they share you point of view? Do you know how to get to this place? Do you understand why I do it? Do you try 
 to influence her? Do you know what to do in this situation? 
 
-{36 golden blue}
+{36 golden}
 Does he know the right answer? Does she have the same problem? Does it bring people happiness? Does it bring 
 happiness to people? Does she have a similar opinion? Does she have similar ideas? Does it really motivate you?
 Does it really inspire you? Does she like this idea? Does she really like this idea? Does he really want to do it? 
@@ -1516,7 +1516,7 @@ pay for his Education? Does it depend only on him? Does she realize the importan
 that it's very important to do it?
 
 22.08.2022
-{37 golden blue}
+{37 golden}
 Does he know the right answer? Does she want to find another job? Does she really want to reach such a high level
 in English? Does he have similar results? Does it belong to him? Does he know that he makes so many mistakes? 
 Does he really want to have such a high level? Does he know how to answer those questions? Does she know that 
@@ -1532,7 +1532,7 @@ she have a low salary? Does he pay for his Education? Does it bring happiness to
 mistakes? Does it bring him only dissatisfaction? Does it really motivate you? Does he understand that it can 
 be his last chance? 
 
-{38 golden blue}
+{38 golden}
 Does you friend also think so? Do your friend think so, too? Does this example really inspire you? Do these words 
 really inspire you? Does this thing motivate you? Do these things seem so important? Does this method seem really 
 effective? Does that method seem ineffective? Does sport paly a very important role in your life? Does money change 
@@ -1545,7 +1545,7 @@ Does the child know what he needs to do? Does the boy understand what he needs t
 Do these results seem so impressive? Do these achievements help you feel more confidence? Does this achievement 
 look really impressive? 
 
-{39 golden blue}
+{39 golden}
 Does your friend think that we can't do it? Do these achievements help you feel more confidence? Does this result 
 inspire you? Do your parents think differently? Does this thing motivate you? Do the children behave better?
 Does this example really inspire you? Does Chinese seem very difficult? Do these results really seem so impressive? 
@@ -1560,7 +1560,7 @@ you relax? Does your friend also think so? Does reading help you relax? Does mon
 method seem ineffective? Does this knowledge really help you? 
 
 23.08.2022
-{40 golden blue}
+{40 golden}
 How do you prefer to learn English? How do you usually spend you free time? How do you measure your progress? 
 When do you find time for all these things? When do the lessons usually start? When do the lessons usually finish? 
 Why do they want to do it? Why do they make so many mistakes? Why do you do these exercises? What do you think about 
@@ -1573,7 +1573,7 @@ many friends do you have? How much free time do you have now? How much money do 
 How intensively do you train? How often do you go there? How often do you go to tha gym? How regularly do you 
 practice English? How often does she call you?
 
-{41 golden blue}
+{41 golden}
 When do the lessons usually start? How intensively do you train? How do you usually measure your progress? What 
 books do you prefer to read? When does he come to work? When does he usually come home? How often does she call you?
 Where do you study? How many mistakes do I make? Why does he like it so much? What do you think about this thing?
@@ -1586,7 +1586,7 @@ do it? How do you prefer to learn English? How far do you live? What kind of mus
 spend your free time? What channels do you watch? How does she feel? What movies does he prefer to watch? When 
 do the lessons usually finish? 
 
-{42 golden blue}
+{42 golden}
 What time do you usually get up? What time do you usually come home? What time do you usually come to work? What 
 time do you usually live home? What time do you usually go to bed? Whose idea do you like more? Which video do 
 you find more interesting? What videos do you usually watch? What do you like more? What motivates you? What 
@@ -1601,7 +1601,7 @@ What costs less? Who thinks so? Who also thinks so? Who says it? What works bett
 Who usually pays for it? What really interests him? What interests you more? What seems better?   
 
 24.08.2022
-{37 golden blue}
+{37 golden}
 Does he know the right answer? Does she want to find another job? Does she really want to reach such a high level
 in English? Does he have similar results? Does it belong to him? Does he know that he make so many mistakes? 
 Does he really want to have such a high level? Does he know how to answer those questions? Does she know that 
@@ -1617,7 +1617,7 @@ situation? Does she have a low salary? Does he pay for his Education? Does it br
 make much fewer mistakes? Does it bring him only dissatisfaction? Does it really motivate you? Does he understand 
 that it can be his last chance?
 
-{38 golden blue}
+{38 golden}
 Does your friend also think so? Do your friends think so, too? Does this example really inspire you? Do these words 
 really inspire you? Does this thing motivate you? Do these things seem so important? Does this method seem really 
 effective? Does that method seem ineffective? Does sport paly a very important role in your life? Does money change 
@@ -1630,7 +1630,7 @@ child know what he needs to do? Does the boy understand what he needs to do? Doe
 results seem so impressive? Do these achievements help you feel more confidence? Does this achievement look really 
 impressive? 
 
-{39 golden blue}
+{39 golden}
 Does your friend think that we cant do it? Do these achievement help you feel more confidence? Does this result 
 inspire you? Do your parents think differently? Does this thing motivate you? Do the children behave better? 
 Does this example really inspire you? Does Chinese seem very dificult? Do these results really seem so impressive?
@@ -1645,7 +1645,7 @@ you relax? Does your friend also think so? Does reading help you relax? Does mon
 method seem ineffective? Does this knowledge really help you?
 
 25.08.2022 
-{40 golden blue}
+{40 golden}
 How do you prefer to learn English? How do you usually spend your free time? How do you measure your progress? 
 When do you find time for all these things? When do the lessons usually start? When do the lessons usually finish? 
 Why do they want to do it? Why do they make so many mistakes? Why do you do these exercises? What do you think 
@@ -1657,7 +1657,7 @@ do you like? How much does it cost? How many mistakes do I make? How many friend
 do you have now? How much money do you have with you? How far do you live? How intensively do you train? How oftne 
 do you go there? How often do you go to the gym? How regularly do you practice English? How often does she call you?  
 
-{41 golden blue}
+{41 golden}
 When do the lessons usually start? How intensively do you train? How do you usually measure your progress? What 
 books do you prefer to read? When does he come to work? When does he usually come home? How often does she call you? 
 Where do you study? How many mistakes do I make? Why does he like it so much? What do you think about this thing? 
@@ -1670,7 +1670,7 @@ do it? How do you prefer to learn English? How far do you live? What kind of mus
 usually spend your free time? What channels do you watch? How does she feel? What movies does he prefer to watch? 
 When do the lessons usually finish? 
 
-{42 golden blue}
+{42 golden}
 What time do you usually get up? What time do you usually come home? What time do you usually come to work? What 
 time do you usually leave home? What time do you usually go to bed? Whose idea do you like more? Which video do you 
 find more interesting? What videos do you usually watch? What do you like more? What motivates you? What inspires 
@@ -1685,7 +1685,7 @@ so? Who also think so? Who says it? What works better? What usually happens ther
 really interests him? What interests you more? What seems better? 
 
 26.08.2022
-{43 golden blue}
+{43 golden}
 What does your friend think about all this? Who else wants it? Who usually pays for it? Who makes such mistakes? 
 Who do you want to invite to your birthday? What inspires you? Who lives here? Who do you know? What costs less? 
 Who likes it more? Who do you want to invite? Who helps you? Who else knows about this problem? What works better? 
@@ -1700,7 +1700,7 @@ get up? How do you trust more? How thinks so? What motivates you? Which video do
 What seems more interesting? What time do you usually leave home? What helps you more? Where does you brother live?
 What time do you usually go to bed? 
 
-{44 golden blue}
+{44 golden}
 She sees real progress? He doesn't see any progress? Do I make good progress? Who inspires you? What attracts your 
 attention? Who corrects these mistakes? What worries you most of all? How long does one lesson last? How long 
 does one lesson usually last? What do you want to tell me now? What does she want to say? She knows that we often 
@@ -1712,7 +1712,7 @@ These things influence me greatly? Such examples motivate me a lot? Learning Eng
 these books seems so useful? Visiting these palaces seem unforgettable? Watching these videos is very useful? Money 
 never brings people true happiness? Such things never bring true happiness to people? 
 
-{45 golden blue}
+{45 golden}
 Invite to my birthday. Complain. Answer those questions. Quite innovative. Compare. Measure. Dissatisfaction. 
 Financially. Weak. Truth. Impressive results. What else? Chance. Satisfaction. Get to this place. Educated. 
 Seriousness. Experience. Waste time. A low salary. The same thing. Sphere. Outstanding abilities. Independent. 
@@ -1726,7 +1726,7 @@ realize. Amazing. Attractive. Sweets. Unimportant. Medicine. Develop. Anything. 
 Confidence.
 
 28.08.2022
-{40 golden blue}
+{40 golden}
 How do you prefer to learn English? How do you usually spend you free time? How do you measure your progress? 
 When do you find time for all these things? When do the lessons usually start? When do the lessons usually finish?
 Why do they want to do it? Why do they make so many mistakes? Why do you do these exercises? What do you think about 
@@ -1738,7 +1738,7 @@ How much does it cost? How many mistakes do I make? How many friends do you have
 now? How much money do you have with you? How far do you live? How intensively do you train? How often do you go 
 there? How often do you go to the gym? How regularly do you practice English? How often does she call you? 
 
-{41 golden blue}
+{41 golden}
 When do the lessons usually start? How intensively do you train? How do you usually measure your progress? What books 
 do you prefer to read? When does he come to work? When does he usually come home? How often does she call you? 
 Where do you study? How many mistakes do I make? Why does he like it so much? What do you think about this thing? 
@@ -1751,7 +1751,7 @@ prefer to learn English? How far do you live? What kind of music do you prefer? 
 time? What channels do you watch? How does she feel? What movies does he prefer to watch? When do the lessons usually 
 finish?  
 
-{42 golden blue}
+{42 golden}
 What time do you usually get up? What time do you usually come home? What time do you usually come to work? What 
 time do you usually leave home? What time do you usually go to bed? Whose idea do you like more? Which video do you 
 find more interesting? What videos do you usually watch? What do you like more? What motivates you? What inspires you? 
@@ -1766,7 +1766,7 @@ less? Who thinks so? Who also thinks so? Who says it? What works better? What us
 pays for it? What really interests him? What interests you more? What seem better?   
 
 29.08.2022
-{43 golden blue}
+{43 golden}
 What does your friend think about all this? Who else wants it? Who usually pays for it? Who makes such mistakes? 
 Who do you want to invite to your birthday? What inspires you? Who lives here? Who do you know? What costs less? 
 Who likes it more? Who do you want to invite? Who helps you? Who else knows about this problem? What works better? 
@@ -1781,7 +1781,7 @@ up? Who do you trust more? Who thinks so? What motivates you? Which video do you
 more interesting? What time do you usually leave home? What helps you more? Where does your brother live? What time 
 do you usually go to bed?  
 
-{44 golden blue}
+{44 golden}
 She sees real progress. He doesn't see any progress. Do I make good progress? Who inspires you? What attracts your 
 attention? Who corrects these mistakes? What worries you most of all? How long does one lesson usually last? What 
 do you want to tell me now? What does she want to say? She knows that we often talk about it? Do you often talk on 
@@ -1793,7 +1793,7 @@ Such examples motivate me a lot? Learning English seems so interesting. Reading 
 Visiting these places seems unforgettable. Whatching these videos is very useful. Money never brings people true 
 happiness. Such things never bring true happiness to people. 
 
-{45 golden blue}
+{45 golden}
 Invite to my birthday. Complain. Answer those questions. Qiute innovative. Compare. Measure. Dissatisfaction. 
 Financially. Weak. Truth. Impressive results. What else. Chance. Satisfaction. Get to this place. Educated. 
 Seriousness. Experience. Waste time. A low salary. The same thing. Sphere. Outstanding abilities. Independent. 
@@ -1807,7 +1807,7 @@ Perfectly realize. Amazing. Attractive. Sweets. Unimportant. Medicine. Develop. 
 Exciting. Confidence. 
 
 30.08.2022
-{46 golden blue}
+{46 golden}
 Visiting these places seems unforgettable. How do you usually spend your free time. These knowledge make us smarter 
 and more Educated. My acquaintances don't think so. She wants to be more independent. Do you see that you imporve your 
 English greatly here? What time do you usually come home. The boy doesn't know it. He doesn't have such knowledge. We 
@@ -1821,7 +1821,7 @@ one English lesson last? Do you buy such expensive things? How much free time do
 it more regularly. They don't try to change anything in their life. This thing belongs to him? Does he now how to 
 answer those questions? It really worries me.     
 
-{47 golden blue}
+{47 golden}
 I like the idea of free video English courses. He does everything with great pleasure. She never talks about it.
 I have a dream to communicate with other people who live abroad. He continues working on this project. I that my 
 results depend on me. Do they seel such cheap things? She really enjoys doing it. How far do you live? Where do you
@@ -1835,7 +1835,7 @@ at all. I don't trust these people. It often attracts my attention. My life seem
 to get a well-paid job. This information doesn't look reliable. I want to say that I feel much more progress when 
 I train more intensively and regularly. Whose idea do you like more? It depends on you. What helps you more? 
 
-{48 golden blue}
+{48 golden}
 Does sport paly a very big role in your life? What inspires you? Does it belong to him? Does Chinese seem very
 difficult? She really likes travelling. Who helps you most of all? Does this news seem very interesting? Does
 he pay for his Education? He often plays this game. Do you think that you do the right thing? This thing doesn't 
@@ -1851,7 +1851,7 @@ I can't recommend this book to you. Do you think you can change the situation? D
 thing?
 
 31.08.2022
-{43 golden blue}
+{43 golden}
 What does you friend think about all this? Who else wants it? Who usually pays for it? Who makes such mistakes?
 Who do you want to invite to your birthday? What inspires you? Who lives here? Who do you know? What costs less? 
 Who likes it more? Who do you want to invite? Who helps you? Who else knows about this problem? What works better? 
@@ -1866,7 +1866,7 @@ get up? Who do you trust more? Who thinks so? What motivates you? Which video do
 What seems moer interesting? What time do you usually leave home? What helps you more? Where does your brother 
 live? What time do you usually go to bed? 
 
-{44 golden blue}
+{44 golden}
 She sees real progress. He doesn't see any progress. Do I make good progress. Who inspires you? What attracts your 
 attention? Who corrects these mistakes? What worries you most of all? How long does one lesson usually last? 
 What do you want to tell me now? What does she want to say? She knows that we often talk about it? Do you often 
@@ -1878,7 +1878,7 @@ influence me greatly. Such examples motivate me a lot. Learning English seems so
 seems so useful. Visiting these places seems unforgettable. Watching these video is very useful. Money never 
 brings people happiness. Such things never brings true happiness to people.
 
-{45 golden blue}
+{45 golden}
 Invite to my birthday. Complain. Answer those questions. Quite innovative. Compare. Measure. Dissatisfaction.
 Financially. Weak. Truth. Impressive results. What else? Chance. Satisfaction. Get to this place. Educated. 
 Seriousness. Experience. Waste time. A low salary. The same thing. Sphere. Outstanding abilities. Independent. 
@@ -1892,7 +1892,7 @@ Perfectly realize. Amazing. Attractive. Sweets. Unimportant. Medicine. Develop. 
 Exciting. Confidence. 
 
 01.09.2022
-{46 golden blue}
+{46 golden}
 Visiting these places seems unforgettable. How do you usually spend your free time? This knowledge makes us  
 smarter and more Educated. My acquaintances don't think so. She wants to be more independent. Do you see that 
 you imporve your English greatly here. What time do you usually come home? The boy doesn't know it. He doesn't 
@@ -1906,7 +1906,7 @@ often complain about it. How long does one English lesson last. Do you buy such 
 time do you have now? He prefers to do it more regualrly. They don't try to change anything in their life. 
 This thing belongs to him. Does he know how to answer those questions. I really worries me.  
 
-{47 golden blue}
+{47 golden}
 I like the idea of free video English courses. He does everything with great pleasure. She never talks about it. 
 I have an aim to communicate with other people who live abroad. He continues working on this project. I knwo 
 that my results depend on me. Do they sell such cheap things? She really enjoys doing it. How far do you live?
@@ -1920,7 +1920,7 @@ me at all. I don't trust these people. It often attracts my attention. My life s
 to get a well-paid job. This information doesn't look reliable. I want to say that I feel much more progress when 
 I train more intensively and regularly. Whose idea do you like more? It depends on you. What helps you more.  
 
-{48 golden blue}
+{48 golden}
 Does sport play a very big role in your life? What inspires you? Does it belong to him? Does Chinese seem very 
 difficult. She really likes travelling. Who helps you most of all? Does this news seems very interesting? Does 
 he pay for his Education? He often plays this game. Do you think that you do the right thing? This thing doesn't 
@@ -1936,7 +1936,7 @@ I can't recommend this book to you. Do you think that you can change the situati
 the right thing?     
 
 02.09.2022
-{49 golden blue}
+{49 golden}
 Do you knwo where she lives? What does you friend think about all this? Where does your brother live? My father 
 doesn't work here? He works in another palce. We all see that time really flies. What raelly interests him? 
 These examples really inspire me. How often do you go to the gym? I don't know why it happens. How often does 
@@ -1950,7 +1950,7 @@ points. Does she know that she makes lots of mistakes? When do you find time for
 life brighter. How corrects these mistakes? Who likes it? Do you know how to do it? I know the right answer. 
 Does it bring him satisfaction? Children love sweets. This girl has so many talents. Does it really motivate you?
 
-{50 golden blue}
+{50 golden}
 What time do you usually come to work? Does the child know what he needs to do? This practice seems extremely 
 important. Does she have a similar point of view? He doesn't understand what he needs to do? Does he know that 
 he makes so many mistakes? What books do you prefer to read? It happens from time to time. These things don't
@@ -1964,7 +1964,7 @@ job. How does she feel? I want to stop doing it. She misses you. I don't share h
 work on our weak points. I never complain about it. Does he have a stable income? His father doesn't do business.
 He works as a marketing specialist. She usually weaks up late. 
 
-{51 golden blue}
+{51 golden}
 Do these problems really worry you? Who needs it? Does she want to make a career in this company? Does he really 
 want to do it? I don't worry about these things at all. These things make us happy. I see you don't like it. Do 
 they often complain? I like the idea of free English lessons. This test doesn't look so easy. I see that I make fewer 
@@ -1978,7 +1978,7 @@ Do you know where he works? How long do you usually talks on the phone? Who real
 than usual. Money never brings people true happiness. He misses you a lot. 
 
 03.09.2022
-{46 golden blue}
+{46 golden}
 Visiting these places seems unforgettable. How do you usually spend your free time? These knowledge makes us smarter 
 and more educated. My acquaintances don't think so. She wants to be more independent. Do you see that you improve your 
 English greatly here. What time do you usually come home? The boy doesn't know it. He doesn't have such knowledge. 
@@ -1992,7 +1992,7 @@ English lesson last? Do you buy such expensive things? How much free time do you
 regularly. They don't try to change anything in their life. This thing belongs to him. Does he know how to answer 
 those questions? It really worries me.  
 
-{47 golden blue}
+{47 golden}
 I like the idea of free video English courses. He does everything with great pleasure. She never talks about it. 
 I have an aim to communicate with other people who live abroad. He continues working on this project. I knwo that 
 my results depend on me. Do they sell such cheap things? She really enjoys doing it. How far do you live? Where 
@@ -2006,7 +2006,7 @@ help me at all. I don't trust these people. It often attracts my attention. My l
 an aim to get a well-paid job. This information doesn's look reliable. I want to say that I feel much more progress 
 when I train intensively and regualrly. Whose idea do you like more? It depends on you. What helps you more? 
 
-{48 golden blue}
+{48 golden}
 Does sport play a very big role in your life? What inspires you? Does it belong to him? Does Chinese seem very 
 difficult? She really likes travelling. Who helps you most of all? Does these news seem very interesting. Does 
 he pay for his Education? He often plays this game. Do you think that you do the right thing? This thing doesn't 
@@ -2022,12 +2022,12 @@ I can't recommend this book to you. Do you think you can change the situation? D
 right thing? 
 
 04.09.2022
-{49 golden blue}
-{50 golden blue}
-{51 golden blue}
+{49 golden}
+{50 golden}
+{51 golden}
 
 06.09.2022
-{52 golden blue}
+{52 golden}
 Does she have a low salary? This result seems amazing. These things don't cost this money. Who lives here? How long 
 does one lesson last? Does she make much fewer mistakes? This speech really inspires me. I somtimes get up later 
 than usual. These ideas look quite innovative. The children show outstanding abilities. What seems more interesting? 
@@ -2041,7 +2041,7 @@ strange. You do it really well and we all see your professionalism. Reading thes
 seems so boring. I prefer to invest my time in Education because I really want to improve my knowledge. They say it 
 from time to time and this information can be very interesting for you.  
 
-{53 golden blue}
+{53 golden}
 Do your colleagues think differently? He thinks that money doesn't brings people true happiness. Do the student 
 know waht they need to to right now? Does reading books on English help you improve your level? Do we become more 
 confident and fluent in English? Such things never brings real happiness to people. Do you think that you can change 
@@ -2055,7 +2055,7 @@ to answer this question? You have such impressive achievements. We have more tha
 the swimming pool two times a week. Does she realize the importance of these things? What do your parents think
 about all this? 
 
-{54 golden blue}
+{54 golden}
 This information seems quite reliable. I like the idea of free video English lessons. This project brings them 
 big money. I share your point if viwe. I often compare our results. Why does the ticket cost so little? Do you
 try to change it? Do you try to influence him? I want to answer this question. I know all this. He doesn't want
@@ -2071,7 +2071,7 @@ works as a marketing specialist. Do you try to influence her? Does reading help 
 impressive.
 
 07.09.2022
-{49 golden blue}
+{49 golden}
 Do you know where she lives? What does your friend think about all this? Where does your brother live? My father 
 doesn't work here. He works in another place. We all see that time really flies. What really interests him? These 
 examples really inspire me. How often do you go to the gym. I don't know why it happens. How often does she call you?
@@ -2085,7 +2085,7 @@ Does she know that she makes lots of mistakes? When do you find time for all the
 brighter. Who corrects these mistakes? Who likes it? Do you know how to do it? I know the right answer. Does it 
 bring him satisfaction? Children love sweets. This girl hase so many talents. Does it really motivate you? 
 
-{50 golden blue}
+{50 golden}
 What time do you usually come to work? Does the child know what he needs to do? This practice seems extremely 
 important. Does she have a similar point of view? He doesn't understand what he needs to do. Does he know that 
 he makes so many mistakes? What books do you prefer to read? It happens from time to time. These things don't 
@@ -2099,7 +2099,7 @@ job. How does she fell? I want to stop doing it. She misses you. I don't share h
 on our weak points. I never complain about it. Does he have a stable income. His father doesn't do business. 
 He works as a marketing specialist. She usually weaks up late. 
 
-{51 golden blue}
+{51 golden}
 Do these problems really worry you? Who needs it? Does she want to make a career in this company? Does he really 
 want to do it? I don't worry about these things at all. These things make us happy. I see you don't like it. 
 Do they often complain? I like the idea of free English lessons. This test doesn't look so easy. I see that I make 
@@ -2113,7 +2113,7 @@ format? Do you know where he work? How long do you usually talk on the phone? Wh
 up later than usual. Money never brings people true happiness. He misses you a lot.  
 
 08.09.2022
-{52 golden blue}
+{52 golden}
 Does she have a low salary? This result seems really amazing. These things don't cost this money. Who lives here? 
 How long does one lesson last? Does she make much fewer mistakes? This speech really inspires me. I sometimes get 
 up later than usual. These ideas look quite innovative. The children show outstanding abilities. What seems more 
@@ -2127,7 +2127,7 @@ doesn't seem strange. You do it really well and we all see your professionalism.
 The book seems so boring. I prefer to invest me time in Education because I really want to imporove my knowledge.
 They say it from time to time and this information can be very interesting for you. 
 
-{53 golden blue}
+{53 golden}
 Do your colleagues think differently? He thinks that money doesn't bring people real happiness. Do the student know 
 what they need to do right now? Does reading books in English help you imporove your level? Do we become more confident 
 and fluent in English? Such things never bring true happiness to people. Do you think that you can change this 
@@ -2141,7 +2141,7 @@ to answer this question? You have such impressive achievements. We have more tha
 the swimming pool two times a week. Does she realize the importance of these things? What do your parents think 
 about all this?   
 
-{54 golden blue}
+{54 golden}
 This information seems quite reliable. I like the idea of free video English lessons. This project brings them 
 big money. I share your point of view. I often compare our results. Why does the ticket cost so little? Do you 
 try to change it? Do you try to influence him? I want to answer this question. I know all this. He doesn't want 
@@ -2157,7 +2157,7 @@ works as a marketing specialist. Do you try to influence her? Does reading help 
 impressive. 
 
 09.09.2022
-{55 golden blue}
+{55 golden}
 We have more than enought time to do it. How intensively do you train? We see two different examples. Does he have 
 the same result? What time do you usually get up? That course doesn't give me real knowledge. It attracts our attention. 
 Who thinks so? These things really motivate me. I don't want to continue doing it. How many mistakes do I make? 
@@ -2171,7 +2171,7 @@ the truth? Does money change people? What helps you? He doesn't see any progress
 Do you often listen to the radio? We have similar results. She works in this area, too. Does it really inspire you? 
 What does she want to say? They do it to earn more money. What time do you usually leave home? 
 
-{56 golden blue}
+{56 golden}
 Such examples motivate me a lot. Do your parents think differently? We have tha same problem. Does she know what to 
 do in this situation? What kind of music do you prefer? How does he usually do it? I see it in front of this building.
 Does he make similar ideas? I want to be a real expert in this area. When do the lessons usually start? I recommend 
@@ -2184,7 +2184,7 @@ usually play? What time do you usually go to bed? Does he make fewer mistakes? I
 Do you want to eat? Does your friend think that we can't do it? He never thinks about it. She sees real progress. 
 I want to say that I continue doing it. I want to have a well-paid job. Why do they make so many mistakes?  
 
-{57 golden blue}
+{57 golden}
 Does this house belong to him? I have an aim to learn English. When do the lessons usually finish? The boy goes 
 to this school. I know how I can improve my results. Does this project look very successful? Do these results really 
 seem so impressive? Does it depend only on him? Do they always say it? I often read it in the news. This place 
@@ -2199,7 +2199,7 @@ Do these words really inspire you? I really know how to learn English effectivel
 bring real happiness to people. Do you agree? What do you think about all this?    
 
 10.09.2022
-{52 golden blue}
+{52 golden}
 Does she have a low salary? This result seems really amazing. These things don't cost this money. Who lives here?
 How long does one lesson last? Does she make much fewer mistakes? This speech really inspires me. I sometimes get 
 up later than usual. These ideas look quite innovative. The children show outstanding abilities. What seems more 
@@ -2213,7 +2213,7 @@ seem strange. You do it really well and we all see your professionalism. Reading
 The book seems so boring. I prefer to invest my time in Education because I really want to improve my knowledge. 
 They say it from time to time and this information can be very interesting for you.
 
-{53 golden blue}
+{53 golden}
 Do your colleagues think differently? He thinks that money doesn't brings people real happiness. Do the students know 
 what they need to do right now? Does reading books on English help you imporove your level? Do we bocome more 
 confident and fluent in English? Such things never bring true happiness to people. Do you think that you can 
@@ -2227,7 +2227,7 @@ Does she know how to answer this question? You have such impressive achievements
 it. He goes to the swimming pool two times a week. Does she realize the importance of these things? What do your 
 parents think about all this?     
 
-{54 golden blue}
+{54 golden}
 This information seems quite reliable. I like the idea of free video English lessons. This project brings them big 
 money. I share your point of view. I often compare our results. Why does the ticket cost so little. Do you try to 
 change it? Do you try to influence him? I want to answer this question. I know all this. He doesn't want to change 
@@ -2242,7 +2242,7 @@ Who also thinks so? What knid of videos do you usually watch? She works as a mar
 influence her? Does reading help you relax? His speech looks so impressive.
 
 11.09.2022
-{55 golden blue}
+{55 golden}
 We have more than enought time to do it. How intensively do you train? We see two different examples. Does he have 
 the same result? What time do you usually get up? That course doesn't give me real knowledge. It attracts our 
 attention. Who thinks so? These things really motivate me. I don't want to continue doing it. How many mistakes 
@@ -2257,7 +2257,7 @@ progress. What helps you most of all? Do you often listen to the radio? We have 
 this area, too. Does it really inspire you? What does she want to say? They do it to earn more money. What time 
 do you usually leave home? 
 
-{56 golden blue}
+{56 golden}
 Such examples motivate me a lot. Do your parents think differently? We have the same problem. Does she know what 
 to do in this situation? What kind of music do you prefer? How does he usually do it? I see it in front of this 
 building. Does he have similar ideas? I want to be a real expert in this area. When do the lessons usually start? 
@@ -2271,7 +2271,7 @@ fewer mistakes? I enjoy doing it in my free time. Do you want to eat? Does you f
 He never thinks about it. She sees real progress. I want to say that I continue doing it. I want to have a well-paid
 job. Why do they make so many mistakes? 
 
-{57 golden blue}
+{57 golden}
 Does this house belong to him? I have an aim to learn English. When do the lessons usually finish? The boy goes 
 to this school. I know how I can improve my results. Does this project look very successful? Do these results 
 really seem so impressive? Does it depend only on him? Do they always say it? I often read it in the news. 
@@ -2287,7 +2287,7 @@ English effectively. She thinks that money doesn't bring real happiness to peopl
 think about all this? 
 
 12.09.2022
-{58 golden blue}
+{58 golden}
 This experience seems unforgettable. I don't train so often but I perfectly understand that it's such an important 
 thing to train regularly if I really want to achieve my aim. What do you think about this thing? He doesn't know how 
 to get to this place. The child has outstanding abilities. My mother doesn't work in Education. She works in another 
@@ -2307,7 +2307,7 @@ This thing seem so tiring. I have motivation to continue doing it? How long does
 never seems boring. I have an aim to understand native speaker without any problems at all. People usually want to 
 be reach and happy. I don't want to stop learning English.  
 
-{59 golden blue}
+{59 golden}
 Be. I want to be really happy. Do you want to be more independent? Have. How much free time do you have now? He has 
 a very big problem. Do. What do you prefer to do in your free time when you have it? I try to do it quite regularly.
 Say. I can say it again. What do you want to say right now? Go. I usually go there several times a week. I can go 
@@ -2318,7 +2318,7 @@ and I know that it's quite possible. I see you make very good progress. Know. I 
 better. I'd like to know it right now. Think. What do you think about this situation? I tend to think the following.
 Take. I don't want to take this money. You can take this offer if you really like it. 
 
-{60 golden blue}
+{60 golden}
 I tend to think the following. I'd like to find more time on my personla development. You can take this offer 
 if you really want it. You can take that offer if you rallt like it. I tend to think the following thing. I'd 
 like to know it right now. I try to do it quite regualrly. I'd do it in your place. I'd like to have more time
@@ -2330,4 +2330,49 @@ say it again. How much money do you get? How much free time do you have now? You
 regularly. I think the following. I have so little free time. What do you want to say right now? I want to be 
 really happy. People usually want to be rich and healthy. I see you make very good progress. I know that I can 
 do much more. I can't say that I speak Englsih fluently but I work on it. He has a very big problem. What do you 
-prefer to do in your free time if you have it? I'd do it now. I usually go there several time a week.   
+prefer to do in your free time if you have it? I'd do it now. I usually go there several time a week.
+
+13.09.2022
+{55 golden}
+We have more than enough time to do it. How intensively do you train. We see two different examples. Does he have
+the same result? What time do you usually get up? That course doesn't give me real knowledge. It attracts our 
+attention. Who thinks so? These things rally motivate me. I don't want to continue doing it. How many mistakes do 
+I make? How long does one lesson last? Does this problem worry you? Do I improve my results? We don't pay for 
+this Education. I like the idea of this practice. Does she really like this idea? He wants to stop doing it. 
+Do you know why it happens? Do you usually do it? I want to know the truth. Does she have a stable income? Which 
+video do you find more interesting? Does it bring people happiness? How do these lessons help you? Who do you 
+want to invite? We often read it in the news. Do you try to influence this situation? She tries to change her
+life? These things don't seem so important. This method doesn't work. This game seems so thrilling. This lesson 
+seems extremely useful. Do you want to know the truth? Does money change people? What helps you? He doesn't see 
+any progress. What helps you most of all? Do you often listen to the radio. We have similar results. She works 
+in this area, too. Does it really inspire you? What does she want to say? They do it to earn more money. What 
+time do you usually leave home? 
+
+{56 golden}
+Such examples motivate me a lot. Do you parents think differently? We have the same problem. Does she know what
+to do in this situation? What kind of music do you prefer? How does he usually do it? I see it in front of this 
+building. Does he have similar ideas? I want to be a real expert in this area. When do the lessons usually start?
+I recommend this channel to my friends. This project look quite successful. How regularly do you practice English? 
+What usually happens there? Do they share your point of view? What interests you? Those things seem very tiring. 
+These students show brilliant results. Does she want to find another job? These games are so exciting. This thing
+really interests me. Does it bring happiness to people? He never says it. The article looks really useful. Sometimes 
+he complains about it. English doesn't seem so simple. What do you see in front of you? Do you understand why I do it? 
+These things don't help you at all. What games do you usually paly? What time do you usually go to bed? Does he 
+make fewer mistakes? I enjoy doing it in my free time. Do you want to eat? Does your friend think that we can't do it? 
+He never thinks about it. She sees real progress. I want to say that I continue doing it. I want to have a well-paid 
+job. Why do they make so many mistakes?   
+
+{57 golden}
+Does this house belong to him? I have an aim to learn English. When do the lessons usually finish? The boy goes 
+to this school. I know how I can improve my results. Does this project look very successful? Do these results 
+really seem so impressive? Does it depend only in him? Do they always say it? I often read it in the news. 
+This place doesn't look so attractive. These details don't seem so important. The boys don't like this idea. 
+What costs less? Do you lack experience? I don't know what to do in this situation. What interests you more? 
+Do you sometimes see him in this place? She teaches English in another place. What do they want to do? Does she 
+have the same opinion? What belongs to him? Does it bring him only dissatisfaction? He never tells us about these 
+things. How often do you go there? I miss you very much. How much money do you have with you? Do you often do it? 
+They don't have this experience. How usually says it? Do your friends think so, too? Do you think it can help us? 
+Do you understand why he does it? He wants to know the truth. I have a similar point of view. She thinks differently.
+I find this palce so beautiful. Do these words really inspire you? I raelly know how to learn English effectively.
+She thinks that money doesn't bring real happiness to people. Do you agree? What do you think about all this? 
+ 

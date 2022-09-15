@@ -18,5 +18,14 @@
 06.09.2022 NEXT STEP { secondRepeat: [49,50,51], firstRepeat: [52,53,54], learn: [55,56,57], marker: 'golden'}
 09.09.2022 NEXT STEP { secondRepeat: [52,53,54], firstRepeat: [55,56,57], learn: [58,59,60], marker: 'golden'}
 12.09.2022 NEXT STEP { secondRepeat: [55,56,57], firstRepeat: [58,59,60], learn: [634,635], marker: 'golden' }
+15.09.2022 NEXT STEP { 
+                      secondRepeat: [58,59,60], 
+                      firstRepeat: [634,635], 
+                      learn: { Orange: [1,2,3], Titanium: [1], }
+                     }
 
-00.00.000 NEXT STEP { learn: { Orange: [1,2,3], Titanium: [1], }, }
+00.00.0000 NEXT STEP {
+                      secondRepeat: { Orange: [], Titanium: [], },
+                      firstRepeat: { Orange: [], Titanium: [], },
+                      learn: { Orange: [], Titanium: [], },
+                     }

@@ -216,6 +216,27 @@ learn: { lesson: [13],
     { question: 'Что такое Redux? Ключевые принципы Redux?', answer: 'Это библиотека которая являеться стейт менеджментом И хранит состояние всего приложения которое можно будет стабильно и очевидно изменять. Ключивые принципы Redux это чистые цункции и один источник правды, состояние доступно только для чтения.', },
   ]
 }
+secondRepeat: { [12], "15.09.2022", }
+firstRepeat: { [13], "15.09.2022", }
+learn: { lesson: [14],
+  "" : [
+    { question: 'Что такое синтетические события в React (SyntheticEvent)?', answer: '', },
+    { question: 'Что такое React-ссылка (Ref)? Как создать ссылку?', answer: '', },
+    { question: 'Разница между теневым (Shadow) и виртуальным (Virtual) DOM?', answer: '', },
+    { question: 'Назовите преимущества использования React?', answer: '', },
+    { question: 'Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?', answer: '', },
+    { question: 'Что такое компонент-переключатель (Switching Component)?', answer: '', },
+    { question: 'Разница между React и ReactDOM?', answer: '', },
+    { question: 'Разница между компонентом и контейнером?', answer: '', },
+    { question: 'Как React обрабатывает, или ограничивает использование пропсов определенного типа?', answer: '', },
+    { question: 'Что такое строгий режим в React? Его преимущества?', answer: '', },
+    { question: 'Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?', answer: '', },
+    { question: 'Что такое «опрос» (Polling)? Как его реализовать в React?', answer: '', },
+    { question: 'Разница между элементом и компонентом?', answer: '', },
+    { question: 'Что такое ReactDOMServer?', answer: '', },
+    { question: 'Разница между Redux и Flux?', answer: '', },
+  ]
+}
 
 learn: { lesson: [],
   "" : [

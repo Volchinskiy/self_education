@@ -61,3 +61,4 @@
 13.09.2022 secondRepeat: https://github.com/HowProgrammingWorks/Iteration Exercise 7
 13.09.2022 secondRepeat: https://www.youtube.com/watch?v=enHA1CRkJe0
 15.09.2022 secondRepeat: https://www.youtube.com/watch?v=wqkQ6eslyzY
+16.09.2022 firstRepeat: https://www.youtube.com/watch?v=ND8KQ5xjk7o

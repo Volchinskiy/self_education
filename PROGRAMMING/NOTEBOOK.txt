@@ -63,3 +63,7 @@
 15.09.2022 secondRepeat: https://www.youtube.com/watch?v=wqkQ6eslyzY
 16.09.2022 firstRepeat: https://www.youtube.com/watch?v=ND8KQ5xjk7o
 17.09.2022 firstRepeat: https://www.youtube.com/watch?v=1vqATwbGHnc
+18.09.2022 firstRepeat: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 1
+18.09.2022 firstRepeat: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 2
+18.09.2022 firstRepeat: https://github.com/HowProgrammingWorks/HigherOrderFunction Exercise 3
+18.09.2022 learn: https://www.youtube.com/watch?v=qqz0VSaNxuw

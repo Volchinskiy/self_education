@@ -239,6 +239,23 @@ learn: { lesson: [14],
 }
 secondRepeat: { [13], "20.09.2022", }
 firstRepeat: { [14], "20.09.2022", }
+learn: { lesson: [15],
+  "" : [
+    { question: 'Что такое предохранители (Error Boundaries)?', answer: '', },
+    { question: 'Что такое «ленивая» (Lazy) функция?', answer: '', },
+    { question: 'Разница между рендерингом и монтированием?', answer: '', },
+    { question: 'Что такое сhildren?', answer: '', },
+    { question: 'Что такое события указателя (Pointer Events)?', answer: '', },
+    { question: 'Что такое инверсия наследования (Inheritance Inversion)?', answer: '', },
+    { question: 'Как в React реализовать двустороннее связывание данных?', answer: '', },
+    { question: 'Ключевые концепции Redux?', answer: '', },
+    { question: 'Что такое «единственный источник истины» (Single Source of Truth)?', answer: '', },
+    { question: 'Что такое редьюсер (Reducer)?', answer: '', },
+    { question: 'Разница между React State и Redux State?', answer: '', },
+    { question: 'Как выглядит поток данных в Redux-приложении?', answer: '', },
+    { question: 'Плюсы и минусы Redux?', answer: '', },
+  ]
+}
 
 learn: { lesson: [],
   "" : [

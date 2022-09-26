@@ -28,10 +28,8 @@
                       firstRepeat: { Orange: [1,2,3], Titanium: [1], },
                       learn: { Orange: [4,5,6], Titanium: [2], },
                      }
-
-
-00.00.0000 NEXT STEP {
-                      secondRepeat: { Orange: [], Titanium: [], },
-                      firstRepeat: { Orange: [], Titanium: [], },
-                      learn: { Orange: [], Titanium: [], },
+25.09.2022 NEXT STEP {
+                      secondRepeat: { Orange: [1,2,3], Titanium: [1], },
+                      firstRepeat: { Orange: [4,5,6], Titanium: [2], },
+                      learn: { Orange: [7,8,9], Titanium: [3], },
                      }

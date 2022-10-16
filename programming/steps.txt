@@ -4,4 +4,4 @@
 10.09.2022 NEXT STEP { secondRepeat: [3], firstRepeat: [4], learn: [5], marker: 'week'}
 21.09.2022 NEXT STEP { secondRepeat: [4], firstRepeat: [5], learn: [6], marker: 'week'}
 04.10.2022 NEXT STEP { secondRepeat: [5], firstRepeat: [6], learn: [7], marker: 'week'}
-04.10.2022 NEXT STEP { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: 'week'}
+15.10.2022 NEXT STEP { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: 'week'}

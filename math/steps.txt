@@ -1,4 +1,7 @@
-15.10.2022 NEXT STEP { learn: [1], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА (22 ВИДЕО)" }
-16.10.2022 NEXT STEP { firstRepeat: [1], learn: [2], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА (22 ВИДЕО)" }
-16.10.2022 NEXT STEP { secondRepeat: [1], firstRepeat: [2], learn: [3], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА (22 ВИДЕО)" }
-18.10.2022 NEXT STEP { secondRepeat: [2], firstRepeat: [1], learn: [4], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА (22 ВИДЕО)" }
+15.10.2022 STEP #1 { learn: [1], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+16.10.2022 STEP #2 { firstRepeat: [1], learn: [2], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+16.10.2022 STEP #3 { secondRepeat: [1], firstRepeat: [2], learn: [3], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+18.10.2022 STEP #4 { secondRepeat: [2], firstRepeat: [3], learn: [4], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+19.10.2022 STEP #5 { secondRepeat: [3], firstRepeat: [4], learn: [5], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+
+00.00.0000 STEP #0 { secondRepeat: [0], firstRepeat: [0], learn: [0], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }

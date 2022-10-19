@@ -1,6 +1,33 @@
-15.10.2022 learn: https://www.youtube.com/watch?v=0GLnWmSf0dk
-16.10.2022 firstRepeat: https://www.youtube.com/watch?v=0GLnWmSf0dk
-16.10.2022 learn: https://www.youtube.com/watch?v=t-22z9ftdQI
-18.10.2022 secondRepeat: https://www.youtube.com/watch?v=0GLnWmSf0dk
-18.10.2022 firstRepeat: https://www.youtube.com/watch?v=t-22z9ftdQI
-18.10.2022 learn: https://www.youtube.com/watch?v=N9U8sh-xt2U
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #1                                                                 |
+|                                                                          |
+|  15.10.2022  learn:         https://www.youtube.com/watch?v=0GLnWmSf0dk  |
+|__________________________________________________________________________|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #2                                                                 |
+|                                                                          |
+|  16.10.2022  firstRepeat:   https://www.youtube.com/watch?v=0GLnWmSf0dk  |
+|  16.10.2022  learn:         https://www.youtube.com/watch?v=t-22z9ftdQI  |
+|__________________________________________________________________________|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #3                                                                 |
+|                                                                          |
+|  18.10.2022  secondRepeat:  https://www.youtube.com/watch?v=0GLnWmSf0dk  |
+|  18.10.2022  firstRepeat:   https://www.youtube.com/watch?v=t-22z9ftdQI  |
+|  18.10.2022  learn:         https://www.youtube.com/watch?v=N9U8sh-xt2U  |
+|__________________________________________________________________________|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #4                                                                 |
+|                                                                          |
+|  19.10.2022  secondRepeat:  https://www.youtube.com/watch?v=t-22z9ftdQI  |
+|  19.10.2022  firstRepeat:   https://www.youtube.com/watch?v=N9U8sh-xt2U  |
+|  19.10.2022  learn:         https://www.youtube.com/watch?v=izsJgGm4O8o  |
+|__________________________________________________________________________|
+
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #0                                                                 |
+|                                                                          |
+|  00.00.0000  secondRepeat:  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
+|  00.00.0000  firstRepeat:   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
+|  00.00.0000  learn:         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
+|__________________________________________________________________________|

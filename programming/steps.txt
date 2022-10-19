@@ -1,7 +1,7 @@
-03.08.2022 NEXT STEP { learn: [2], marker: 'week'}
-06.08.2022 NEXT STEP { firstRepeat: [2], learn: [3], marker: 'week'}
-23.08.2022 NEXT STEP { secondRepeat: [2], firstRepeat: [3], learn: [4], marker: 'week'}
-10.09.2022 NEXT STEP { secondRepeat: [3], firstRepeat: [4], learn: [5], marker: 'week'}
-21.09.2022 NEXT STEP { secondRepeat: [4], firstRepeat: [5], learn: [6], marker: 'week'}
-04.10.2022 NEXT STEP { secondRepeat: [5], firstRepeat: [6], learn: [7], marker: 'week'}
-15.10.2022 NEXT STEP { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: 'week'}
+03.08.2022 STEP #1 { learn: [2], marker: 'week'}
+06.08.2022 STEP #2 { firstRepeat: [2], learn: [3], marker: 'week'}
+23.08.2022 STEP #3 { secondRepeat: [2], firstRepeat: [3], learn: [4], marker: 'week'}
+10.09.2022 STEP #4 { secondRepeat: [3], firstRepeat: [4], learn: [5], marker: 'week'}
+21.09.2022 STEP #5 { secondRepeat: [4], firstRepeat: [5], learn: [6], marker: 'week'}
+04.10.2022 STEP #6 { secondRepeat: [5], firstRepeat: [6], learn: [7], marker: 'week'}
+15.10.2022 STEP #7 { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: 'week'}

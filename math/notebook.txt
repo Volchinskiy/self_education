@@ -37,6 +37,13 @@
 |  00.00.0000  firstRepeat:   https://www.youtube.com/watch?v=hNnRqceaM3g  |
 |  00.00.0000  learn:         https://www.youtube.com/watch?v=vXTwujSFN9g  |
 |__________________________________________________________________________|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #7                                                                 |
+|                                                                          |
+|  00.00.0000  secondRepeat:  https://www.youtube.com/watch?v=hNnRqceaM3g  |
+|  00.00.0000  firstRepeat:   https://www.youtube.com/watch?v=vXTwujSFN9g  |
+|  00.00.0000  learn:         https://www.youtube.com/watch?v=CH-D22hLE-Y  |
+|__________________________________________________________________________|
 
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
 |  STEP #0                                                                 |

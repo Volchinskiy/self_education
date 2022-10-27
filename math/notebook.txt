@@ -33,16 +33,23 @@
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
 |  STEP #6                                                                 |
 |                                                                          |
-|  00.00.0000  secondRepeat:  https://www.youtube.com/watch?v=izsJgGm4O8o  |
-|  00.00.0000  firstRepeat:   https://www.youtube.com/watch?v=hNnRqceaM3g  |
-|  00.00.0000  learn:         https://www.youtube.com/watch?v=vXTwujSFN9g  |
+|  24.10.2022  secondRepeat:  https://www.youtube.com/watch?v=izsJgGm4O8o  |
+|  24.10.2022  firstRepeat:   https://www.youtube.com/watch?v=hNnRqceaM3g  |
+|  24.10.2022  learn:         https://www.youtube.com/watch?v=vXTwujSFN9g  |
 |__________________________________________________________________________|
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
 |  STEP #7                                                                 |
 |                                                                          |
-|  00.00.0000  secondRepeat:  https://www.youtube.com/watch?v=hNnRqceaM3g  |
-|  00.00.0000  firstRepeat:   https://www.youtube.com/watch?v=vXTwujSFN9g  |
-|  00.00.0000  learn:         https://www.youtube.com/watch?v=CH-D22hLE-Y  |
+|  25.10.2022  secondRepeat:  https://www.youtube.com/watch?v=hNnRqceaM3g  |
+|  25.10.2022  firstRepeat:   https://www.youtube.com/watch?v=vXTwujSFN9g  |
+|  25.10.2022  learn:         https://www.youtube.com/watch?v=CH-D22hLE-Y  |
+|__________________________________________________________________________|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|  STEP #8                                                                 |
+|                                                                          |
+|  27.10.2022  secondRepeat:  https://www.youtube.com/watch?v=vXTwujSFN9g  |
+|  27.10.2022  firstRepeat:   https://www.youtube.com/watch?v=CH-D22hLE-Y  |
+|  27.10.2022  learn:         https://www.youtube.com/watch?v=yWx9DaczkVc  |
 |__________________________________________________________________________|
 
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|

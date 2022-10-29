@@ -17,8 +17,8 @@ Ukraine. I have a sister. You see it. I go to school. I understand. We live in t
 {3}
 I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. I feel happy.
 It helps me. He also works here. He thinks so. He lives in this house. She remembers it. She lives in this place.
-She speaks English very weel. It really helps me. It looks interesting. It seems interesting. He reads in English.
-She reads English books. It looks strange. He knows it. She sees this mistake. He sees that mistak. It happens.
+She speaks English very well. It really helps me. It looks interesting. It seems interesting. He reads in English.
+She reads English books. It looks strange. He knows it. She sees this mistake. He sees that mistake. It happens.
 He wants more. She wants more practice. It really happens.
 
 21.09.2022
@@ -32,17 +32,17 @@ it. You speak English very well. We live here. I live in this city. We live in t
 {2}
 I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine.
 I understand you very well. I live in this city. We remember it. I speak English. I work there. They help me.
-We understand you. I have an idea. I have a borther. They go to school. You speak English very well. I have a car.
+We understand you. I have an idea. I have a brother. They go to school. You speak English very well. I have a car.
 We live here. I remember it very well. I live in this city. I go to work. I study here. I want it. We think so.
 I study there. I know it. I work here. They go to work. You know it. I work. I live in this country. We live in
 Ukraine. I have a sister. You see it. I go to school. I understand. We live in this country. I see it.
 
 {3}
-I love you. We want it. You work very hard. They study very hard. He lives tehre. She feels happy. It helps me.
+I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. It helps me.
 He also works here. He thinks so. He lives in this house. She remembers it. She lives in this place. She speaks
 English very well. It really helps me. It looks interesting. It seems interesting. He reads in English. She reads
 English books. It looks strange. He knows it. She sees this mistake. He sees that mistake. It happens. He wants
-more. She wants more parctice. It really happens.
+more. She wants more practice. It really happens.
 
 23.09.2022
 {4}
@@ -60,7 +60,7 @@ practice. She reads in English. He loves you. He knows more. I want more practic
 He often plays computer games. She feels so happy. I speak English. She knows it. He does it every day. She
 goes to school. He goes to work. He often goes to the cinema. She often goes to the park. She does it very well.
 He has a house. She has a car. He has a dog. She has a cat. He has money. He has dollars. I have dollars. She has
-interesting ideas. He has an offer. She watches TV. He teaches English. He misses you. He always finishs his work
+interesting ideas. He has an offer. She watches TV. He teaches English. He misses you. He always finishes his work
 on time. She usually relaxes at home. She usually has a rest at home. He tries to do it. She tries to learn English.
 He tries to find a job. He sometimes plays computer games.
 
@@ -119,9 +119,9 @@ home. He tries to do it. She tries to learn English. He tries to find a job. He 
 He wants to do it. She watches TV. She has a cat. She always does it on time. She goes to school. He does it
 every day. He misses you. She sometimes goes to the cinema. He sometimes plays computer games. He has a dog.
 She teaches it. He tries to find a job. He goes to work. She feels so happy. She has interesting ideas. He often
-goes to ther cinema. He sometimes wants to do it. She misses you. He tries to do it. She wants to go to the park.
+goes to the cinema. He sometimes wants to do it. She misses you. He tries to do it. She wants to go to the park.
 He has money. She has a car. He tries to help me. He has dollars. He has an offer. He teaches English. She tries
-to learn English. He has a house. She does it very well. He often plays computer games. She treis to udnerstand
+to learn English. He has a house. She does it very well. He often plays computer games. She tries to understand
 it. She often goes to the park.
 
 30.09.2022
@@ -132,7 +132,7 @@ knows everything. My boss usually reads all the documents. My boss usually check
 everything. Our mother thinks the same. Their ideas seem so interesting. His father has a car. Her brother often
 says it. He has a company. Its profit seems so big. My girlfriend feels happy. My boyfriend loves me very much.
 My girlfriend loves me very much. My friend always supports me. My friends sometimes say it. My best friend always
-halps me. My teaches usually comes to work early. My father usually comes home late.
+helps me. My teaches usually comes to work early. My father usually comes home late.
 
 {8}
 I see everything. My sister lives there. This lesson seems interesting. This lesson helps me. I understand everything.
@@ -157,7 +157,7 @@ It looks strange. He reads in English. She remembers it. I looks interesting. He
 hard. He helps me. He understands you very well. He also works here. It really happens. He sees that mistake.
 She works very hard. He feels happy. He also remembers it. He lives in this house. She also works there. He knows
 it. She really remembers it. She also thinks so. He also knows it. She lives in that place. She loves you. She speaks
-English very well. He thinks so. He lives in this country. She reads Englsih books. I love you. It really helps me.
+English very well. He thinks so. He lives in this country. She reads English books. I love you. It really helps me.
 She sees this mistake. She helps me. He feels happy. It seems interesting. He wants more. He also works here.
 They study very hard. He really thinks so. She lives in that city. It helps me. It happens. She lives in this
 place. She wants more. He wants more practice. He lives there. I fell happy. We want it. She wants more practice.
@@ -167,13 +167,13 @@ She reads in English. He loves you. He knows more. I want more practice.
 He often plays computer games. She feels so happy. I speak English. She knows it. He does in every day. She goes
 to school. He goes ot work. He often goes to the cinema. She often goes to the park. She does it very well. He
 has a house. She has a car. He has a dog. She has a cat. He has money. She has interesting ideas. He has an offer.
-She wantches TV. He teaches English. He misses you. He always finishes his work on time. She usually realxes at
+She watches TV. He teaches English. He misses you. He always finishes his work on time. She usually relaxes at
 home. He tries to do it. She tries to learn English. He tries to find a job. He sometimes plays computer games.
 
 {6}
 He wants to do it. She watches TV. She has a cat. She always does it on time. She goes to school. He does it every
 day. He misses you. She sometimes goes to the cinema. He sometimes plays computer games. He has a dog. She teaches
-it. He tries to find a job. He goes to shcool. She feels so happy. She has an interesting ideas. He often goes to
+it. He tries to find a job. He goes to school. She feels so happy. She has an interesting ideas. He often goes to
 the cinema. He sometimes wants to do it. She misses you. He tries to do it. She wants to go to the park. He has
 money. She has a car. He tries to help me. He has dollars. He has an offer. He teaches English. She tries to learn
 English. He has a house. She does it very well. He often plays computer games. She tries to understand it. She often
@@ -193,7 +193,7 @@ help me. My teacher usually comes to work. My father comes home late.
 I see everything. My sister lives there. This lesson seems interesting. This lesson helps me. I understand everything.
 My parents know it. Her brother often says it. That offer seems strange. My boss always says it. His lessons seem
 very useful. My brother wants it. His father has a car. My parents want to do it. Your lessons really help. My sister
-studies there. These lessons help me. They know everything. My brother tries to do it. Thier ideas seem very interesting.
+studies there. These lessons help me. They know everything. My brother tries to do it. Their ideas seem very interesting.
 My boss usually checks all the information. My sister lives in this place. My friend has a car. He has a company.
 Its profit seems so big. My boss knows everything. Our mother thinks the same. My boss reads all the documents.
 These lessons seem very useful. This offer looks interesting. This company has money. These lessons really help.
@@ -201,7 +201,7 @@ I feel it.
 
 {9}
 I have a family. We often do it. You always say it. They often go to the cinema. He knows this thing. She sees this
-mistake. It looks so interesting. I see this mistake. I see these mistakes. I understand that perosn. I understand
+mistake. It looks so interesting. I see this mistake. I see these mistakes. I understand that person. I understand
 those people. He goes to school. She always does it very well. He has an idea. My friend thinks so. My friends thinks
 the same. Our boss knows it. All your ideas seem very interesting. Their offer seems really strange. His idea seems
 very interesting. Her words seem strange. I see its success.
@@ -232,7 +232,7 @@ school. Our mother thinks the same. Our mother also thinks so. He really thinks 
 works there. He wants more. He knows more. He works very hard. He thinks so. He has a company. Its profit seems so
 big. My boss knows everything. She wants to go there. She reads in English. We speak English. You see it. He wants
 to do it. She feels so happy. I understand. I have a sister. He has an idea. She has interesting ideas. I see
-everything. She works very hard. My boss usually cheks all the information. I love you.
+everything. She works very hard. My boss usually checks all the information. I love you.
 
 {12}
 I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves
@@ -243,7 +243,7 @@ so. He tries to do it. He lives in this country. His ides seems very interesting
 He also works here. She goes to school. I read English books. She helps me. He also knows it. We sees his success.
 She often goes to the park. That offer seems strange. He has an offer. Their ideas seem very interesting. She always
 does it on time. He sees that mistake. She watches TV. She wants more. I work. Her words seem strange. He often plays
-computre games. He goes to work. She lives in that place. He understands you very well. They go to work. You always
+computer games. He goes to work. She lives in that place. He understands you very well. They go to work. You always
 say it. This lesson helps me. They often go to the cinema. These lessons seem very useful. They help me. I speak
 English. He sometimes wants to do it. I understand everything. She lives in this place. I read in English. He says
 interesting things. We see their success. I know this word.
@@ -254,7 +254,7 @@ This lesson seems interesting. These lessons seem very useful. This lesson helps
 lessons really help. My brother wants it. My sister lives there. My parents know it. My friend has a car. My boss
 knows everything. My boss usually reads all the documents. I understand everything. Our mother thinks the same.
 Their ideas seem so interesting. His father has a car. Her brother often says it. He has a company. Its profit
-seems so big. My girlfiend feels happy. My boyfriend loves me very much. My girlfriend loves me very much. My friend
+seems so big. My girlfriend feels happy. My boyfriend loves me very much. My girlfriend loves me very much. My friend
 always supports me. My friends sometimes say it. My best friend always helps me. My teacher usually comes to work
 early. My father usually comes home late.
 
@@ -435,3 +435,31 @@ He doesn't try to find a good job. I don't want to live in this country. My frie
 problem. I don't want to study there. We don't want to live in another place. It doesn't seem useful. They don't help me. I don't want to
 tell you this thing. I don't want to think about it. I don't understand these people. We don't understand it. I don't want to discuss it.
 He doesn't have a car. I don't want to drink. I don't want to live in that city. It doesn't help me.
+
+29.10.2022
+{13}
+I want it. I want this thing. I want this computer. I want this dress. I want a new computer. I want a good car. I want a new flat.
+I really want it. I want to do it. She want to do it. I want to know it. I really want to know it. I want to improve my English.
+I want to speak English better. I want to speak English without mistakes. I want to improve my grammar. I want to speak English correctly.
+I want to learn English fast. I want to have a good job. I want to have a good car. I want to be happy. She wants to do it right now.
+He want to buy this thing. I want to speak English fluently and correctly. My friend wants to check it one more time. My friend want
+to check it again. My friend wants to live abroad. I want to go abroad. My parents want to live in another place. I really want to
+thank you.
+
+{14}
+I want to improve my grammar. I want to go there one more time. She wants to live in another place. She wants to do it. I want to
+know it. I want to speak English without mistakes. She wants to see you right now. I want this computer. I want this dress. I want
+a good car. He wants to buy this thing. I want to go there again. I want to have a good job. I want to speak English fluently and
+correctly. I really want it. I want to do it. I want to be happy. I want to thank you. I want to know English better. I really want
+to know it. I want a new computer. I want to speak English better. I want to speak English correctly. My parents want to live in
+another place. I want to improve my English. I want to go to another place. I want a new apartment. I want to buy a new flat. My
+friend wants to live abroad. She wants to do it right now. My friend wants to check it one more time. I want it. I want to go abroad.
+I want this thing. I want to have a good car. I want to learn English fast. We want to know English.
+
+{15}
+I like it. I like English. I like your lessons. I like this idea. I like this thing. I like this video. I like this playlist. I like
+this channel. I like this method. I really like it. I really like these lessons. I also like it. I like it, too. We like it. You
+like it. They like it. He likes it. She likes it. I see you like it. I know they like it. She likes this place. He likes this dress.
+My friend likes this hotel. I'd like. I'd like a cup of coffee. I'd like a cup of tea. I'd like to drink a cup of coffee. I'd like
+to do it. I'd like to know English very well. I'd like to visit this place. I'd like to become a businessman. I'd like to become a
+teacher. I'd like to become a doctor. I'd like to become a manager. 

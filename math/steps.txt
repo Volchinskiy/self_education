@@ -6,5 +6,5 @@
 20.10.2022 STEP #6 { secondRepeat: [4], firstRepeat: [5], learn: [6], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 24.10.2022 STEP #7 { secondRepeat: [5], firstRepeat: [6], learn: [7], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 25.10.2022 STEP #8 { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
-
-00.00.0000 STEP #0 { secondRepeat: [0], firstRepeat: [0], learn: [0], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+28.10.2022 STEP #9 { secondRepeat: [7], firstRepeat: [8], learn: [9], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+28.10.2022 STEP #10 { secondRepeat: [8], firstRepeat: [9], learn: [10], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }

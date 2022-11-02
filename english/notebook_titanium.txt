@@ -17,7 +17,7 @@ often go there. I often go there. I often go there. I sometimes go there. I also
 want it. I travel every year. I travel every month. I often travel. I like this language. I like that language.
 We like this place. I really like this place. I like this thing. I like these videos. I go to work. I go to this
 park. I go to school. I like English. I like this practice. I really like English. I also think so. They think so.
-I often play this game. I can help you. I like this song. They often play football. I like travelling. I like
+I often play this game. I can help you. I like this song. They often play football. I like traveling. I like
 learning English. I often see these things. We like this language. I want more practice. I often travel. I love
 you. I work there. I like this music. We live here.
 
@@ -30,7 +30,7 @@ New York. I understand it. I understand you. I learn English. I live in Ukraine.
 well. I speak English and Russian. I speak English. I like English. I know. I learn English online. I know it.
 I like this city. I want it. I work. I see my results. I study. We understand you. I work and study. I like this
 program. I see you. I understand. I like this video. I see my result. I understand this lesson. You help me.
-I know it very well. I can speak English. I like this place. We live in this city. You speak English veyr well.
+I know it very well. I can speak English. I like this place. We live in this city. You speak English very well.
 I speak Ukrainian. I really want it. I really understand this lesson. I see it very well. You really help me.
 I sometimes think about it. I think so. They live there. I think about it. We usually by it there. I often think
 about it. I like music. I like these things. I play this game. I go there. They also think so. I often do it.
@@ -40,7 +40,7 @@ about it. We often go there. I often go there. I sometimes go there. I also thin
 it. I travel every year. I travel every month. I often travel. I like this language. I like this language. I like
 that language. We like this place. I really like this place. I like this thing. I like these video. I go to work.
 I go to this park. I go to school. I like English. I like this practice. I really like English. I also think so.
-They think so. I often play this game. I can help you. I like this song. They often play footbal. I like travelling.
+They think so. I often play this game. I can help you. I like this song. They often play football. I like traveling.
 I often see these things. We like this language. I want more practice. I often travel. I love you. I work there.
 I like this music. We live here.
 
@@ -49,14 +49,14 @@ I like this music. We live here.
 He loves you. He loves her. He lived in London. He lives in London. He watches different videos on YouTube. He
 sees this problem. She understands it. I really like it. She lives very far. She likes this game. I really like
 this video. I like it very much. I like it a lot. It costs twenty euros. She makes mistakes. He often does it.
-He usually buys these tikets. I do it very often. She lives there. He agrees. He often does it. He lives very far.
+He usually buys these tickets. I do it very often. She lives there. He agrees. He often does it. He lives very far.
 It costs much less. I agree with you. He really wants it. He often makes mistakes. He sees this problem. She
 knows it better. He goes to work. She understands it. I really want it. I absolutely agree with you. She wants
-it. He usually buys these tikets. It costs less. He feels better. He sees this mistake. She lives in that place.
+it. He usually buys these tickets. It costs less. He feels better. He sees this mistake. She lives in that place.
 It costs twenty euros. He lives here. He understands. I live near. She agrees with it. He lives in that city.
-She often buys these tikets. She makes mistakes. It costs much more. I works very well. It costs ten dollars.
-She goes to school. It costs fifty pounds. I buy these tikets online. He does it every day. They work together.
-I see this problem. He knows Englihs. It costs more. I know that it costs more. I think he speaks English very
+She often buys these tickets. She makes mistakes. It costs much more. I works very well. It costs ten dollars.
+She goes to school. It costs fifty pounds. I buy these tickets online. He does it every day. They work together.
+I see this problem. He knows English. It costs more. I know that it costs more. I think he speaks English very
 well. He often says it. I know how it works. I think it works very well. He knows a lot. He understands that
 person. I think he does it better. She travels a lot. We often hear it on TV. He likes it. I see that he feels
 much better. I think that he understands us. He often calls me. He sees these videos. He knows so little. It
@@ -76,7 +76,7 @@ I don't know. He loves you. He lived in London. I don't love it. I see a hotel. 
 is very big. I understand you. They live in this country. I travel every year. I also think so. I speak English.
 I go to work. I like this language. I study and work. I know it very well. They live in this country. I live in
 New York. I understand it. I understand you. I learn English. I live in Ukraine. I see it. I understand you very
-well. I speak English and Russina. I speak English. I like English. I know. I learn English online. I know it.
+well. I speak English and Russian. I speak English. I like English. I know. I learn English online. I know it.
 I like this city. I want it. I work. I see my results. I study. We understand you. I work and study. I like this
 program. I see you. I understand. I like this video. I see my result. I understand this lesson. You help me.
 I know it very well. I can speak English. I like this place. We live in this city. You speak English very well.
@@ -89,21 +89,21 @@ about it. We often go there. I often go there. I sometimes go there. I also thin
 it. I travel every year. I travel every month. I often travel. I like this language. I like that language. We
 like this place. I really like this place. I like this thing. I like these videos. I go to work. I go to this park.
 I go to school. I like English. I like this practice. I really like English. I also think so. They think so. I
-often paly this game. I can help you. I like this song. They often play football. I like travelling. I often
+often paly this game. I can help you. I like this song. They often play football. I like traveling. I often
 see these things. We like this language. I like learning English. I want more practice. I often travel. I love you.
 I work there. I like this music. We live here.
 
 29.09.2022
 {2}
-He loves you. He loves her. He lived in London. He lives in London. He wantches different videos on YouTube. He
+He loves you. He loves her. He lived in London. He lives in London. He watches different videos on YouTube. He
 sees this problem. She understands it. I really like it. She lives very far. She likes this game. I like it very
-much. I like it a lot. It costs twenty euros. She makes mistakes. He often does it. He usually buys these tikets.
+much. I like it a lot. It costs twenty euros. She makes mistakes. He often does it. He usually buys these tickets.
 I do it very often. She lives there. He agrees. He often does it. He lives very far. It costs much less. I agree
 with you. He really wants it. He often makes mistakes. He sees this problem. She knows it better. He goes to work.
 She understands it. I really want it. I absolutely agree with you. She wants it. He usually buys these tickets.
 It costs less. He feels better. He sees this mistake. She lives in that place. It costs twenty euros. He lives
 here. He understands. I live near. She agrees with it. He lives in that city. She often buys these tickets. She
-makes mistakes. It costs much more. It works very well. It costs ten dollars. She goes to shcool. It costs fifty
+makes mistakes. It costs much more. It works very well. It costs ten dollars. She goes to school. It costs fifty
 pounds. I buy these tickets online. He does it every day. They work together. I see this problem. He knows English.
 It costs more. I know that it costs more. I think he speaks English very well. He often says about it. I know
 how it works. I think it works very well. He knows a lot. He understands that person. I think he does it better.
@@ -114,7 +114,7 @@ says it. They sometimes say it. I hear you. I hear them. She hears me. I think t
 he does it better. I know you do it better. I understand these people. I understand those people. He understands
 those people. He works too little. He works so much. She calls me sometimes. She calls him sometimes. They call me
 sometimes. It really helps me. You really help me. It really helps him. He likes this video. He often tells me this
-thing. I understand why it happens. She always wantches TV. Sometimes he says it. They oftne tell me these things.
+thing. I understand why it happens. She always watches TV. Sometimes he says it. They often tell me these things.
 She likes it. I see it really helps me. I think he works very well. She likes this idea. It really helps me. It
 helps me a lot. She works too much. She knows a lot. I often hear it. I know that it costs much more.
 
@@ -152,7 +152,7 @@ here. He understands. I live near. She agrees with it. He lives in that city. Sh
 makes mistakes. It costs much more. It works very well. It costs ten dollars. She goes to school. It costs fifty
 pounds. I buy these tickets online. He does it every day. They work together. I see this problem. He knows English.
 It costs more. I that it costs more. I think he speaks English very well. He often says it. I know how it works.
-I think it works very well. He knwos a lot. He understands this person. I think he does it better. We often hear
+I think it works very well. He knows a lot. He understands this person. I think he does it better. We often hear
 it on TV. He likes it. I see that he feels better. I think that he understands us. He often calls me. He watches
 these videos. He knows so little. It helps me so much. It really helps me. You help me so much. It helps you so
 much. I work so much. She works so much. I learn English a lot. She works so much. You work too much. It helps me.
@@ -170,7 +170,7 @@ I see a girl. I want an apple. I see one person. They have money. I have a dolla
 cars. I have some questions. He has some money. She has some time. I see a bus. I have a book. I have an idea.
 I see an apple. I have a brother. I see a teacher. I see a hotel. I know this man. I see a girl. I have some results.
 I want an apple. I have an orange. I understand your question. I have a problem. I see a woman. I have time. I see
-a univesity. I have some questions. I see a bus. I like this car. I have one problem. We see a hotel. I like this
+a university. I have some questions. I see a bus. I like this car. I have one problem. We see a hotel. I like this
 question. I know this university. They have money. I see one person. We see a bus. They have a problem. I like this
 university. I want an orange. I have a job. I see a man. He has a job. I have a question. I see a school. We see a
 teacher. I have a sister. I see two people. I have an apple. I see a house. I have little free time. I have an apple.
@@ -189,17 +189,17 @@ I really like sport. They drink coffee. I want more exercises. I like music. I s
 {4}
 We see two men. I see a man and two women. She has two children. He has a question. She has two daughters and a son.
 I see you have a question. I see that you have little free time. She has two children. I like English. He sees one
-woman. He has a question. She has two daugthers and a son. She speaks English and German. He has a children. I
+woman. He has a question. She has two daughters and a son. She speaks English and German. He has a children. I
 really like English. We see two men. I see a mistake. She has children. He has a job. I see a man and two women.
-He has little free time. I see three women. He has a daughter. They have a child. He has an apartament. They have
+He has little free time. I see three women. He has a daughter. They have a child. He has an apartment. They have
 two sons. I see for people. I like cakes. She has little free time. She sees a taxi. She has a son. We like seafood.
-We see an airport. She eats fish. She has some questions. I like chocolate. I have an apartament. They have a daughter.
+We see an airport. She eats fish. She has some questions. I like chocolate. I have an apartment. They have a daughter.
 She has a problem. I like seafood. I see an airport. He has motivation. He knows English and Spanish. He sees an
 airport. They eat meat and fish. We see a woman and three men. He eats meat. He likes meat more. It often happens.
 I have an idea. He has this money. She likes swimming. He works in a hospital. He likes that hotel more. She likes
 sport. He knows English better. We see a hospital. She knows two foreign languages. I see you have a question.
 I like swimming. She reads English books. He has an idea. I know one foreign language. I know two foreign languages.
-He knows many foreing languages. I see that you have little free time. I see she has little free time. I see they
+He knows many foreign languages. I see that you have little free time. I see she has little free time. I see they
 have much free time. He likes music. I have lots of time. She likes music. They like music. We see a university.
 You see a building. We see a school. He likes swimming. They like swimming. I know he has a job. I know that you
 have a job. I know she has a job. He likes these ideas. He likes this idea. I like these ideas. I know he has money.
@@ -214,7 +214,7 @@ He likes pizza. I have a girlfriend.
 I see a girl. I want an apple. I see one person. They have money. I have a dollar. I like this car. He likes these
 cars. I have some questions. He has some money. She has some time. I see a bus. I have a book. I have an idea.
 I see an apple. I have a brother. I see a teacher. I see a hotel. I know this man. I see a girl. I have some results.
-I want an aplle. I have an orange. I understand your question. I have a problem. I see a woman. I have time. I
+I want an apple. I have an orange. I understand your question. I have a problem. I see a woman. I have time. I
 see a university. I have some questions. I see a bus. I like this car. I have one problem. We see a hotel. I like
 this question. I know this university. They have money. I see one person. We see a bus. They have a problem. I like
 this university. I want an orange. I have a job. I see a man. I have a question. I see a school. We see a teacher.
@@ -265,7 +265,7 @@ I'd like to speak English better. I want to work. I want to be a manager. I want
 to become a teacher. She wants to live abroad. I really want to understand it. We want to buy that thing. I'd like to speak English
 fluently. I want to be a programmer. I want to understand it. I want to speak English fluently. I'd like to speak English correctly.
 I want to but this thing. I understand her. He wants to help me. He wants to study there. I want to live in this city. She wants to
-help us. I'd like to read English books. I want to live in this country. I want to buy two tikets. I see his father. I want to buy a
+help us. I'd like to read English books. I want to live in this country. I want to buy two tickets. I see his father. I want to buy a
 computer. I like their idea. I see them. I know them. I'd like to speak English without mistakes. I'd like to visit new countries and
 cities. I see her mother. I'd like to go to England. They want to study abroad. He wants to study abroad. I want to study in my country.
 I want to read these books. I want to read this book. He wants to read those books. I want to do it this week. She wants to do it this
@@ -378,4 +378,30 @@ this year. He wants to visit Russian this year. I want to visit Germany next mon
 England next year. He wants to go to China this year. We want to visit Italy next month. I want to learn English here. I want to read
 that book. I see their house. I'd like to visit Japan. I'd like to go to the United States. I understand them. I want to buy a ticket.
 I want to visit the United States next year. I want to do it next week. I want to visit Germany. I want to read books in English.
-I see his car. I want to study here. I see them now. 
+I see his car. I want to study here. I see them now.
+
+02.11.2022
+{6}
+They don't agree. I don't make mistakes. I don't do business. I pay for it. They don't play football. I don't want to spend my money
+on it. They don't pay for it. They don't agree. They don't agree. I don't do those exercises. They play tennis. I don't make mistakes.
+We don't want it. I don't like this idea. I don't do business. They don't agree with it. They don't control it. I don't do it. I don't
+like this game. I don't know. I don't pay. They don't understand these thing. I don't want it. I don't have free time. You don't make
+mistakes. I don't go there. I don't hear you. I pay for it. I don't understand. They don't make mistakes. I don't have time. I pay
+for my education. They don't think about their future. I don't think about it. I don't have much time. We don't pay for our education.
+They don't play football. I don't know it. They do business. We don't pay. They don't control this situation. I don't understand it.
+We don't play tennis. I don't pay fot this course. I don't work. I don't understand it now. I want it now. I know it now. They don't
+see this problem. I don't want to buy it. I don't want to spend my money on these things. I don't like their idea. I don't want to
+spend my money on it. I don't want to work there. I don't eat this food. I don't want to live in that country. We talk about different
+things. They don't have big money. I don't want to talk about this thing. I want to talk about this thing. I want to talk about it.
+I see that you don't like it. They often talk about politics. They don't want to live in this country. They don't have time. I don't
+have much time. They don't tell me these things. I don't want to spend my time on this thing. We don't want to buy this thing. We don't
+want to spend our life on this thing. I don't want to pay for it. We don't want to pay for this thing. I don't pay for it. We don't
+like their ideas. I don't want to spend my time on it. You don't want to spend your time on it. He want to spend his time on it.
+We don't like this song. You don't like this book. We like this song. I don't want to talk about it now. They don't want to hear it.
+We want to talk about it now. I don't want to talk about it. We want to read this book. You don't want to talk about this situation.
+You don't help us. They don't help me. I have limitless energy. I don't help you. I see that you don't want it. I see that they want
+it. I know that you want it. I don't eat it. You don't eat it. We don't eat this food. I don't want to pay so much money for it.
+I don'w want to be a manager. I enjoy that i do. I don't understand him. I don't drink coffee. They don't say it. They don't talk
+about it. I don't want to pay. I don't want to spend so much money for it. We don't have free time. They don't have money. I don't
+want to talk about politics. We often talk about it. I don't understand them. I don't like this music. They don't like this game.
+I don't want to be a businessman. They like this game. I don't want to be a businessman.

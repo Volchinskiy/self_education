@@ -63,7 +63,7 @@
                       firstRepeat: { Orange: [22,23,24], Titanium: [8], },
                       learn: { Orange: [25,26,27], Titanium: [9], },
                      }
-11.11.2022 NEXT STEP {
+21.11.2022 NEXT STEP {
                       secondRepeat: { Orange: [22,23,24], Titanium: [8], },
                       firstRepeat: { Orange: [25,26,27], Titanium: [9], },
                       learn: { Orange: [28,29,30], Titanium: [10], },

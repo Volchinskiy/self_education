@@ -129,6 +129,7 @@
 |  20.11.2022  firstRepeat:   https://www.youtube.com/watch?v=D1kfYBkX9FE  |
 |  21.11.2022  firstRepeat:   https://www.youtube.com/watch?v=hN0wsq5LNOc  |
 |  22.11.2022  firstRepeat:   https://www.youtube.com/watch?v=EKL6NiIQ6ZU  |
+|  24.11.2022  firstRepeat:   https://www.youtube.com/watch?v=AgH4OAKbmkM  |
 |  00.00.0000  firstRepeat:   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |  00.00.0000  learn:         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |__________________________________________________________________________|

@@ -15,3 +15,4 @@
 16.11.2022 STEP #15 { secondRepeat: [13], firstRepeat: [14], learn: [15], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 17.11.2022 STEP #16 { secondRepeat: [14], firstRepeat: [15], learn: [16], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 23.11.2022 STEP #17 { secondRepeat: [15], firstRepeat: [16], learn: [17], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+02.12.2022 STEP #18 { secondRepeat: [16], firstRepeat: [17], learn: [18], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }

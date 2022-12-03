@@ -10,3 +10,7 @@ programming/Arrays
 
 # temporary file
 hot_keys.txt
+.prettierrc.json
+package.json
+english/format.js
+english/test.txt

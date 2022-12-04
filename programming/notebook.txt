@@ -137,6 +137,7 @@
 |  02.12.2022  firstRepeat:   https://www.youtube.com/watch?v=UjZjSDyi9AM  |
 |  03.12.2022  firstRepeat:   https://www.youtube.com/watch?v=-ef2E0ozxao  |
 |  04.12.2022  learn:         https://www.youtube.com/watch?v=xS9FicVrOTI  |
+|  04.12.2022  learn:         https://www.youtube.com/watch?v=NZMrJ2adEyY  |
 |  00.00.0000  learn:         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |__________________________________________________________________________|
 

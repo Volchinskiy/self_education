@@ -7,6 +7,7 @@ programming/Iteration
 programming/PartialApplication
 programming/HigherOrderFunction
 programming/Arrays
+programming/Composition
 
 # temporary file
 hot_keys.txt
@@ -14,3 +15,4 @@ hot_keys.txt
 package.json
 english/format.js
 english/test.txt
+test_result.txt

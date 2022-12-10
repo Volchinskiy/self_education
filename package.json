@@ -1,0 +1,20 @@
+{
+  "name": "self_education",
+  "version": "1.0.0",
+  "description": "I will become a good software engineer as soon as possible.",
+  "main": "index.js",
+  "scripts": {
+    "format": "node .\\english\\format.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volchinskiy/SELF-EDUCATION.git"
+  },
+  "keywords": [],
+  "author": "thyxaxa@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Volchinskiy/SELF-EDUCATION/issues"
+  },
+  "homepage": "https://github.com/Volchinskiy/SELF-EDUCATION#readme"
+}

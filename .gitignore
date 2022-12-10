@@ -15,4 +15,5 @@ hot_keys.txt
 package.json
 english/format.js
 english/test.txt
-test.txt
+english/notebook_golden2.txt
+test_notebook_golden2.txt

@@ -7,5 +7,4 @@
 15.10.2022 STEP #7 { secondRepeat: [6], firstRepeat: [7], learn: [8], marker: 'week'}
 22.10.2022 STEP #8 { secondRepeat: [7], firstRepeat: [8], learn: [9], marker: 'week'}
 11.11.2022 STEP #9 { secondRepeat: [8], firstRepeat: [9], learn: [10], marker: 'week'}
-
-00.00.0000 STEP #0 { secondRepeat: [0], firstRepeat: [0], learn: [0], marker: 'week'}
+10.12.2022 STEP #10 { secondRepeat: [9], firstRepeat: [10], learn: [11], marker: 'week'}

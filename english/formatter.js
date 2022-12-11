@@ -111,4 +111,5 @@
   }
 
   new Formatter();
+  console.log('test_gpg');
 }

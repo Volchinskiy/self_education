@@ -111,5 +111,4 @@
   }
 
   new Formatter();
-  console.log('test_ssh_key');
 }

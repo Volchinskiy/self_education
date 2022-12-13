@@ -19,3 +19,5 @@
 05.12.2022 STEP #19 { secondRepeat: [17], firstRepeat: [18], learn: [19], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 09.12.2022 STEP #20 { secondRepeat: [18], firstRepeat: [19], learn: [20], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
 10.12.2022 STEP #21 { secondRepeat: [19], firstRepeat: [20], learn: [21], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+10.12.2022 STEP #21 { secondRepeat: [19], firstRepeat: [20], learn: [21], marker: "ЧИСЛОВЫЕ ВЫРАЖЕНИЯ. ЧИСЛОВЫЕ МНОЖЕСТВА" }
+13.12.2022 STEP #21 { secondRepeat: [20], firstRepeat: [21], learn: [1], marker: "ПРОЦЕНТЫ" }

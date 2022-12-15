@@ -1,3 +1,6 @@
+# dependencies
+node_modules
+
 # forked or cloned repositories
 programming/Reusable
 programming/DataTypes

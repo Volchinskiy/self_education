@@ -155,6 +155,7 @@
 |  16.12.2022  secondRepeat:  https://www.youtube.com/watch?v=GtKPniOEzh8  |
 |  17.12.2022  secondRepeat:  https://www.youtube.com/watch?v=z73wmpdweQ4  |
 |  18.12.2022  secondRepeat:  https://www.youtube.com/watch?v=1gL627DQF4A  |
+|  19.12.2022  secondRepeat:  https://www.youtube.com/watch?v=UjZjSDyi9AM  |
 |  00.00.0000  secondRepeat:  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |  00.00.0000  firstRepeat:   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |  00.00.0000  learn:         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |

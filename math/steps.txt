@@ -23,3 +23,4 @@
 12.12.2022 STEP #23 { secondRepeat: [21], firstRepeat: [22], learn: [1], marker: "ПРОЦЕНТЫ" }
 15.12.2022 STEP #24 { secondRepeat: [22], firstRepeat: [1], learn: [2], marker: "ПРОЦЕНТЫ" }
 17.12.2022 STEP #25 { secondRepeat: [1], firstRepeat: [2], learn: [1], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }
+22.12.2022 STEP #26 { secondRepeat: [2], firstRepeat: [1], learn: [2], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }

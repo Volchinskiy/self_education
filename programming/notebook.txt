@@ -161,6 +161,7 @@
 |  21.12.2022  firstRepeat:   https://www.youtube.com/watch?v=NZMrJ2adEyY  |
 |  22.12.2022  firstRepeat:   https://www.youtube.com/watch?v=2h9syXN5wO0  |
 |  22.12.2022  firstRepeat:   https://www.youtube.com/watch?v=H6S8QJo2Qxg  |
+|  23.12.2022  learn:         https://www.youtube.com/watch?v=SzaXTW2qcJE  |
 |  00.00.0000  learn:         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |
 |__________________________________________________________________________|
 

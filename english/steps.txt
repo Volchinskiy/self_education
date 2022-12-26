@@ -20,76 +20,81 @@
 12.09.2022 NEXT STEP { secondRepeat: [55,56,57], firstRepeat: [58,59,60], learn: [634,635], marker: 'golden' }
 15.09.2022 NEXT STEP {
                       secondRepeat: [58,59,60],
-                      firstRepeat:  [634,635],
+                      firstRepeat:   [634,635],
                       learn:        { Orange: [1,2,3],    Titanium: [1], }
                      }
 19.09.2022 NEXT STEP {
                       secondRepeat: [634,635],
-                      firstRepeat:  { Orange: [1,2,3],    Titanium: [1], },
+                      firstRepeat:   { Orange: [1,2,3],    Titanium: [1], },
                       learn:        { Orange: [4,5,6],    Titanium: [2], },
                      }
 25.09.2022 NEXT STEP {
                       secondRepeat: { Orange: [1,2,3],    Titanium: [1], },
-                      firstRepeat:  { Orange: [4,5,6],    Titanium: [2], },
+                      firstRepeat:   { Orange: [4,5,6],    Titanium: [2], },
                       learn:        { Orange: [7,8,9],    Titanium: [3], },
                      }
 01.10.2022 NEXT STEP {
                       secondRepeat: { Orange: [4,5,6],    Titanium: [2], },
-                      firstRepeat:  { Orange: [7,8,9],    Titanium: [3], },
+                      firstRepeat:   { Orange: [7,8,9],    Titanium: [3], },
                       learn:        { Orange: [10,11,12], Titanium: [4], },
                      }
 13.10.2022 NEXT STEP {
                       secondRepeat: { Orange: [7,8,9],    Titanium: [3], },
-                      firstRepeat:  { Orange: [10,11,12], Titanium: [4], },
+                      firstRepeat:   { Orange: [10,11,12], Titanium: [4], },
                       learn:        { Orange: [13,14,15], Titanium: [5], },
                      }
 19.10.2022 NEXT STEP {
                       secondRepeat: { Orange: [10,11,12], Titanium: [4], },
-                      firstRepeat:  { Orange: [13,14,15], Titanium: [5], },
+                      firstRepeat:   { Orange: [13,14,15], Titanium: [5], },
                       learn:        { Orange: [16,17,18], Titanium: [6], },
                      }
 28.10.2022 NEXT STEP {
                       secondRepeat: { Orange: [13,14,15], Titanium: [5], },
-                      firstRepeat:  { Orange: [16,17,18], Titanium: [6], },
+                      firstRepeat:   { Orange: [16,17,18], Titanium: [6], },
                       learn:        { Orange: [19,20,21], Titanium: [7], },
                      }
 03.11.2022 NEXT STEP {
                       secondRepeat: { Orange: [16,17,18], Titanium: [6], },
-                      firstRepeat:  { Orange: [19,20,21], Titanium: [7], },
+                      firstRepeat:   { Orange: [19,20,21], Titanium: [7], },
                       learn:        { Orange: [22,23,24], Titanium: [8], },
                      }
 11.11.2022 NEXT STEP {
                       secondRepeat: { Orange: [19,20,21], Titanium: [7], },
-                      firstRepeat:  { Orange: [22,23,24], Titanium: [8], },
+                      firstRepeat:   { Orange: [22,23,24], Titanium: [8], },
                       learn:        { Orange: [25,26,27], Titanium: [9], },
                      }
 21.11.2022 NEXT STEP {
                       secondRepeat: { Orange: [22,23,24], Titanium: [8], },
-                      firstRepeat:  { Orange: [25,26,27], Titanium: [9], },
+                      firstRepeat:   { Orange: [25,26,27], Titanium: [9], },
                       learn:        { Orange: [28,29,30], Titanium: [10], },
                      }
 30.11.2022 NEXT STEP {
                       secondRepeat: { Orange: [25,26,27], Titanium: [9], },
-                      firstRepeat:  { Orange: [28,29,30], Titanium: [10], },
+                      firstRepeat:   { Orange: [28,29,30], Titanium: [10], },
                       learn:        { Orange: [31,32,33], Titanium: [11], },
                      }
 05.12.2022 NEXT STEP {
                       secondRepeat: { Orange: [28,29,30], Titanium: [10], },
-                      firstRepeat:  { Orange: [31,32,33], Titanium: [11], },
+                      firstRepeat:   { Orange: [31,32,33], Titanium: [11], },
                       learn:        { Orange: [34,35,36], Titanium: [12], },
                      }
 10.12.2022 NEXT STEP {
                       secondRepeat: { Orange: [31,32,33], Titanium: [11], },
-                      firstRepeat:  { Orange: [34,35,36], Titanium: [12], },
+                      firstRepeat:   { Orange: [34,35,36], Titanium: [12], },
                       learn:        { Orange: [37,38,39], Titanium: [13], },
                      }
 15.12.2022 NEXT STEP {
                       secondRepeat: { Orange: [34,35,36], Titanium: [12], },
-                      firstRepeat:  { Orange: [37,38,39], Titanium: [13], },
+                      firstRepeat:   { Orange: [37,38,39], Titanium: [13], },
                       learn:        { Orange: [40,41,42], Titanium: [14], },
                      }
 22.12.2022 NEXT STEP {
                       secondRepeat: { Orange: [37,38,39], Titanium: [13], },
-                      firstRepeat:  { Orange: [40,41,42], Titanium: [14], },
+                      firstRepeat:   { Orange: [40,41,42], Titanium: [14], },
                       learn:        { Orange: [43,44,45], Titanium: [15], },
+                     }
+26.12.2022 NEXT STEP {
+                      secondRepeat: { Orange: [40,41,42], Titanium: [14], },
+                      firstRepeat:   { Orange: [43,44,45], Titanium: [15], },
+                      learn:        { Orange: [46,47,48], Titanium: [16], },
                      }

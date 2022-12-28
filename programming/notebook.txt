@@ -82,8 +82,10 @@
 | 05.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=qqz0VSaNxuw │
 | 06.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=Yk1sxLVHfjs │
 | 09.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=GcopcHQkA8M │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 | 12.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=NMUsUiFokr4 │
 | 13.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=5aSZyKi5BmE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 | 14.10.2022 │ learn:        │ https://www.youtube.com/watch?v=PfuEfIiLX34 │
 | 15.10.2022 │ learn:        │ https://www.youtube.com/watch?v=W2skCjIgVKE │
 └────────────┴───────────────┴─────────────────────────────────────────────┘
@@ -92,8 +94,10 @@
 ├────────────┬───────────────┬─────────────────────────────────────────────┤
 │ 16.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=NMUsUiFokr4 │
 │ 17.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=5aSZyKi5BmE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 18.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=PfuEfIiLX34 │
 │ 19.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=W2skCjIgVKE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 20.10.2022 │ learn:        │ https://www.youtube.com/watch?v=lq3b5_UGJas │
 │ 22.10.2022 │ learn:        │ https://www.youtube.com/watch?v=cTv7V22mkwE │
 └────────────┴───────────────┴─────────────────────────────────────────────┘
@@ -102,8 +106,10 @@
 ├────────────┬───────────────┬─────────────────────────────────────────────┤
 │ 24.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=PfuEfIiLX34 │
 │ 25.10.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=W2skCjIgVKE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 27.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=lq3b5_UGJas │
 │ 28.10.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=cTv7V22mkwE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 29.10.2022 │ learn:        │ https://www.youtube.com/watch?v=TY6nDW7aYys │
 │ 30.10.2022 │ learn:        │ https://www.youtube.com/watch?v=LK2jveAnRNg │
 │ 31.10.2022 │ learn:        │ https://www.youtube.com/watch?v=ikUOyFPzdJw │
@@ -123,6 +129,7 @@
 ├────────────┬───────────────┬─────────────────────────────────────────────┤
 │ 13.11.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=lq3b5_UGJas │
 │ 14.11.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=cTv7V22mkwE │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 14.11.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=TY6nDW7aYys │
 │ 15.11.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=LK2jveAnRNg │
 │ 17.11.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=ikUOyFPzdJw │
@@ -136,6 +143,7 @@
 │ 01.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=1gL627DQF4A │
 │ 02.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=UjZjSDyi9AM │
 │ 03.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=-ef2E0ozxao │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 04.12.2022 │ learn:        │ https://www.youtube.com/watch?v=xS9FicVrOTI │
 │ 04.12.2022 │ learn:        │ https://www.youtube.com/watch?v=NZMrJ2adEyY │
 │ 05.12.2022 │ learn:        │ https://www.youtube.com/watch?v=2h9syXN5wO0 │
@@ -157,10 +165,12 @@
 │ 18.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=1gL627DQF4A │
 │ 19.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=UjZjSDyi9AM │
 │ 19.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=-ef2E0ozxao │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 20.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=xS9FicVrOTI │
 │ 21.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=NZMrJ2adEyY │
 │ 22.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=2h9syXN5wO0 │
 │ 22.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=H6S8QJo2Qxg │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 23.12.2022 │ learn:        │ https://www.youtube.com/watch?v=SzaXTW2qcJE │
 │ 24.12.2022 │ learn:        │ https://www.youtube.com/watch?v=Ax_mSvadFp8 │
 │ 24.12.2022 │ learn:        │ https://www.youtube.com/watch?v=En7pWi2fSzs │
@@ -172,8 +182,10 @@
 │ 25.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=NZMrJ2adEyY │
 │ 26.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=2h9syXN5wO0 │
 │ 26.12.2022 │ secondRepeat: │ https://www.youtube.com/watch?v=H6S8QJo2Qxg │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 27.12.2022 │ firstRepeat:  │ https://www.youtube.com/watch?v=SzaXTW2qcJE │
 │ 00.00.0000 │ firstRepeat:  │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 00.00.0000 │ learn:        │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
 └────────────┴───────────────┴─────────────────────────────────────────────┘
 
@@ -181,6 +193,8 @@
 │ STEP #0                                                                  │
 ├────────────┬───────────────┬─────────────────────────────────────────────┤
 │ 00.00.0000 │ secondRepeat: │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 00.00.0000 │ firstRepeat:  │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
+├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 00.00.0000 │ learn:        │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
 └────────────┴───────────────┴─────────────────────────────────────────────┘

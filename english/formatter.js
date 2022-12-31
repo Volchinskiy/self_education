@@ -1,11 +1,9 @@
 {
   class Formatter {
-    constructor() {
-      this.start();
-    }
+    constructor() { this.start(); }
 
     FS = require('fs');
-    PATH = './english/';
+    FOLDER_PATH = './english/';
     MAX_STRING_LENGTH = 129;
     PLUG_STRING = 'FUNDAMENTAL';
     LESSON_RE = new RegExp(/{\d+}/, 'g'); // all strings that look like '{123}' '{1}' '{456}'.
@@ -18,7 +16,7 @@
 
     start() {
       for (const fileName of this.FILES) {
-        const fileData = this.FS.readFileSync(`${this.PATH}${fileName}`, 'utf-8');
+        const fileData = this.FS.readFileSync(`${this.FOLDER_PATH}${fileName}`, 'utf-8');
         this.currentFileName = fileName;
         this.currentFileData = fileData;
         if (!fileData.endsWith('\n')) {
@@ -95,11 +93,11 @@
     }
 
     saveFormattedFile() {
-      this.FS.writeFileSync(`${this.PATH}${this.currentFileName}`, this.lines.flat(Infinity).join('\n'));
+      this.FS.writeFileSync(`${this.FOLDER_PATH}${this.currentFileName}`, this.lines.flat(Infinity).join('\n'));
     }
 
     addCarriageReturn() {
-      this.FS.writeFileSync(`${this.PATH}${this.currentFileName}`, `${this.currentFileData}\n`);
+      this.FS.writeFileSync(`${this.FOLDER_PATH}${this.currentFileName}`, `${this.currentFileData}\n`);
     }
 
     resetState() {

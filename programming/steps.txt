@@ -9,4 +9,4 @@
 11.11.2022 STEP #9 { secondRepeat: [8], firstRepeat: [9], learn: [10], marker: 'week'}
 10.12.2022 STEP #10 { secondRepeat: [9], firstRepeat: [10], learn: [11], marker: 'week'}
 24.12.2022 STEP #11 { secondRepeat: [10], firstRepeat: [11], learn: [12], marker: 'week'}
-29.12.2022 STEP #11 { secondRepeat: [11], firstRepeat: [12], learn: [13], marker: 'week'}
+29.12.2022 STEP #12 { secondRepeat: [11], firstRepeat: [12], learn: [13], marker: 'week'}

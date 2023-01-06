@@ -4,6 +4,7 @@ World Countries And Information About Them
 - Religion
 - Philosophy
 - Art
+- Video
 
 | Number | Country Name / Link To Info                                                                                            |
 |--------|------------------------------------------------------------------------------------------------------------------------|

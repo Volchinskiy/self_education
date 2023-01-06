@@ -89,6 +89,7 @@ World Countries And Information About Them
 |        | [Индуизм. 10 Интересных Фактов](https://www.youtube.com/watch?v=1R1m8epcnhM)                                           |
 |        | [Основные идеи философии индуизма](https://studfile.net/preview/6163159/page:7/)                                       |
 |        | [Ганеша](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B5%D1%88%D0%B0)                                           |
+|        | [Indian Flute Music](https://www.youtube.com/watch?v=J65GxJ2v9Wg)                                                      |
 | 79     | Indonesia                                                                                                              |
 | 80     | Iran                                                                                                                   |
 | 81     | Iraq                                                                                                                   |

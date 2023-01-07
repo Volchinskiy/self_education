@@ -27,3 +27,4 @@
 24.12.2022 STEP #27 { secondRepeat: [1], firstRepeat: [2], learn: [3], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }
 25.12.2022 STEP #28 { secondRepeat: [2], firstRepeat: [3], learn: [4], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }
 29.12.2022 STEP #29 { secondRepeat: [3], firstRepeat: [4], learn: [5], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }
+06.01.2023 STEP #30 { secondRepeat: [4], firstRepeat: [5], learn: [6], marker: "СИМВОЛЬНЫЕ ВЫРАЖЕНИЯ" }

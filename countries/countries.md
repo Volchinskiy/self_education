@@ -92,6 +92,7 @@ World Countries And Information About Them
 |        | [Ганеша](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B5%D1%88%D0%B0)                                           |
 |        | [Indian Flute Music](https://www.youtube.com/watch?v=J65GxJ2v9Wg)                                                      |
 |        | [North India](https://www.youtube.com/watch?v=R6Xye0ogJ5I)                                                             |
+|        | [Classical Indian Music](https://www.youtube.com/watch?v=XCV7_LcEruw)                                                  |
 | 79     | Indonesia                                                                                                              |
 | 80     | Iran                                                                                                                   |
 | 81     | Iraq                                                                                                                   |

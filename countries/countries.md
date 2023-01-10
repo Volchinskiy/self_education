@@ -9,6 +9,7 @@ World Countries And Information About Them
 | Number | Country Name / Link To Info                                                                                            |
 |--------|------------------------------------------------------------------------------------------------------------------------|
 | 1      | Afghanistan                                                                                                            |
+|        | [Afghanistan Traditional Music](https://www.youtube.com/watch?v=flymUldSJ_k)                                           |
 | 2      | Albania                                                                                                                |
 | 3      | Algeria                                                                                                                |
 | 4	     | Andorra                                                                                                                |

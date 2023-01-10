@@ -11,7 +11,7 @@ World Countries And Information About Them
 | 1      | Afghanistan                                                                                                            |
 |        | [Afghanistan Traditional Music](https://www.youtube.com/watch?v=flymUldSJ_k)                                           |
 |        | [Afghanistan A Journey To An Unknown Musical World](https://www.youtube.com/watch?v=9HsWhXzeRmQ)                       |
-|        | [Afghanistan Music From The Crossroads Of Asia](https://www.youtube.com/watch?v=0MsEMhe2f3E)                       |
+|        | [Afghanistan Music From The Crossroads Of Asia](https://www.youtube.com/watch?v=0MsEMhe2f3E)                           |
 | 2      | Albania                                                                                                                |
 | 3      | Algeria                                                                                                                |
 | 4	     | Andorra                                                                                                                |

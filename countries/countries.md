@@ -15,6 +15,7 @@ World Countries And Information About Them
 | 2      | Albania                                                                                                                   |
 |        | [Traditional albanian music](https://www.youtube.com/playlist?list=PLOkI4ttKhTq8R58zfJb6Y0d2kfy7RRCZg)                    |
 | 3      | Algeria                                                                                                                   |
+|        | [Algerian Traditional Music](https://www.youtube.com/watch?v=0h5Ndr6P1cA)                                                 |
 | 4	     | Andorra                                                                                                                   |
 | 5	     | Angola                                                                                                                    |
 | 6	     | Antigua and Barbuda                                                                                                       |

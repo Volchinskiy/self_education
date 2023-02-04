@@ -56,6 +56,7 @@ World Countries And Information About Them
 |        | [Тренировки по кунг-фу в Шаолине и самой опасной школе Китая](https://www.youtube.com/watch?v=C1a3RxTYDsA&list=PLPYTe3TV3OsvmHR_Pnviog2AF7g8uRDTM&index=3) |
 |        | [Утренние зарядки в Китае и традиционная китайская медицина](https://www.youtube.com/watch?v=A8rmHMYbuTU&list=PLPYTe3TV3OsvmHR_Pnviog2AF7g8uRDTM&index=4)  |
 |        | [Как Дима Комаров в Харбине лёд добывал](https://www.youtube.com/watch?v=a4qi916iI9w&list=PLPYTe3TV3OsvmHR_Pnviog2AF7g8uRDTM&index=5)                      |
+|        | [Харбин, Ледяной Фестиваль, Небоскрёбы со льда](https://www.youtube.com/watch?v=IxiUy6E8kyk&list=PLPYTe3TV3OsvmHR_Pnviog2AF7g8uRDTM&index=6)               |
 | 38     | Colombia                                                                                                                                                   |
 | 39     | Comoros                                                                                                                                                    |
 | 40     | Congo (Congo-Brazzaville)                                                                                                                                  |

@@ -7,15 +7,15 @@ now it. You see it. They help me. They go to work. We remember it. You speak Eng
 . We live in this country.
 
 {2}
-I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand 
+I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand
 you very well. I live in this city. We remember it. I speak English. I work there. They help me. We understand you. I have an ide
-a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live 
+a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live
 in this city. I go to work. I study here. I want it. We think so. I study there. I know it. I work here. They go to work. You kno
 w it. I work. I live in this country. We live in Ukraine. I have a sister. You see it. I go to school. I understand. We live in t
 his country. I see it.
 
 {3}
-I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. I feel happy. It helps me. He 
+I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. I feel happy. It helps me. He
 also works here. He thinks so. He lives in this house. She remembers it. She lives in this place. She speaks English very well. I
 t really helps me. It looks interesting. It seems interesting. He reads in English. She reads English books. It looks strange. He
 knows it. She sees this mistake. He sees that mistake. It happens. He wants more. She wants more practice. It really happens.
@@ -29,9 +29,9 @@ now it. You see it. They help me. They go to work. We remember it. You speak Eng
 . We live in this country.
 
 {2}
-I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand 
+I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand
 you very well. I live in this city. We remember it. I speak English. I work there. They help me. We understand you. I have an ide
-a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live 
+a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live
 in this city. I go to work. I study here. I want it. We think so. I study there. I know it. I work here. They go to work. You kno
 w it. I work. I live in this country. We live in Ukraine. I have a sister. You see it. I go to school. I understand. We live in t
 his country. I see it.
@@ -39,14 +39,14 @@ his country. I see it.
 {3}
 I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. It helps me. He also works her
 e. He thinks so. He lives in this house. She remembers it. She lives in this place. She speaks English very well. It really helps
-me. It looks interesting. It seems interesting. He reads in English. She reads English books. It looks strange. He knows it. She 
+me. It looks interesting. It seems interesting. He reads in English. She reads English books. It looks strange. He knows it. She
 sees this mistake. He sees that mistake. It happens. He wants more. She wants more practice. It really happens.
 
 23.09.2022
 {4}
 It looks strange. He reads in English. She remembers it. It looks interesting. He works very hard. You work very hard. He helps m
 e. He understands you very well. He also works here. It really happens. He sees that mistake. She works very hard. She feels happ
-y. He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so. 
+y. He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so.
 He also knows it. She lives in that place. She loves you. She speaks English very well. He thinks so. He lives in this country. S
 he reads English books. I love you. I really helps me. She sees this mistake. She helps me. He feels happy. It seems interesting.
 He wants more. He also works here. They study very hard. He really thinks so. She lives in that city. It helps me. I happens. She
@@ -64,7 +64,7 @@ e. He tries to do it. She tries to learn English. He tries to find a job. He som
 He wants to do it. She watches TV. She has a cat. She always does it on time. She goes to school. He does it every day. He misses
 you. She sometimes goes to the cinema. He sometimes plays computer games. He has a dog. She teaches it. He tries to find a job. H
 e goes to work. She feels so happy. She has interesting ideas. He often goes to the cinema. He sometimes wants to do it. She miss
-es you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He has 
+es you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He has
 an offer. He teaches English. She tries to learn English. He has a house. She does it very well. He often plays computer games. S
 he tries to understand it. She often goes to the park.
 
@@ -77,9 +77,9 @@ now it. You see it. They help me. They go to work. We remember it. You speak Eng
 . We live in this country.
 
 {2}
-I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand 
+I remember it. I understand you. I think so. We speak English. I know it very well. You help me. I live in Ukraine. I understand
 you very well. I live in this city. We remember it. I speak English. I work there. They help me. We understand you. I have an ide
-a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live 
+a. I have a brother. They go to school. You speak English very well. I have a car. We live here. I remember it very well. I live
 in this city. I go to work. I study here. I want it. We think so. I study there. I know it. I work here. They go to work. You kno
 w it. I work. I live in this country. We live in Ukraine. I have a sister. You see it. I go to school. I understand. We live in t
 his country. I see it.
@@ -87,17 +87,17 @@ his country. I see it.
 {3}
 I love you. We want it. You work very hard. They study very hard. He lives there. She feels happy. It helps me. He also works her
 e. He thinks so. He lives in this house. She remembers it. She lives in this place. She speaks English very well. It really helps
-me. It looks interesting. It seems interesting. He reads in English. She reads English books. It looks strange. He knows it. She 
+me. It looks interesting. It seems interesting. He reads in English. She reads English books. It looks strange. He knows it. She
 sees this mistake. He sees that mistake. I happens. He wants more. She wants more practice. It really happens.
 
 28.09.2022
 {4}
 It looks strange. He reads in English. She remembers it. It looks interesting. He works very hard. You work very hard. He helps m
 e. He understands you very well. He also works here. It really happens. He sees that mistake. She works very hard. She feels happ
-y. He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so. 
+y. He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so.
 He also knows it. She lives in that place. She loves you. She speaks English very well. He thinks so. He lives in this country. S
 he reads English books. I love you. It really helps me. She sees this mistake. She helps me. He feels happy. It seems interesting
-. He wants more. He also works here. They study very hard. He really thinks so. She lives in that city. It helps me. It happens. 
+. He wants more. He also works here. They study very hard. He really thinks so. She lives in that city. It helps me. It happens.
 She lives in this place. She wants more. He wants more practice. He lives there. I feel happy. We want it. She wants more practic
 e. She reads in English. He loves you. He knows more. I want more practice.
 
@@ -112,7 +112,7 @@ nd a job. He sometimes plays computer games.
 He wants to do it. She watches TV. She has a cat. She always does it on time. She goes to school. He does it every day. He misses
 you. She sometimes goes to the cinema. He sometimes plays computer games. He has a dog. She teaches it. He tries to find a job. H
 e goes to work. She feels so happy. She has interesting ideas. He often goes to the cinema. He sometimes wants to do it. She miss
-es you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He has 
+es you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He has
 an offer. He teaches English. She tries to learn English. He has a house. She does it very well. He often plays computer games. S
 he tries to understand it. She often goes to the park.
 
@@ -138,15 +138,15 @@ s money. These lessons really help. I feel it.
 I have a family. We often do it. You always say it. They often go to the cinema. He knows this thing. See sees this mistake. It l
 ooks so interesting. I see this mistake. I see these mistakes. I understand that person. I understand those people. He goes to sc
 hool. She always does it very well. He has an idea. My friend thinks so. My friend thinks tha same. Our boss knows it. All your i
-deas seem very interesting. Their offer seems really strange. His idea seems very interesting. Her words seem strange. I see its 
+deas seem very interesting. Their offer seems really strange. His idea seems very interesting. Her words seem strange. I see its
 success.
 
 04.10.2022
 {4}
 It looks strange. He reads in English. She remembers it. I looks interesting. He works very hard. You work very hard. He helps me
 . He understands you very well. He also works here. It really happens. He sees that mistake. She works very hard. He feels happy.
-He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so. He 
-also knows it. She lives in that place. She loves you. She speaks English very well. He thinks so. He lives in this country. She 
+He also remembers it. He lives in this house. She also works there. He knows it. She really remembers it. She also thinks so. He
+also knows it. She lives in that place. She loves you. She speaks English very well. He thinks so. He lives in this country. She
 reads English books. I love you. It really helps me. She sees this mistake. She helps me. He feels happy. It seems interesting. H
 e wants more. He also works here. They study very hard. He really thinks so. She lives in that city. It helps me. It happens. She
 lives in this place. She wants more. He wants more practice. He lives there. I fell happy. We want it. She wants more practice. S
@@ -163,7 +163,7 @@ nd a job. He sometimes plays computer games.
 He wants to do it. She watches TV. She has a cat. She always does it on time. She goes to school. He does it every day. He misses
 you. She sometimes goes to the cinema. He sometimes plays computer games. He has a dog. She teaches it. He tries to find a job. H
 e goes to school. She feels so happy. She has an interesting ideas. He often goes to the cinema. He sometimes wants to do it. She
-misses you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He 
+misses you. He tries to do it. She wants to go to the park. He has money. She has a car. He tries to help me. He has dollars. He
 has an offer. He teaches English. She tries to learn English. He has a house. She does it very well. He often plays computer game
 s. She tries to understand it. She often goes to the park.
 
@@ -188,7 +188,7 @@ s money. These lessons really help. I feel it.
 {9}
 I have a family. We often do it. You always say it. They often go to the cinema. He knows this thing. She sees this mistake. It l
 ooks so interesting. I see this mistake. I see these mistakes. I understand that person. I understand those people. He goes to sc
-hool. She always does it very well. He has an idea. My friend thinks so. My friends thinks the same. Our boss knows it. All your 
+hool. She always does it very well. He has an idea. My friend thinks so. My friends thinks the same. Our boss knows it. All your
 ideas seem very interesting. Their offer seems really strange. His idea seems very interesting. Her words seem strange. I see its
 success.
 
@@ -196,7 +196,7 @@ success.
 {10}
 I want it. He has dollars. I understand you. I want more practice. She sees this mistake. You know it. She really remembers it. T
 his company has money. I see this mistake. She remembers it. She speaks English very well. My sister studies there. I see these m
-istakes. He helps me. I have a brother. She has a car. My sister lives in this place. It helps me. Your lessons really help. You 
+istakes. He helps me. I have a brother. She has a car. My sister lives in this place. It helps me. Your lessons really help. You
 speak English very well. We want it. My friend thinks the same. He misses you. He has a dog. She reads English books. We live her
 e. It looks strange. He has a house. I study there. I see its success. I study here. He lives in this house. They know everything
 . I know it. She tries to learn English. We live in this country. We live in Ukraine. You help me. I live in this city. They some
@@ -207,11 +207,11 @@ ve an idea. She tries to understand it.
 
 {11}
 My boss reads all the documents. He tries to find a job. They study very hard. These lessons help me. He has money. I live in Ukr
-aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does 
+aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does
 so. They have money. She has this information. My parents want to do it. She sometimes goes to the cinema. She wants more practic
 e. I remember it very well. It seems interesting. He feels happy. She misses you. My friend has a car. His father has a car. I fe
 el happy. He wants more practice. It really happens. We understand you. He often goes to the cinema. He also remembers it. He doe
-s it every day. I remember it. My boss always says it. He lives there. These lessons really help. I feel it. It happens. He also 
+s it every day. I remember it. My boss always says it. He lives there. These lessons really help. I feel it. It happens. He also
 works here. I go to school. Our mother thinks the same. Our mother also thinks so. He really thinks so. It really helps me. She a
 lso works there. He wants more. He knows more. He works very hard. He thinks so. He has a company. Its profit seems so big. My bo
 ss knows everything. She wants to go there. She reads in English. We speak English. You see it. He wants to do it. She feels so h
@@ -219,11 +219,11 @@ appy. I understand. I have a sister. He has an idea. She has interesting ideas. 
 ually checks all the information. I love you.
 
 {12}
-I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss 
+I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss
 knows it. It looks interesting. My brother wants it. All your ideas seems very interesting. He loves you. We remember it. My brot
 her tries to do it. My sister lives there. I work there. I understand those people. She always does it well. I live in this count
 ry. I live in this city. She teaches it. I thinks so. She also thinks so. He tries to do it. He lives in this country. His ides s
-eems very interesting. His lessons seem very useful. He also works here. She goes to school. I read English books. She helps me. 
+eems very interesting. His lessons seem very useful. He also works here. She goes to school. I read English books. She helps me.
 He also knows it. We sees his success. She often goes to the park. That offer seems strange. He has an offer. Their ideas seem ve
 ry interesting. She always does it on time. He sees that mistake. She watches TV. She wants more. I work. Her words seem strange.
 He often plays computer games. He goes to work. She lives in that place. He understands you very well. They go to work. You alway
@@ -235,15 +235,15 @@ heir success. I know this word.
 {7}
 This lesson seems interesting. These lessons seem very useful. This lesson helps me. These lessons help me. Your lessons really h
 elp. My brother wants it. My sister lives there. My parents know it. My friend has a car. My boss knows everything. My boss usual
-ly reads all the documents. I understand everything. Our mother thinks the same. Their ideas seem so interesting. His father has 
+ly reads all the documents. I understand everything. Our mother thinks the same. Their ideas seem so interesting. His father has
 a car. Her brother often says it. He has a company. Its profit seems so big. My girlfriend feels happy. My boyfriend loves me ver
-y much. My girlfriend loves me very much. My friend always supports me. My friends sometimes say it. My best friend always helps 
+y much. My girlfriend loves me very much. My friend always supports me. My friends sometimes say it. My best friend always helps
 me. My teacher usually comes to work early. My father usually comes home late.
 
 {8}
 I see everything. My sister lives there. This lesson seem interesting. This lesson helps me. I know everything. My parents know i
 t. Her brother often says it. That offer seems strange. My boss always says it. His lessons seem very useful. My brother wants it
-. His father has a car. My parents want to do it. Your lessons really help. My sister studies there. These lessons help me. They 
+. His father has a car. My parents want to do it. Your lessons really help. My sister studies there. These lessons help me. They
 know everything. My brother tries to do it. Their ideas seem very interesting. My boss usually checks all the information. My sis
 ter lives in this place. My friend has a car. He has a company. Its profit seems so big. My boss knows everything. Our mother thi
 nks the same. My boss reads all the documents. These lessons seem very useful. This offer looks interesting. This company has mon
@@ -253,7 +253,7 @@ ey. These lessons really help. I feel it.
 I have a family. We often do it. You always say it. They often go to the cinema. He knows this thing. She sees this mistake. It l
 ooks so interesting. I see this mistake. I see these mistakes. I understand that person. I understand those people. He goes to sc
 hool. She always does it very well. He has an idea. My friend thinks so. My friend thinks the same. Our boss knows it. All your i
-deas seem very interesting. Their offer seems really strange. His idea seems very interesting. Her words seem strange. I see its 
+deas seem very interesting. Their offer seems really strange. His idea seems very interesting. Her words seem strange. I see its
 success.
 
 16.10.2022
@@ -271,19 +271,19 @@ an idea. She tries to understand it.
 
 {11}
 My boss reads all the documents. He tries to find a job. They study very hard. These lessons help me. He has money. I live in Ukr
-aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does 
+aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does
 so. They have money. She has this information. My parents want to do it. She sometimes goes to the cinema. She wants more practic
 e. I remember it very well. It seems interesting. He feels happy. She misses you. My friend has a car. His father has a car. I fe
 el happy. He wants more practice. It really happens. We understand you. He often goes to the cinema. He also remembers it. He doe
 s it everyday. I remember it. My boss always says it. He lives there. These lessons really help. I feel it. It happens. He also w
 orks here. I go to school. Our mother thinks the same. Our mother thinks so. He really thinks so. It really helps me. She also wo
 rks there. He wants more. He knows more. He works very hard. He thinks so. He has a company. Its profit seems so big. My boss kno
-ws everything. She wants to go there. She reads in English. We speak English. You see it. He wants to do it. She feels so happy. 
-I understand. I have a sister. He has an idea. She has interesting ideas. I see everything. She works very hard. My boss usually 
+ws everything. She wants to go there. She reads in English. We speak English. You see it. He wants to do it. She feels so happy.
+I understand. I have a sister. He has an idea. She has interesting ideas. I see everything. She works very hard. My boss usually
 checks all the information. I love you.
 
 {12}
-I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss 
+I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss
 knows it. It looks interesting. My brother wants it. All your ideas seem very interesting. He loves you. We remember it. My broth
 er tries to do it. My sister lives there. I work there. I understand those people. She always does it well. I live in this countr
 y. I live in this city. She teaches it. I think so. She also thinks so. He tries to do it. He lives in this country. His idea see
@@ -311,23 +311,23 @@ know it. I want to speak English without mistakes. She wants to see you right no
 t a good car. He wants to buy this thing. I want to go there again. I want to have a good job. I want to speak English fluently a
 nd correctly. I really want it. I want to do it. I want to be happy. I want to thank you. I want to know English better. I really
 want to know it. I want a new computer. I want to speak English better. I want to speak English correctly. My patents want to liv
-e in another place. I want to improve my English. I want to go to another place. I want a new flat. I want to buy a new flat. My 
+e in another place. I want to improve my English. I want to go to another place. I want a new flat. I want to buy a new flat. My
 friend wants to live abroad. She wants to do it right now. My friend wants to check it one more time. I want it. I want to go abr
 oad. I want this thing. I want to have a good car. I want to learn English fast. We want to know English.
 
 {15}
 I like it. I like English. I like your lessons. I like this idea. I like this thing. I like this video. I like this playlist. I l
-ike this channel. I like this method. I really like it. I really like these lessons. I also like it. I also like this channel. I 
-like, too. I like this channel, too. We like it. You like it. They like it. He likes it. She likes it. I see you like it. I know 
-they like it. She likes this place. He likes this dress. My friend likes this hotel. I'd like a cup of coffee. I'd like a cup of 
-tea. I'd like to drink a cup of coffee. I'd like to do it. I'd like to know English very well. I'd like to visit this place. I'd 
+ike this channel. I like this method. I really like it. I really like these lessons. I also like it. I also like this channel. I
+like, too. I like this channel, too. We like it. You like it. They like it. He likes it. She likes it. I see you like it. I know
+they like it. She likes this place. He likes this dress. My friend likes this hotel. I'd like a cup of coffee. I'd like a cup of
+tea. I'd like to drink a cup of coffee. I'd like to do it. I'd like to know English very well. I'd like to visit this place. I'd
 like to become a businessman. I'd like to become a teacher. I'd like to become a doctor.
 
 20.10.2022
 {10}
 I want it. He has dollars. I understand you. I want more practice. She sees this mistake. You know it. She really remembers it. T
 his company has money. I see this mistake. She remembers it. She speaks English very well. My sister studies there. I see these m
-istakes. He helps me. I have a brother. She has a car. My sister lives in this place. It helps me. Your lessons really help. You 
+istakes. He helps me. I have a brother. She has a car. My sister lives in this place. It helps me. Your lessons really help. You
 speak English very well. We want it. My friend thinks the same. He misses you. He has a dog. She reads English books. We live her
 e. It looks strange. He has a house. I study there. I see its success. I study here. He lives in this house. They know everything
 . I know it. She tries to learn English. We live in this country. You help me. We live in Ukraine. I live in this city. They some
@@ -338,11 +338,11 @@ ve an idea. She tries to understand it.
 
 {11}
 My boss reads all the documents. He tries to find a job. They study very hard. These lessons help me. He has money. I live in Ukr
-aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does 
+aine. You work very hard. He sometimes plays computer games. Her brother often says it. My parents know it. My boss usually does
 so. They have money. She has this information. My parents want to do it. She sometimes goes to the cinema. She wants more practic
 e. I remember it very well. It seems interesting. He feels happy. She misses you. My friend has a car. His father has a car. I fe
 el happy. He wants more practice. It really happens. We understand you. He often goes to the cinema. He also remembers it. He doe
-s it every day. I remember it. My boss always says it. He lives there. These lessons really help. I feel it. It happens. He also 
+s it every day. I remember it. My boss always says it. He lives there. These lessons really help. I feel it. It happens. He also
 works here. I go to school. Our mother thinks the same. Our mother also thinks so. He really thinks so. It really helps me. She a
 lso works there. He wants more. He knows more. He works very hard. He thinks so. He has a company. Its profit seems so big. My bo
 ss knows everything. She wants to go there. She reads in English. We speak English. You see it. He wants to do it. She feels so h
@@ -350,12 +350,12 @@ appy. I understand. I have a sister. He has an idea. She has interesting ideas. 
 ually checks all the information. I love you.
 
 {12}
-I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss 
+I have a family. I work here. This lesson seems interesting. She does it very well. My friend thinks so. She loves you. Our boss
 knows it. It looks interesting. My brother wants it. All your ideas seem very interesting. He loves you. We remember it. My broth
 er tries to do it. My sister lives there. I work there. I understand those people. She always does it well. I live in this countr
 y. I live in this city. She teaches it. I think so. She also thinks so. He tries to do it. He lives in this country. His idea see
 ms very interesting. His lessons seem very useful. He also works here. She goes to school. I read English books. She helps me. He
-also knows it. We see his success. She often goes to the park. That offer seems strange. He has an offer. Their ideas seems very 
+also knows it. We see his success. She often goes to the park. That offer seems strange. He has an offer. Their ideas seems very
 interesting. She always does it on time. He sees that mistake. She watches TV. She wants more. I work. Her words seem strange. He
 often plays computer games. He goes to work. She lives in that place. He understands you very well. They go to work. You always s
 ay it. This lesson helps me. They often go to the cinema. These lessons seem very useful. They help me. I speak English. He somet
@@ -365,8 +365,8 @@ r success. I know this word.
 24.10.2022
 {13}
 I want it. I want this thing. I want this computer. I want this dress. I want a new computer. I want a good car. I want a new apa
-rtment. I really want it. I want to do it. She wants to do it. I want to know it. I really want to know it. I want to improve my 
-English. I want to speak English better. I want to speak English without mistakes. I want to improve my grammar. I want to speak 
+rtment. I really want it. I want to do it. She wants to do it. I want to know it. I really want to know it. I want to improve my
+English. I want to speak English better. I want to speak English without mistakes. I want to improve my grammar. I want to speak
 English correctly. I want to learn English fast. I want to have a good job. I want to have a good car. I want to be happy. She wa
 nts to do it right now. He wants to buy this thing. I want to speak English fluently and correctly. My friend wants to check it o
 ne more time. My friend wants to live abroad. I want to go abroad. My patents want to live in another place. I really want to tha
@@ -396,14 +396,14 @@ I like this video. I like this thing. I'g like to drink a cup of coffee. I like 
 it this place. I'd like a cup of coffee. I'd like to become a businessman. She'd like to become a teacher. He likes this dress. I
 see you really like English. My friend likes this hotel. I like English. I really like this playlist. I like this channel. She li
 kes this place. You like it. She likes it. I see he really likes it. I really like this channel. I'd like to know English very we
-ll. They like it. I like it. I'd like to drink a cup of tea. I know they like it. I like this method. We like it. I'd like a cup 
+ll. They like it. I like it. I'd like to drink a cup of tea. I know they like it. I like this method. We like it. I'd like a cup
 of tea. I also like this channel. I like this channel, too. I really like this place. I really like it. He'd like to become a doc
 tor. I like your lessons. I'd like to become a businessman. I really like these lessons. I'd like to become a manager. I like thi
 s idea. I'd like to go abroad. She'd like to go to another place.
 
 {17}
 I know. I don't know. We understand. We don't understand. You try to learn English. You don't try to learn English. They help me.
-They don't help me. I agree with you. I don't agree with you. I like it. I don't like it. I want to study there. I don't want to 
+They don't help me. I agree with you. I don't agree with you. I like it. I don't like it. I want to study there. I don't want to
 study there. I want to discuss it. I don't want to discuss it. I want to do it right now. I don't want to do it right now. I want
 to do it later. I don't want to do it later. I don't want to say it. I don't want to tell you this thing. I don't want to tell yo
 u about this problem. I don't want to think about it. He knows it. He doesn't know it. She doesn't want to discuss it. It doesn't
@@ -413,10 +413,10 @@ help me. It doesn't seem strange. It doesn't work.
 You don't try to learn English. It doesn't work. I don't want to know it. I don't agree with you. I don't like it. She doesn't wa
 nt to discuss it. He doesn't work there. He works here. He doesn't know it. It doesn't seem strange. I don't know. She doesn't re
 member it. He doesn't want to read these books. He wants to read those books. I don't want to say it. He doesn't have this inform
-ation. I don't want to paly computer games. I don't know this person. I don't want to do it right now. He doesn't want to try to 
+ation. I don't want to paly computer games. I don't know this person. I don't want to do it right now. He doesn't want to try to
 find a good job. He doesn't try to find a good job. I don't want to live in this country. My friend doesn't think so. I don't wan
 t to tell you about this problem. I don't want to study there. We don't want to live in another place. It doesn't seem useful. Th
-ey don't help me. I don't want to tell you this thing. I don't want to think about it. I don't understand these people. We don't 
+ey don't help me. I don't want to tell you this thing. I don't want to think about it. I don't understand these people. We don't
 understand it. I don't want to discuss it. He doesn't have a car. I don't want to drink. I don't want to live in that city. It do
 esn't help me.
 
@@ -426,7 +426,7 @@ I want it. I want this thing. I want this computer. I want this dress. I want a 
 t. I really want it. I want to do it. She want to do it. I want to know it. I really want to know it. I want to improve my Englis
 h. I want to speak English better. I want to speak English without mistakes. I want to improve my grammar. I want to speak Englis
 h correctly. I want to learn English fast. I want to have a good job. I want to have a good car. I want to be happy. She wants to
-do it right now. He want to buy this thing. I want to speak English fluently and correctly. My friend wants to check it one more 
+do it right now. He want to buy this thing. I want to speak English fluently and correctly. My friend wants to check it one more
 time. My friend want to check it again. My friend wants to live abroad. I want to go abroad. My parents want to live in another p
 lace. I really want to thank you.
 
@@ -442,9 +442,9 @@ o abroad. I want this thing. I want to have a good car. I want to learn English 
 
 {15}
 I like it. I like English. I like your lessons. I like this idea. I like this thing. I like this video. I like this playlist. I l
-ike this channel. I like this method. I really like it. I really like these lessons. I also like it. I like it, too. We like it. 
+ike this channel. I like this method. I really like it. I really like these lessons. I also like it. I like it, too. We like it.
 You like it. They like it. He likes it. She likes it. I see you like it. I know they like it. She likes this place. He likes this
-dress. My friend likes this hotel. I'd like. I'd like a cup of coffee. I'd like a cup of tea. I'd like to drink a cup of coffee. 
+dress. My friend likes this hotel. I'd like. I'd like a cup of coffee. I'd like a cup of tea. I'd like to drink a cup of coffee.
 I'd like to do it. I'd like to know English very well. I'd like to visit this place. I'd like to become a businessman. I'd like t
 o become a teacher. I'd like to become a doctor. I'd like to become a manager.
 
@@ -454,14 +454,14 @@ I like this video. I like this thing. I'd like to drink a cup of coffee. I like 
 it this place. I'd like a cup of coffee. I'd like to become a businessman. She'd like to become a teacher. He likes this dress. I
 see you really like English. My friend likes this hotel. I like English. I really like this playlist. I like this channel. She li
 kes this place. You like it. She likes it. I see he really likes it. I really like this channel. I'd like to know English very we
-ll. They like it. I like it. I'd like to drink a cup of tea. I know they like it. I like this method. We like it. I'd like a cup 
+ll. They like it. I like it. I'd like to drink a cup of tea. I know they like it. I like this method. We like it. I'd like a cup
 of tea. I also like this channel. I like this channel, too. I really like this place. I really like it. He'd like to become a doc
 tor. I like your lessons. I'd like to become a businessman. I really like these lessons. I'd like to become a manager. I like thi
 s idea. I'd like to go abroad. She'd like to go to another place.
 
 {17}
 I know. I don't know. We understand. We don't understand. You try to learn English. You don't try to learn English. They help me.
-They don't help me. I agree with you. I don't agree with you. I like it. I don't like it. I want to study there. I don't want to 
+They don't help me. I agree with you. I don't agree with you. I like it. I don't like it. I want to study there. I don't want to
 study there. I want to discuss it. I don't want to discuss it. I want to do it right now. I don't want to do it right now. I want
 to do it later. I don't want to say it. I don't want to tell you this thing. I don't want to tell you about this problem. I don't
 want to think about it. He knows it. He doesn't know it. She doesn't want to discuss it. It doesn't help me. It doesn't seem stra
@@ -474,7 +474,7 @@ member it. He doesn't want to read these books. He wants to read those books. I 
 ation. I don't want to play computer games. I don't know this person. I don't want to do it right know. He doesn't want to try to
 find a good job. He doesn't try to find a good job. I don't want to live in this country. My friend doesn't think so. I don't wan
 t to tell you about this problem. I don't want to study there. We don't want to live in another place. It doesn't seem useful. Th
-ey don't help my. I don't want to tell you this thing. I don't want to think about it. I don't understand these people. We don't 
+ey don't help my. I don't want to tell you this thing. I don't want to think about it. I don't understand these people. We don't
 understand it. I don't want to discuss it. He doesn't have a car. I don't want to drink. I don't want to live in that city. It do
 esn't help me.
 
@@ -483,15 +483,15 @@ esn't help me.
 This thing doesn't interest me. These things don't attract me. That thing doesn't seem interesting. Those things don't seem stran
 ge. Those lessons don't seem useful. These lessons seem very useful. That method doesn't help. This method really helps. My broth
 er doesn't want to think about his future. My sister doesn't know this person. My friends don't recommend this hotel. His son doe
-sn't want to become a doctor. Her daughter doesn't want to study there. His parents don't feel happy. This person doesn't try to 
+sn't want to become a doctor. Her daughter doesn't want to study there. His parents don't feel happy. This person doesn't try to
 change his life. My boss doesn't see her. My partner doesn't know him. My friend and I don't call them. Our teacher doesn't belie
 ve us. He thinks money doesn't bring people happiness. She thinks money doesn't make people happy. I want to make you happy.
 
 {20}
 That offer doesn't seem strange. His boss doesn't speak English fluently. My parents don't discuss it. These things don't attract
-me. Those things don't seem strange. His son doesn't want to become a doctor. Our teacher doesn't believe us. My partner doesn't 
+me. Those things don't seem strange. His son doesn't want to become a doctor. Our teacher doesn't believe us. My partner doesn't
 know him. My friend doesn't like this idea. She thinks money doesn't make people happy. This person doesn't try to change his lif
-e. My boss doesn't see her. These things don't attract me. This thing doesn't attract me. My friends don't recommend this hotel. 
+e. My boss doesn't see her. These things don't attract me. This thing doesn't attract me. My friends don't recommend this hotel.
 My sister doesn't know this person. My brother doesn't want to think about his future. My friend and I don't call them. My friend
 doesn't think so. My friend doesn't think the same. My friend doesn't think differently. Those lessons don't seem useful. These l
 essons seem very useful. My sister doesn't want to do it later. She wants to do it right now. This thing doesn't interest me. Its
@@ -525,7 +525,7 @@ I know. I don't know. We understand. We don't understand. You try to learn Engli
 English. I enjoy that I do. They help me. They don't help me. I agree with you. I don't agree with you. I like it. I don't like i
 t. I want to study there. I don't want to study there. I want to discuss it. I don't want to discuss it. I want to do it right no
 w. I don't want to do it right now. I want to do it later. I don't want to say it. I don't want to tell you this thing. I don't w
-ant to tell you about this problem. I don't want to think about it. He knows it. He doesn't know it. She doesn't want to discuss 
+ant to tell you about this problem. I don't want to think about it. He knows it. He doesn't know it. She doesn't want to discuss
 it. It doesn't help me. It doesn't seem strange. It doesn't work.
 
 {18}
@@ -541,11 +541,11 @@ p me.
 
 07.11.2022
 {19}
-This this thing doesn't interest me. These things don't attract me. That thing doesn't seem interesting. Those things don't seem 
-strange. Those lessons don't seem useful. These lessons seem very useful. That method doesn't help. This method really helps. My 
+This this thing doesn't interest me. These things don't attract me. That thing doesn't seem interesting. Those things don't seem
+strange. Those lessons don't seem useful. These lessons seem very useful. That method doesn't help. This method really helps. My
 brother doesn't want to think about his future. My sister doesn't know this person. My friends don't recommend this hotel. His so
 n doesn't want to become a doctor. Her daughter doesn't want to study there. His patents don't feel happy. This person doesn't tr
-y to change his life. My boss doesn't see her. My partner doesn't know him. My friend and I don't call them. Our teacher doesn't 
+y to change his life. My boss doesn't see her. My partner doesn't know him. My friend and I don't call them. Our teacher doesn't
 believe us. He thinks money doesn't bring people happiness. She thinks money doesn't make people happy. I want to make you happy.
 I have limitless energy. I enjoy that I do. I don't suffer. I have great health.
 
@@ -554,7 +554,7 @@ That offer doesn't seem strange. His boss doesn't speak English fluently. My par
 me. Those things don't seem strange. His son doesn't want to be a doctor. I have limitless energy. I have great health. Our teach
 er doesn't believe us. My partner doesn't know him. My friend doesn't like this idea. She thinks money doesn't make people happy.
 This person doesn't try to change his life. My boss doesn't see her. This thing doesn't attract me. My friends do't recommend thi
-s hotel. My sister doesn't know this person. My brother doesn't want to think about his future. My friend and I don't call them. 
+s hotel. My sister doesn't know this person. My brother doesn't want to think about his future. My friend and I don't call them.
 My friend doesn't think so. My friend doesn't think the same. Those lessons don't seem useful. These lessons seem very useful. My
 sister doesn't want to do it later. She wants to do it right now. This thing doesn't interest me. Its profit doesn't seem big. My
 fiend doesn't want to do it. Their company doesn't try to do it. That thing doesn't see interesting. My sister doesn't want to st
@@ -573,7 +573,7 @@ advice. His father needs money. You mother need to work less.
 09.11.2022
 {22}
 I need to speak English without any mistakes at all. I need it. Your mother needs to work less. I need to call them. I need to co
-rrect this mistake. She needs to correct these mistakes. I need this information. I need to speak English correctly. You need to 
+rrect this mistake. She needs to correct these mistakes. I need this information. I need to speak English correctly. You need to
 remember it. I need to improve my English. I need to study harder. I need to call him. I really need English. I need to speak Eng
 lish without mistakes. We need to solve this problem. He needs to find a good job. I need to speak English fluently. His father n
 eed money. We need more information. He needs to change his life. I really need your lessons. I really need to know it. I need to
@@ -584,9 +584,9 @@ ds to solve those problems. I really need you. I have great health. I need money
 t. I think you need to work more. My friend needs your advice right now.
 
 {23}
-I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you. 
+I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you.
 It happens from time to time. He often goes to the cinema. She goes to work. He has so many problems. He has an interesting idea.
-She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She 
+She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She
 doesn't tell me these things. He doesn't speak Spanish. It doesn't motivate me. His girlfriend knows everything. Our teachers don
 't explain it. His girlfriend feel happy. Her boyfriend doesn't know about this problem.
 
@@ -611,7 +611,7 @@ esn't make people happy. I want to make you happy.
 {20}
 That offer doesn't seem strange. His boss doesn't speak English fluently. My parents doesn't discuss it. These things don't attra
 ct me. Those things don't seem strange. His son doesn't want to become a doctor. Our teacher doesn't believe us. My partner doesn
-'t know him. My friend doesn't like this idea. She thinks money doesn't make people happy. This person doesn't try to change his 
+'t know him. My friend doesn't like this idea. She thinks money doesn't make people happy. This person doesn't try to change his
 life. My boss doesn't see her. These things don't attract me. This thing doesn't attract me. My friends don't recommend this hote
 l. My sister doesn't know this person. My brother doesn't want to think about his future. My friend and I don't call them. My fri
 end doesn't think so. My friend doesn't think the same. Those lessons don't see useful. These lessons seem very useful. My sister
@@ -621,10 +621,10 @@ ere. That method doesn't work. This method really helps. Their parents don't fee
 piness. This offer doesn't seem so interesting. Our company doesn't want it. My friend doesn't agree with me.
 
 {21}
-I need it. I like it. I need this information. I need this thing. I need to do it. I need to check it. I need to study harder. I 
-need to learn English. I need to correct this mistake. I need to see her. I need to call him. I need to call them. I need it. We 
+I need it. I like it. I need this information. I need this thing. I need to do it. I need to check it. I need to study harder. I
+need to learn English. I need to correct this mistake. I need to see her. I need to call him. I need to call them. I need it. We
 need it. You need it. They need it. He needs it. She needs it. I really need English. I really need it. I really need to know Eng
-lish. I really need your lessons. I need to solve this problem. I really need you. She needs to correct these mistakes. He needs 
+lish. I really need your lessons. I need to solve this problem. I really need you. She needs to correct these mistakes. He needs
 to find a good job. You need to remember this rule. You need to remember it. I need to improve my English. I need to speak Englis
 h without mistakes. I need to speak English without any mistakes at all. My friend needs your help. My friend needs you advice. I
 need your advice. His father needs money. Your mother needs to work less.
@@ -635,17 +635,17 @@ I need to speak English without any mistakes at all. I need it. I don't suffer. 
 em. I need to correct this mistake. She needs to correct these mistakes. I need this information. I need to speak English correct
 ly. You need to remember it. I need to improve my English. I need to study harder. I need to call him. I enjoy that I do. I reall
 y need English. I need to speak English without mistakes. We need to solve this problem. He needs to find a good job. I need to s
-peak English fluently. His father needs money. We need more information. He need to change his life. I really need your lessons. 
+peak English fluently. His father needs money. We need more information. He need to change his life. I really need your lessons.
 I really need to know it. I need to solve these problems. I need to check it. I need your advice. I need to learn English. I need
 this thing. You need to remember this rule. I need to do it. They need it. You need it. He needs more money. My friend needs your
 help. We need it. I think you need to work less. I need to see her. I really need it. I need to solve that problem. My partner ne
-eds to solve those problems. I really need you. I need money. She needs your advice. She needs it. He needs it. I think you need 
+eds to solve those problems. I really need you. I need money. She needs your advice. She needs it. He needs it. I think you need
 to work more. My friend needs your advice right now.
 
 {23}
-I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you. 
+I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you.
 It happens from time to time. He often goes to the cinema. She goes to work. He has so many problems. He has interesting an idea.
-She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She 
+She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She
 doesn't tell me these things. He doesn't speak Spanish. I doesn't motivate me. His girl knows everything. Our teachers don't expl
 ain it. His girlfriend doesn't feel happy. His boyfriend doesn't know about this problem.
 
@@ -663,7 +663,7 @@ to find more time for English.
 We often go to the cinema. I go to work. I go to school. I need to go home now. She usually comes home early. He wants to live in
 another place. This method really works. He has a car. I don't suffer. I enjoy that I do. She has a house. He has a new car. I ha
 ve great health. She has a beautiful house. I know everything. He reads all the documents. I'm happy. All people do it. All peopl
-e know it. I have limitless energy. I develop extremely fast. I don't understand it at all. All that I want come true. You speak 
+e know it. I have limitless energy. I develop extremely fast. I don't understand it at all. All that I want come true. You speak
 English very well. He works very hard. Its profit seems big. Order. Word order. Success. Attract. Miss. Profit. Support. Motivate
 . Rule. Advice. Regularly. Question. Memory. Happen. Explain. Abroad. Parents. Discuss. Another. Again. One more time. Learn Engl
 ish fast. Speak English fluently.
@@ -673,9 +673,9 @@ He usually comes more late. My girlfriend lives in another place. We want to kno
 terest me at all. I want to learn English fast. I like English. We don't understand it. I don't want to live in this country. I h
 ave so many interesting ideas. You need to remember it. This thing doesn't interest me. I see its success. I don't believe him. S
 he'd like to go to another place. He likes this dress. I really need more practice. He needs to find a good job. You need it. You
-like it. I need to improve my English. I need to know English better. I really need you. I want to train me memory. He'd like to 
+like it. I need to improve my English. I need to know English better. I really need you. I want to train me memory. He'd like to
 become a doctor. I'd like to drink a cup of coffee. My boss usually checks all the information. She's like to become a teacher. Y
-ou speak English very well. My brother goes to work. My friend doesn't think the same. He doesn't have this information. I don't 
+ou speak English very well. My brother goes to work. My friend doesn't think the same. He doesn't have this information. I don't
 believe her. We don't want to live in another place. I want it. That thing doesn't seem interesting. I like your lessons. She doe
 sn't remember it. I want this thing. We'd like to order it right now. I like this thing. He misses you. These things don't attrac
 t me. This company has money. We need to go home. I support you. I don't know it at all. She agrees with you. He has so many frie
@@ -696,20 +696,20 @@ be happy. My friend doesn't believe him. He often goes to the cinema. He tries t
 22.11.2022
 {22}
 I need to speak English without any mistakes at all. I need it. Your mother needs to work less. I need to call them. I need to co
-rrect this mistake. She needs to correct these mistakes. I need this information. I need to speak English correctly. You need to 
+rrect this mistake. She needs to correct these mistakes. I need this information. I need to speak English correctly. You need to
 remember it. I need to improve my English. I need to study harder. I need to call him. I really need English. I need to speak Eng
 lish without mistakes. We need to solve this problem. He needs to find a good job. I need to speak English fluently. His father n
 eed money. We need more information. He needs to change his life. I really need your lessons. I really need to know it. I need to
 solve these problems. I need to check it. I need your advice. I need to learn English. I need this thing. You need to remember th
 is rule. I need to do it. They need it. You need it. He needs more money. My friend needs your help. We need it. I think you need
 to work less. I need to see her. I really need it. I need to solve that problem. My partner needs to solve those problems. I real
-ly need you. I need money. She needs your advice. She needs it. He needs it. I think you need to work more. My friend needs your 
+ly need you. I need money. She needs your advice. She needs it. He needs it. I think you need to work more. My friend needs your
 advice right now.
 
 {23}
-I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you. 
+I agree with you. We support you. You know it better. They live in another country. He always pays for her. She agrees with you.
 It happens from time to time. He often goes to the cinema. She goes to work. He has so many problems. He has an interesting idea.
-She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She 
+She teaches Spanish. I don't order food there. We don't have any questions. You don't understand us. They don't believe him. She
 doesn't tell me these things. He doesn't speak Spanish. It doesn't motivate me. His girlfriend knows everything. Our teaches don'
 t explain it. His girlfriend doesn't feel happy. Her boyfriend doesn't know about this problem.
 
@@ -724,9 +724,9 @@ glish.
 
 24.11.2022
 {25}
-We often go to the cinema. I go to work. I go to school. I need to go home now. She usually come home early. He wants to live in 
+We often go to the cinema. I go to work. I go to school. I need to go home now. She usually come home early. He wants to live in
 another place. We don't have an article. This method really works. He has a car. She has a house. He has a new car. She has a bea
-utiful house. I know everything. He reads all the documents. All people do it. All people know it. I don't understand it at all. 
+utiful house. I know everything. He reads all the documents. All people do it. All people know it. I don't understand it at all.
 You speak English very well. He works very hard. Its profit seems big. Success. Attract. Miss. Profit. Support. Motivate. Rule. A
 dvice. Regularly. Question. Memory. Happen. Explain. Abroad. Parents. Discuss. Another. Again. One more time. Learn English fast.
 Speak English fluently.
@@ -739,14 +739,14 @@ e'd like to go to another place. He likes this dress. I really need more practic
 ke it. I need to improve me English. I need to know English better. I really need you. I want train my memory. He'd like to becom
 e a doctor. I'd like to drink a cup of coffee. My boss usually checks all the information. She'd like to become a teacher. You sp
 eak English very well. My brother goes to work. My friend doesn't think the same. He doesn't have this information. I don't belie
-ve her. We don't want to live in another place. I want it. That thing doesn't seem interesting. I like your lessons. She doesn't 
+ve her. We don't want to live in another place. I want it. That thing doesn't seem interesting. I like your lessons. She doesn't
 remember it. I want this thing. We'd like to order it right now. I like this thing. He misses you. These things don't attract me.
 This company has money. We need to go home. I support you. I don't know it at all. She agrees with you. He has so many friends. Y
 ou don't understand us.
 
 {27}
-She misses you. I also like this channel. I don't suffer. I don't want to say it. I have great health. My friend thinks so. This 
-person doesn't try to change his life. I enjoy that I do. I'm happy. I develop extremely fast. I have limitless energy. All that 
+She misses you. I also like this channel. I don't suffer. I don't want to say it. I have great health. My friend thinks so. This
+person doesn't try to change his life. I enjoy that I do. I'm happy. I develop extremely fast. I have limitless energy. All that
 I want comes true. He goes to work. This thing doesn't attract me. You need to remember this rule. I really like it. I don't know
 . I want to go there. Their profit seems good. I like this channel, too. His girlfriend supports him. I don't want to discuss it.
 He need to change his life. My brother doesn't want to think about his future. I want a good car. He needs it. I'd like to know m
@@ -761,14 +761,14 @@ harder. I want to be happy. My friend doesn't believe him. He often goes to the 
 {28}
 I don't want to tell you about this problem. They don't believe him. She wants to live in another place. I don't want to do it ri
 ght now. I love her. I want to train more regularly. These things don't interest me at all. I see you really like English. My par
-tner needs to solve this problem. I want to know it. He has dollars. She thinks money doesn't make people happy. I don't want to 
+tner needs to solve this problem. I want to know it. He has dollars. She thinks money doesn't make people happy. I don't want to
 play computer games. I'd like to drink a cup of tea. I want a new computer. I don't understand these people. She likes this place
 . I'd like to become a businessman. He has a good car. I really like this place. She does it very well. He thinks money doesn't b
 ring people happiness. He needs more money. I really like this playlist. He doesn't want to do it later. I don't want to drink. H
 er boyfriend doesn't know about this problem. He doesn't want to read these books. He wants to read those books. I want to improv
 e my English. I need to solve that problem. I want this dress. I need to solve these problems. I like this method. She doesn't pl
 ay computer games. We need to pay for it. She wants to see you right now. I need to speak English correctly. I like this playlist
-. All my friends think so. I really need to learn English as soon as possible. I know her. I'd like to order it. I want to speak 
+. All my friends think so. I really need to learn English as soon as possible. I know her. I'd like to order it. I want to speak
 English correctly. Money doesn't attract him. I'd like to know English very well. I don't know this person. My partner doesn't kn
 ow him. I need to speak English without any mistakes at all. I want a new apartment. Those things don't seem strange.
 
@@ -777,8 +777,8 @@ Ha has so many problems. She often goes to the park. She needs to go home. She h
 me at all. They don't believe us. I'd like to become a manager. I'd like to discuss it with you. They know everything. His girlfr
 iend knows everything. I don't order food there. I need to do it. It happens from time to time. My sister doesn't want to do it l
 ater. She wants to do it right now. I'd like to have more practice. I think you need to work more. I really like this channel. My
-friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need 
-to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I 
+friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need
+to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I
 don't believe them. She always does it on time. I don't want to think about it. I need it. My friend doesn't think so. It doesn't
 help me. That method doesn't work. This method really works. She doesn't tell me these things. I usually come home early. My frie
 nd doesn't try to do it. You know it better. They know this person. I don't want to live in that city. All your ideas seem intere
@@ -801,10 +801,10 @@ on't agree with you. He has an idea. His boss doesn't speak English fluently. I 
 
 01.12.2022
 {25}
-We often go to the cinema. I'm happy. I don't suffer. I have great health. I develop extremely fast. All that I want comes true. 
+We often go to the cinema. I'm happy. I don't suffer. I have great health. I develop extremely fast. All that I want comes true.
 I go to work. I go to school. Go home. I need to go home now. She usually comes home early. He wants to live in another place. We
 don't have an article. This. That. These. Those. This method really works. He has a car. She has a house. He has a new car. She h
-as a beautiful house. I know everything. He reads all the documents. All people do it. All people know it. I don't understand it 
+as a beautiful house. I know everything. He reads all the documents. All people do it. All people know it. I don't understand it
 at all. You speak English very well. He works very hard. Its profit seems big. Success. Attract. Miss. Profit. Support. Motivate.
 Rule. Advice. Regularly. Question. Memory. Happen. Explain. Abroad. Parents. Discuss. Another. Again. One more time. Learn Englis
 h fast. Speak English fluently.
@@ -814,9 +814,9 @@ He usually comes home late. My girlfriend lives in another place. We want to kno
 terest me at all. I want to learn English fast. I like English. We don't understand it. I don't want to live in this country. I h
 ave so many interesting ideas. You need to remember it. This thing doesn't interest me. I see its success. I don't believe him. S
 he's like to go to another place. He likes this dress. I really need more practice. He needs to find a good job. You need it. You
-like it. I need to improve my English. I need to know English better. I really need you. I want to train my memory. He'd like to 
+like it. I need to improve my English. I need to know English better. I really need you. I want to train my memory. He'd like to
 become a doctor. I'd like to drink a cup of coffee. My boss usually checks all the information. She'd like to become a teacher. Y
-ou speak English very well. My brother goes to work. My friend doesn't think the same. He doesn't have this information. I don't 
+ou speak English very well. My brother goes to work. My friend doesn't think the same. He doesn't have this information. I don't
 believe her. We don't want to live in another place. I want it. That thing doesn't seem interesting. I like your lessons. She doe
 sn't remember it. I want this thing. We'd like to order it right now. I like this thing. He misses you. These things don't attrac
 t me. This company has money. We need to go home. I support you. I don't know it at all. She agrees with you. He has so many frie
@@ -836,16 +836,16 @@ e happy. My friend doesn't believe him. He often goes to the cinema. He tries to
 
 03.12.2022
 {28}
-It doesn't motivate me. I know they like it. I'd like to go abroad. They don't help me. My friends don't recommend this hotel. I 
-don't like it. I want to speak English without mistakes. They like it. It doesn't seem strange. He doesn't speak Spanish. I know 
+It doesn't motivate me. I know they like it. I'd like to go abroad. They don't help me. My friends don't recommend this hotel. I
+don't like it. I want to speak English without mistakes. They like it. It doesn't seem strange. He doesn't speak Spanish. I know
 them. We like it. He loves her. I want to know these rules. She needs your advice. I want to improve me grammar. Their company do
 esn't try to do it. I really need it. He usually comes to work late. I'd like to visit this place. I really like these lessons. I
 want this computer. I need this thing again. Our company doesn't want it. I want to speak English better. My parents don't discus
 s it. Our teachers don't explain it. She needs to correct these mistakes. His son doesn't want to become a doctor. It doesn't see
 m useful. They live in another country. This offer doesn't seem so interesting. He wants to buy this thing. I want to go there ag
-ain. I have a new car. I want to go there one more time. My friend wants to check it one more time. I really want to know it. He 
+ain. I have a new car. I want to go there one more time. My friend wants to check it one more time. I really want to know it. He
 works here. We want to know all there rules. They want to learn English fast. She wants to do it right now. Its profit doesn't se
-em big. We need it. I want to go abroad. He has a company. Its profit seems so big. He has a new house. I don't want to tell you 
+em big. We need it. I want to go abroad. He has a company. Its profit seems so big. He has a new house. I don't want to tell you
 this thing. I need to call him.
 
 {29}
@@ -867,8 +867,8 @@ He has so many problems. She often goes to the park. She needs to go home. She h
 me at all. They don't believe us. I'd like to become a manager. I'd like to discuss it with you. They know everything. His girlfr
 iend knows everything. I don't order food there. I need to do it. It happens from time to time. My sister doesn't want to do it l
 ater. She wants to do it right now. I'd like to have more practice. I think you need to work more. I really like this channel. My
-friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need 
-to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I 
+friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need
+to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I
 don't believe them. She always does it on time. I don't want to think about it. I need it. My friend doesn't think so. It doesn't
 help me. That method doesn't work. This method really works. She doesn't tell me these things. I usually come home early. My frie
 nd doesn't try to do it. You know it better. They know this person. I don't want to live in that city. All your ideas seem intere
@@ -881,7 +881,7 @@ I like this channel. I don't want to study there. We don't have any questions. H
 ve her. My partner has an interesting offer. You don't try to learn English. He doesn't have a car. I need to correct this mistak
 e. I need this information again. I need to learn English. She goes to school. I need to see her. We support you. My sister doesn
 't want to study there. I want to know English better. Those lessons don't seem useful. These lessons seem very useful. I need to
-speak English without mistakes. I really want it. We often have a rest there. I like this video. My friend needs your help. This 
+speak English without mistakes. I really want it. We often have a rest there. I like this video. My friend needs your help. This
 lesson helps me. I'd like to do it. Her English seems so good. His girlfriend doesn't feel happy. Their parents feel so happy. I'
 d like a cup of coffee. My boss doesn't see her. I want to buy a new flat. He doesn't know it. I'd like a cup of tea. I need to s
 peak English fluently. I want to have a good car. I'd like to become a businessman. I want to speak English fluently and correctl
@@ -903,7 +903,7 @@ have enough practice? Do we have enough knowledge?
 Do you remember everything? Do they support us? Do you like it? Do you want to study better? Do you often use the internet? Do yo
 u often go to the gym? Do you support him? Do you go to school? Do we have enough knowledge? Do you want to know your mistakes? D
 o we show good results? Do you need to solve this problem right now? Do you have enough money? Do we have enough practice? Do you
-support him? Do you like this dress? Do they agree with us? Do you often go there? Do you support me? Do you like that offer? Do 
+support him? Do you like this dress? Do they agree with us? Do you often go there? Do you support me? Do you like that offer? Do
 you often listen to music? Do you go to work? Do you agree with him? Do you try to improve this result? Do you have free time? Do
 you understand me? Do you support this decision? Do you work on your mistakes? Do you really like this idea? Do you need more mon
 ey? Do you agree with them? Do I make mistakes? Do you remember it? Do you agree with here? Do you know about this problem? Do yo
@@ -915,7 +915,7 @@ lth. I develop extremely fast. I enjoy that I do. I implement an idea that bring
 {28}
 It doesn't motivate me. I know they like it. I'd like to go abroad. They don't help me. My friends don't recommend me this hotel.
 I don't like it. I want to speak English without mistakes. They like it. It doesn't seem strange. He doesn't speak Spanish. I kno
-w them. We like it. He loves her. I want to know these rules. She needs your advice. I want to improve me grammar. Their company 
+w them. We like it. He loves her. I want to know these rules. She needs your advice. I want to improve me grammar. Their company
 doesn't try to do it. I really need it. He usually comes to work late. I'd like to visit this place. I really like these lessons.
 I want this computer. I need this thing again. Our company doesn't want it. I want to speak English better. My parents don't disc
 uss it. Our teachers don't explain it. She needs to correct this mistakes. His son doesn't want to become a doctor. It doesn't se
@@ -928,7 +928,7 @@ his thing. I need to call him.
 {29}
 I don't want to tell you about this problem. They don't believe him. She wants to live in another place. I don't want to do it ri
 ght now. I love her. I want to train more regularly. These things don't interest me at all. I see you really like English. My par
-tner needs to solve this problem. I want to know it. He has dollars. She thinks money doesn't make people happy. I don't want to 
+tner needs to solve this problem. I want to know it. He has dollars. She thinks money doesn't make people happy. I don't want to
 play computer games. I'd like to drink a cup of tea. I want a new computer. I don't understand these people. She likes this place
 . I'd like to become a businessman. He has a good car. I really like this place. She doesn't very well. He thinks money doesn't b
 ring people happiness. He needs more money. I really like this playlist. He doesn't want to do it later. I don't want to drink. H
@@ -936,7 +936,7 @@ er boyfriend doesn't know about this problem. He doesn't want to read these book
 my English. I need to solve that problem. I want this dress. I need to solve these problems. I like this method. She doesn't play
 computer games. We need to pay for it. She wants to see you right now. I need to speak English correctly. I like this playlist. A
 ll my friends think so. I really need to learn English as soon as possible. I know her. I'd like to order it. I want to speak Eng
-lish correctly. Money doesn't attract him. I'd like to know English very well. I don't know this person. My partner doesn't know 
+lish correctly. Money doesn't attract him. I'd like to know English very well. I don't know this person. My partner doesn't know
 him. I need to speak English without any mistakes at all. I want a new apartment. Those things don't seem strange.
 
 {30}
@@ -944,8 +944,8 @@ He has so many problems. She often goes to the park. She needs to go home. She h
 me at all. They don't believe us. I'd like to become a manager. I'd like to discuss it with you. They know everything. His girlfr
 iend knows everything. I don't order food there. I need to do it. It happens form time to time. My sister doesn't want to do it l
 ater. She wants to do it right now. I'd like to have more practice. I think you need to work more. I really like this channel. My
-friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need 
-to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I 
+friend needs your advice right now. I love you. My friend doesn't agree with me. My friend doesn't like this idea. I really need
+to know it. They sometimes play computer games. I don't believe you. His offer seems so good. You always say it. They need it. I
 don't believe them. She always does it on time. I don't want to think about it. I need it. My friend doesn't think so. It doesn't
 help me. That method does't work. This method really works. She doesn't tell me this things. I usually come home early. My friend
 doesn't try to do it. You know it better. They know this person. I don't want to live in that city. All your ideas seem interesti
@@ -958,7 +958,7 @@ I like this channel. I don't want to study there. We don't have any questions. H
 ve her. My partner has an interesting offer. You don't try to learn English. He doesn't have a car. I need to correct this mistak
 e. I need this information again. I need to learn English. She goes to school. I need to see her. We support you. My sister doesn
 't want to study there. I want to know English better. Those lessons don't seem useful. These lessons seem very useful. I need to
-speak English without mistakes. I really want it. We often have a rest there. I like this video. My friend needs your help. This 
+speak English without mistakes. I really want it. We often have a rest there. I like this video. My friend needs your help. This
 lesson helps me. I'd like to do it. Her English seem so good. His girlfriend doesn't feel happy. Their parents feel so happy. I'd
 like a cup of coffee. My boss doesn't see her. I want to buy a new flat. He doesn't know it. I'd like a cup of tea. I need to spe
 ak English fluently. I want to have a good car. I'd like to become a businessman. I want to speak English fluently and correctly.
@@ -982,11 +982,11 @@ u often go to the gym? Do you support him? Do you go to the school? Do we have e
 s? Do we show good results? Do you need to solve this problem right now? Do you have enough money? Do we have enough practice? Do
 you support him? Do you like this dress? Do they agree with us? Do you often go there? Do you support me? Do you like that offer?
 Do you often listen to music? Do you go to work? Do you agree with him? Do you try to improve this result? Do you have free time?
-Do you understand me? Do you support this decision? Do you work on your mistakes? Do you really like this idea? Do you need more 
-money? Do you agree with them? Do I make mistakes? Do you remember it? Do you agree with her? Do you know about this problem? Do 
+Do you understand me? Do you support this decision? Do you work on your mistakes? Do you really like this idea? Do you need more
+money? Do you agree with them? Do I make mistakes? Do you remember it? Do you agree with her? Do you know about this problem? Do
 you often do it? Do you need help? Do I have enough money? Do you agree with me? Do you often visit this place? Do you need my ad
 vice? Do they support this decision? Do they see their mistakes? Do you often call him? I don't suffer. I'm happy. I have great h
-ealth. I develop extremely fast. I enjoy that I do. I implement an idea that bring much money. I work on company project and get 
+ealth. I develop extremely fast. I enjoy that I do. I implement an idea that bring much money. I work on company project and get
 good salary.
 
 10.12.2022
@@ -1002,15 +1002,15 @@ his project? Does she like this profession? Does it look strange? Does it seem i
 Does he like it? Does he hate it? Does he want to live abroad? Does it seem boring? Does she tell him everything? Does he live th
 ere? Does she need to come there? Does she need to come to that place? Does she really like it? Does she often listen to the radi
 o? Does it seem interesting? Does he ignore everything? Does he try to find a new job? Does he like this project? Does she like t
-his profession? Does he pay for it? Does she need to call him? Does she often say it? Does he often speak English? Does he often 
-tell you these things? Does it sometimes happen? Dose she want to go abroad? Does she often use it? Does he look for a job? Does 
+his profession? Does he pay for it? Does she need to call him? Does she often say it? Does he often speak English? Does he often
+tell you these things? Does it sometimes happen? Dose she want to go abroad? Does she often use it? Does he look for a job? Does
 he hate this thing? Does he want to work in another place? Does it help you? Does he ignore her words? Does he remember all these
 rules? Does it often happen? Does he often think about it? Does he often watch TV? Does it look strange? Does he often hear it? D
 ose she teach English? Does he always pay for her? Does she ignore it sometimes? Does it really help you?
 
 {36}
 Does this lesson seem useful? Do these lessons help you? Does this channel seem very interesting? Does this teacher explain every
-thing very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this 
+thing very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this
 exam seem very difficult? Does that test seem very easy? Does his girlfriend understand it? Does their boss know all the truth? D
 o they students show excellent results? Does this students show brilliant results? Does that student make mistakes? Do those stud
 ents speak English correctly? Does your friend like this idea? Do your friends support you?
@@ -1018,12 +1018,12 @@ ents speak English correctly? Does your friend like this idea? Do your friends s
 11.12.2022
 {31}
 I like this channel. I don't want to study ther. We don't have any questons. Her boyfriend supporth her. My friends don't believe
-her. My partner has an interesting offer. You don't try to learn English. He doesn't have a car. I need to correct this mistake. 
+her. My partner has an interesting offer. You don't try to learn English. He doesn't have a car. I need to correct this mistake.
 I need this inforamaton again. I need to learn English. She goes to shool. I need to see her. We support you. My sister doesn't w
 ant to study there. I want to know English better. Those lessons don't seem useful. These lessons seem very useful. I need to spe
 ak Englihs without mistakes. I really want it. We often relax there. We often have a rest there. I like this video. My friend nee
 ds your help. This lesson helps me. I'd like to do it. Her Englihs seems so good. His girlfriend doesn't feel happy. Their parent
-s feel so happy. I'd like a cup of coffee. My boss doesn't see her. I want to buy a new flat. He doesn't know it. I'd like a cup 
+s feel so happy. I'd like a cup of coffee. My boss doesn't see her. I want to buy a new flat. He doesn't know it. I'd like a cup
 of tea. I need to speak English fluently. I want to have a good car. I'd like to become a businessman. I want to speak Englihs fu
 luently and correctly. I want to have a good job. This offer seems so strange. She doesn't want to discuss it. She needs it. I re
 ally need your lessons. I need to call them. My friend likes this hotel. My girl and I often go to the park. My friend doesn't th
@@ -1031,20 +1031,20 @@ ink so. She doesn't feel happy. I don't agree with you. He has an idea. His boss
 ce.
 
 {32}
-You know it. Do you know it? Do I make mstakes? Do we show good results? Do you understand me? Do they agree with us? Do you try 
+You know it. Do you know it? Do I make mstakes? Do we show good results? Do you understand me? Do they agree with us? Do you try
 to improve this result? Do you work on your mistakes? Do you have free time? Do you support me? Do you agree with me? Do you reme
 mber it? Do you remember everything? Do you know about this problem? Do you need help? Do you need more moeny? Do you need my adv
 ice? Do you support this decision? Do you want to study better? Do you want to know your mistakes? Do you need to solve this prob
 lem right now? Do you like it? Do you like this channel? Do you like this song? Do you like this idea? Do you like classical musi
 c? I like it. Do you often do it? Do you often listen to music? Do you often go there? Do you often use the internet? Do you ofte
-n go to the gym? Do you often visit this place? Do they often discuss it? Do they do the same? Do we have enough practice? Do we 
+n go to the gym? Do you often visit this place? Do they often discuss it? Do they do the same? Do we have enough practice? Do we
 have enough knowledge?
 
 {33}
 Do you remember everything? Do they support us? Do you like it? Do you want to study better? Do you often use the internet? Do yo
 u often go to the gym? Do you support him? Do you go to school? Do we have enough knowledge? Do you want to know your mistakes? D
 o we show good results? Do you need to solve this problem right now? Do you have enough money? Do we have enough practice? Do you
-support him? Do you like this dress? Do they agree with us? Do you often go there? Do you support me? Do you like that offer? Do 
+support him? Do you like this dress? Do they agree with us? Do you often go there? Do you support me? Do you like that offer? Do
 you often listen to music? Do you go to work? Do you agree with him? Do you try to improve this result? Do you have free time? Do
 you understand me? Do you support this decision? Do you work on your mistakes? Do you really like this idea? Do you need more mon
 ey? Do you agree with them? Do I make mistakes? Do you remember it? Do you agree with her? Do you know about this problem? Do you
@@ -1055,8 +1055,8 @@ often do it? Do you need help? Do I have enough money? Do you agree with me? Do 
 {34}
 Does she think about it? Does he leave there? Does it help you? Does she teach English? Does she tell him everything? Does she ig
 nore it? Does he hate it? Does he hate this thing? Does he pay for it? Does he look for a job? Does he try to find a new job? Doe
-s he want to work in another place? Does she need to call him? Does she need to come there? Does she need to come to this place? 
-Does she often say it? Does he often hear it? Does she often listen to the radio? Does he often watch TV? Does she often use it? 
+s he want to work in another place? Does she need to call him? Does she need to come there? Does she need to come to this place?
+Does she often say it? Does he often hear it? Does she often listen to the radio? Does he often watch TV? Does she often use it?
 Does it often happen? Does it sometimes happen? I sometimes do it! I always do it! Does it happen from time to time? Does he like
 it? Does she like it? Does he like this project? Does she like this profession? Does it look strange? Does it seem intresting? Do
 es it seem boring? I don't suffer. I'm happy. I have great health. I develop extremely fast. I enjoy that I do. I implement an id
@@ -1065,17 +1065,17 @@ ea that bring much money. I work on company project and get good salary.
 {35}
 Does he like it? Does he hate it? Does he want to live abroad? Does it seem boring? Does she tell him everything? Does he live th
 ere? Does she need to come there? Does she need to come to that place? Does she really like it? Does she often listen to the radi
-o? Does it seem intreresting? Does he ignore everything? Does he try to find a new job? Does he like this project? Does she like 
+o? Does it seem intreresting? Does he ignore everything? Does he try to find a new job? Does he like this project? Does she like
 this profession? Does he pay for it? Does she need to call him? Does she often say it? Does he oftne speak English? Does he often
-tell you thses things? Does it sometimes happen? Does she want to go abroad? Does she often use it? Does he look for a job? Does 
+tell you thses things? Does it sometimes happen? Does she want to go abroad? Does she often use it? Does he look for a job? Does
 he hate this thing? Does he want to work in another place? Does it help you? Does he ignore her words? Does he remember all these
 rules? Does it often happen? Does he often think about it? Does he often watch TV? Does it look starnge? Does he often hear it? D
 oes she teach English? Does he always pay for her? Does she ignore it sometimes? Does it really help you?
 
 {36}
 Does this lesson seem useful? Do these lessons help you? Does this channel seem very interesting? Does this teacher explain every
-thing very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this 
-exam seem very difficult? Does that test seem very easy? Does his girlfriend understand it? Does their boss know all ther truth? 
+thing very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this
+exam seem very difficult? Does that test seem very easy? Does his girlfriend understand it? Does their boss know all ther truth?
 Do these students show exelent results? Does this student show brilliant results? Does that students make mistakes? Do those stud
 ents speak English correctly? Does your friend like this idea? Do your friends support you?
 
@@ -1088,16 +1088,16 @@ rtant? Does your friend agree with you? Does your friend like this idea? Does th
 lp you? Does that test seem very easy? Does their boss know all ther truth? Does your teacher see it? Do you friends agree with y
 ou? Does his girlfriend understand it? Do those students speak English correctly? Do these students show exellent results? Does t
 his information seem unimportant? Does that student make mistakes? Do your friend always support you? Does this channel seem very
-interesting? Do these lessons help you? Does this result motivate you? Do these results motivate you? Does this person seem very 
+interesting? Do these lessons help you? Does this result motivate you? Do these results motivate you? Does this person seem very
 good?
 
 {38}
-My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me? Do my 
+My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me? Do my
 friends support me? This information seems useful. This information doesn't seem useful. Does this information seem useful? Those
 lessons seem useless. Those lessons don't seem useless. Do those lessons seem useless? His teacher corrects all his mistakes. His
 teacher doesn't correct all his mistakes. Does his teacher correct all his mistakes? This person needs our help. Does this person
 needs our help. Does this person need our help? Our boss controlls the situation. Our boss doesn't controll the situation. Does o
-ur boss controll the situation? My father believes in God. My father doesn't believe in God. Does my father believe in God? This 
+ur boss controll the situation? My father believes in God. My father doesn't believe in God. Does my father believe in God? This
 exercise seems to easy. This exercise doesn't seem to easy. Does this exercise seem to easy? This result depends on you. This res
 ult doesn't depend on you. Does this result depend on you?
 
@@ -1107,7 +1107,7 @@ Does she like this idea? She comes home late. She doesn't come home late. Does s
 e doesn't work in another place. Does she work in another place? She likes this place. She doesn't like this place. Does she like
 this place? He wants to solve this problem. He doesn't want to solve this problem. Does he want to solve this problem? Money inte
 rests him. Money doesn't interest him. Does money interest him? It happens from time to time. It doesn't happen from time to time
-. Does it happen from time to time? They try to change it. They don't try to change it. Do they try to change it? He agrees with 
+. Does it happen from time to time? They try to change it. They don't try to change it. Do they try to change it? He agrees with
 us. He doesn't agree with us. Does he agree with us?
 
 16.12.2022
@@ -1124,15 +1124,15 @@ it? Does he like this project? Does she like this profession? Does it look stran
 Does he like it? Does he hate it? Does he want to live abroad? Does it seem boring? Does she tell him everything? Does he live th
 ere? Does she need to come there? Does she need to come to that place? Does she really like it? Does she often listen to the radi
 o? Does it seem interesting? Does he ignore everything? Does he try to find a new job? Does he like this project? Does she like t
-his profession? Does he pay for it? Does she need to call him? Does she often say it? Does he often speak Egnlish? Does he often 
-tell you these things? Does it sometimes happen? Does she want to go abroad? Does she often use it? Does he look for a job? Does 
+his profession? Does he pay for it? Does she need to call him? Does she often say it? Does he often speak Egnlish? Does he often
+tell you these things? Does it sometimes happen? Does she want to go abroad? Does she often use it? Does he look for a job? Does
 he hate this thing? Does he want to work in another place? Does it help you? Does he ignore her words? Does he remember all these
 rules? Does it ofthe happen? Does he often thing about it? Does he often watch TV? Does it look strange? Does he often hear it? D
 oes she teach English? Does he always pay for her? Does she ignore it sometimes? Does it really help you?
 
 {36}
 Does this lesson seem useful? Do these lessons help you? Does this channel seem very interesting? Does this teacher explain every
-thign very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this 
+thign very well? Does this information seem useless? Does this thing seem important? Do these things seem unimportant? Does this
 exam seem very difficult? Does that test seem very easy? Does his girlfriend understand it? Does their boss know all the truth? D
 o these students show excellent results? Does this student show brilliant results? Does that student make mistakes? Do those stud
 ents speak English correctly? Does your friend like this idea? Do your friends support you? I don't suffer. I'm happy. I have gre
@@ -1148,21 +1148,21 @@ ortant? Does your friend agree with you? Does your friend like this idea? Does t
 elp you? Does that test seem very easy? Does their boss know all the truth? Does your teacher see it? Do you friends agree with y
 ou? Does his girlfriend understand it? Do those students speak English correctly? Do these students show exellent results? Does t
 his information seem umimportant? Does that student make mistakes? Do you friends always support you? Does this channel seem very
-interesting? Do these lessons help you? Does this result motivate you? Do these results motivate you? Does this person seem very 
+interesting? Do these lessons help you? Does this result motivate you? Do these results motivate you? Does this person seem very
 good?
 
 {38}
-My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me. Do my 
+My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me. Do my
 friends support me? This information seems useful. This information doesn't seem useful. Does this information seem useful. Those
 lessons seem useless. Those lessons doesn't seem useless. Do those lessons seem useless? His teacher corrects all his mistakes. H
 is teacher doesn't correct all his mistakes. Does his teacher correct all his mistakes? This person needs our help. This person d
-oesn't need our help. Does this person need our help? Our boss controlls the situation. Our boss doesn't controll the situation. 
+oesn't need our help. Does this person need our help? Our boss controlls the situation. Our boss doesn't controll the situation.
 Does our boss controll the situation? My father believes in God. My father doesn't believe in God. Does your father believe in Go
 d? This exercise seems too easy. This exercise doesn't seem to easy. Does this exercise seem to easy? This result depends on you.
 This results doesn't depend on you. Does this result depend on you?
 
 {39}
-His words motivate her. His words don't motivate him. Do his words motivate her? She likes this idea. She doesn't like his idea. 
+His words motivate her. His words don't motivate him. Do his words motivate her? She likes this idea. She doesn't like his idea.
 Does she like this idea? She comes home late. She doens't come home late. Does she come home late? She works in another place. Sh
 e doesn't work in another place. Does she work in another place? She likes this place. She doesn't like this place. Does she like
 this place? He wants to solve this problem. He doesn't want to solve this problem. Does he want to solve this problem. Money inte
@@ -1174,8 +1174,8 @@ ast. I enjoy that I do. I implement idea that brings much money. I work on compa
 20.12.2022
 {40}
 Where do you live? Where do you work? Where do you go? Where do they spend time together? Why do you think so? Why do you agree w
-ith him? Why do you learn English? What do you think about it? What do you know? What do you want to do? What do you need to do? 
-How do you find this idea? How do you get to work? How do you get to there? When do you feel happy? When do you go to work? When 
+ith him? Why do you learn English? What do you think about it? What do you know? What do you want to do? What do you need to do?
+How do you find this idea? How do you get to work? How do you get to there? When do you feel happy? When do you go to work? When
 do you have free time? When do you have free time? What do you want to say? What seems strange? What do they want to tell you? Wh
 at helps you? What really helps you? What looks strange? Who do you know? Who knows it? Who do you support? Who supports you? Wha
 t books do you read? What English books do you read? What music do you prefer? What kind of books do you read? What kind of compu
@@ -1184,8 +1184,8 @@ s do you have? How often do you go there? How often do you go to the gym? How re
 
 {41}
 Who do you know? When do you go to work? Where do they spend time together? Why do you agree with him? What kind of computer game
-s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How 
-many friends do you have? How do you find this idea? Who controls it? How many mistakes do you usually make? What do you need to 
+s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How
+many friends do you have? How do you find this idea? Who controls it? How many mistakes do you usually make? What do you need to
 do? What time do you usually get up? What seems strange? Why do you think so? Why do they depend on you? How do you spend your fr
 ee time? Whend do you have free time? What seems important? What seems unimportant? How often do you use the internet? Who checka
 all this information? How often do you think about it? What helps you? What kind of books do you read? Who corrects your mistakes
@@ -1198,7 +1198,7 @@ ey want to tell you? How often do you listen to the radio? How do you usually sp
 t place? Where do you go? What looks strange? What seems so interesting? Why do you like this channel? Who checks everything? How
 do you get there? Where do you live? Who do you support? How often do you go there? Why do you want to visit this place? Why do y
 ou want to know English very well? How much money do you have with you? What seems useless? When do you feel happy? What do you l
-ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get 
+ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get
 to work? How much free time do you have? What books do you read? Who goes to work? Who sees this mistakes? Who do you usually see
 there? What works so well? I don't suffer. I have great health. I develop extremely fast. I have limitless energy. I'm happy. I e
 njoy that I do. I implement an idea the brings much money. I work on company project and get well salary.
@@ -1209,19 +1209,19 @@ Does this thing seem important? Do your parents understand it? Does this exam se
 nt results? Does your mother want to tell him all the truth? Does that lesson seem boring? Does this lesson seem useful? Does her
 boyfriend want to go abroad? Does this teacher explain everything very well? Does your father need it? Do these things seem unimp
 ortant? Does your friend agree with you? Does your friend like this idea? Does this information seem useless? Does this channel h
-elp you? Does that test seem very easy? Does their boss know all the truth? Does your teacher see it? Do your friends agree with 
-you? Does his girlfriend understand it? Do those students speak English correctly? Do these students show ecellent results? Does 
+elp you? Does that test seem very easy? Does their boss know all the truth? Does your teacher see it? Do your friends agree with
+you? Does his girlfriend understand it? Do those students speak English correctly? Do these students show ecellent results? Does
 this information seem umimportant? Does that srudent make mistakes? Do your friends always support you? Does this channel seem ve
 ry interesting? Do these lessons help you? Does this result motivate you? Do these results motivate you? Does this person seem ve
 ry good?
 
 {38}
-My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me. Do my 
+My friend likes it. My friend doesn't like it. Does my friend like it? My friends support me. My friends don't support me. Do my
 friends support me? This information seems useful. This information doesn't seem useful. Does this information seem useful? Those
 lessons seem useless. Those lessons don't seem useless. Do those lessons seem useless? His teacher corrects all his mistakes. His
 teacher doesn't correct all his mistakes. Does his teacher correct all his mistakes? This person needs our help. This person does
 n't need our help. Does this person need our help? Our boss control the situation. Our boss doesn't control the situation. Does o
-ur boss control the situation. My father believes in God. My father doesn't believe in God. Does your father belive in God? This 
+ur boss control the situation. My father believes in God. My father doesn't believe in God. Does your father belive in God? This
 exercise seems too easy. This exercise doesn't seem to easy. Does this exercise seem to easy? This result depends on you. This re
 sult doesn't depend on you. Does this result depend on you?
 
@@ -1231,15 +1231,15 @@ Does she like this idea? She comes home late. She doesn't come home late. Does s
 e doesn't work in another place. Does she work in another place? She likes this place. She doesn't like this place. Does she like
 this place? He wants to solve this problem. He doens't want to solve this problem. Does he want to solve this problem. Money inte
 rests him. Money doens't interest him. Does money interest him? It happens from time to time. It doesn't happen from time to time
-. Does it happen from time to time? They try to change it. They don't try to change it. Do they try to change it? He agrees with 
+. Does it happen from time to time? They try to change it. They don't try to change it. Do they try to change it? He agrees with
 us. He doesn't agree with us. Does he agree with us? I don't suffer. I have great health. I enjoy that I do. I have limitless ene
 rgy. I develop extremely fast. I implement an idea that brings much money. I work on company project and get good salary.
 
 24.12.2022
 {40}
 Where do you live? Where do you work? Where do you go? Where do they spend time together? Why do you think so? Whyd o you agree w
-ith him? Why do you learn English? What do you think about it? What do you know? What do you want to do? What do you need to do? 
-How do you find this idea? How do you get to work? How do you get there? When do you feel happy? When do you go to work? When do 
+ith him? Why do you learn English? What do you think about it? What do you know? What do you want to do? What do you need to do?
+How do you find this idea? How do you get to work? How do you get there? When do you feel happy? When do you go to work? When do
 you have free time? What do you want to say? What seems strange? What do they want to tell you? What helps you? What really helps
 you? What looks strange? Who do you know? Who knows it? Who do you support? Who supports you? What books do you read? What Englis
 h books do you read? What music do you prefer? What kind of music do you prefer? What kind of books do you read? What kind of com
@@ -1248,10 +1248,10 @@ iends do you have? How often do you go there? How often do you go to the gym? Ho
 
 {41}
 Who do you know? When do you go to work? Where do they spend time together? Why do you agree with him? What kind of computer game
-s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How 
-many friends do you have? How do you find this idea? Who controls it? How many mistakes do you usually make? What do you need ot 
+s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How
+many friends do you have? How do you find this idea? Who controls it? How many mistakes do you usually make? What do you need ot
 do? What time do you usually get up? What seems strange? Why do you think so? Why do they depend on you? How do you spend your fr
-ee time? When do you have free time? What seems important? What seems unimportant? How often do you use the internet? Who checks 
+ee time? When do you have free time? What seems important? What seems unimportant? How often do you use the internet? Who checks
 all this information? How oftne do you think about it? What helps you? What kind of books do you read? Who corrects your mistakes
 ? How often do you watch TV? How regularly do you check it? How many English words do you know? What do you think about it? Who s
 upports you? What music do you prefer? Where do you work?
@@ -1262,7 +1262,7 @@ ey want to tell you? How often do you listen to the radio? How do you usually sp
 t place? Where do you go? What looks strange? What seems so interesting? Why do you like this channel? Who checks everything? How
 do you get there? Where do you live? Who do you support? How often do you go there? Why do you want to visit this place? Why do y
 ou want to know English very well? How much money do you have with you? What seems useless? When do you feel happy? What do you l
-ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get 
+ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get
 to work? How much free time do you have? What books do you read? Who goes to work? Who sees these mistakes? Who do you usually se
 e there? What works so well? I don't suffer. I'm happy. I have great health. I have limitless energy. I develop extremely fast. I
 enjoy that I do. I implement an idea that brings mucn money. I work on company project and get good salary.
@@ -1270,18 +1270,18 @@ enjoy that I do. I implement an idea that brings mucn money. I work on company p
 25.12.2022
 {43}
 Where does he work? Where do you work? Where does she study? Where does she go? Why does he complain so often? Why does she refus
-e to pay? Why does it happen again and again? What does she say? What does she tell him? What does he want to add? What does she 
+e to pay? Why does it happen again and again? What does she say? What does she tell him? What does he want to add? What does she
 try to do? What does he need to change? How does she test their knowledge? How does it help you? How does he support you? When do
-es it happen? When does he feel happy? What does he remember? What does she want to add? What helps you? What interest you? What 
+es it happen? When does he feel happy? What does he remember? What does she want to add? What helps you? What interest you? What
 worries you? Who does it motivate? Who motivates you? Who does she love? Who loves her? Who does he support? Who supports you? Wh
 at English books do you have? What channels does he watch? What kind of movies does she watch? She watches different movies? What
 books does she prefer to read? Which channel do you usually watch? What channels does he usually watch? Which drink does she pref
-er? What drinks does she prefer? What time does he come to work? What time does she leave home? How much money does she pay? How 
+er? What drinks does she prefer? What time does he come to work? What time does she leave home? How much money does she pay? How
 many dollars does he have? How often does she go to the cinema? How often does he go to the zoo? How regularly does he do these e
 xercises? What do you do? How long does it take you to get to this place? How long does it take him to this place?
 
 {44}
-How long does it take you to get to school? What channeld does he usually watch? What kind of movies does she watch? How does he 
+How long does it take you to get to school? What channeld does he usually watch? What kind of movies does she watch? How does he
 get home? Why does it attract you? How often does he test their knowledge? What does he need to change? What drinks does she pref
 er? Why does he refuse to do it? How long does it take you to get to work? Why does it look strange? How regularly does he do the
 se exercises? What does she want to add? How many English words does he now? When does it happen? What interests you? What does h
@@ -1292,10 +1292,10 @@ m? What attracts him there? How does he support you? What worries you more? Why 
 
 {45}
 What motivates you more? What does he want to add? What channel does he usually whatch? Where does she study? Which drink does sh
-e prefer? Who supports you? How often does she go to the cinema? How does she get home? She watchs different movies. Who does he 
+e prefer? Who supports you? How often does she go to the cinema? How does she get home? She watchs different movies. Who does he
 support? Why does it happen again and again? Where does she usually go? What advice does she give you? How often does he go to th
 e zoo? What really helps you? Who does it worry? How lond does it take her to get to this place? How does she explain it? Who lov
-es her? How long does take him to get to that place? Why does he complain so often? Why does it interest him? How does she train 
+es her? How long does take him to get to that place? Why does he complain so often? Why does it interest him? How does she train
 her memory? Why does she refuse to pay? How does he usually spend his free time? How does she test their knowledge? Where does he
 work? How many dollars does he have? What channels does he watch? Who does it motivate? How does he solve these problems? What do
 es she want to add? Who does she love? How much money does she pay? What does she usually say? I don't suffer. I have great healt
@@ -1307,18 +1307,18 @@ ork on company project and get good salary.
 Where do you live? Where do you work? Where do you go? Where do they spend time togeher? Why do you think so? Why do you agree wi
 th him? Why do you learn English? What do you think about it? What do you know? What do you want to do? What do you need to do? H
 ow do you find this idea? How do you get to work? How do you get there? When do you feel happy? When do you go to work? When do y
-ou have free time? What do you want to say? What seems strange? What do they want to tell you? What helps you? What really helps 
+ou have free time? What do you want to say? What seems strange? What do they want to tell you? What helps you? What really helps
 you? What looks strange? Who do you know? Who knows it? Who do you support? Who supports you? What books do you read? What Englis
 h books do you read? What music do you prefer? What kind of books do you read? What kind of computer games do they play? What tim
-e do you get up? What time do you go to bed? How much money do you have with you? How namy friends do you have? How often do you 
+e do you get up? What time do you go to bed? How much money do you have with you? How namy friends do you have? How often do you
 go there? How often do you go to the gym? How regularly do you learn English?
 
 {41}
 Who do you know? When do you go to work? Where do they spend time together? Why do you agree with him? What kind of computer game
-s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How 
+s do they play? What time do you go to bed? What do you want to say? What do you want to do? How often do you go to the gym? How
 many friends do you have? How do you find this idea? Who controlls it? How many mistakes do you usually make? What do you need to
 do? What time do you usually get up? What seems strange? Why do you think so? Why do they depend on you? How do you spend your fr
-ee time? When do you have free time? What seems important? What seems unimportant? How often do you use the internet? Who checks 
+ee time? When do you have free time? What seems important? What seems unimportant? How often do you use the internet? Who checks
 all the information? How often do you think about it? What helps you? What kind of books do you read? Who corrects your mistakes?
 How often do you wantch TV? How reqularly do you check it? How many English words do you know? What do you think about it? Who su
 pports you? What music do you prefer? Where do you work?
@@ -1329,7 +1329,7 @@ ey want to tell you? How often do you listen to the radio? How do you usually sp
 t place? Where do you go? What looks strange? What seems so interesting? Why do you like this channel? Who checks everything? How
 do you get there? Where do you live? Who do you support? How often do you go there? Why do you want to visit this place? Why do y
 ou want to know English very well? How much moeny do you have with you? What seems useless? When do you feel happy? What do you l
-ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get 
+ike here? What really helps you? What English books do you read? Why do you depend on him? Who usually checks it? How do you get
 to work? How much free time do you have? What books do you read? Who goes to work? Who sees these mistakes? Who do you usually se
 e there? What works so well? I don't suffer. I have great health. I'm happy. I enjoy that I do. I have limitless energy. I develo
 p extremely fast. I work on company project and get good salary. I implement an idea that will brings me one million dollars in t
@@ -1340,10 +1340,10 @@ ree/four years.
 Where does he work? Where do you work? Where does she study? Where does she go? Why does he complain so often? Why does she refus
 e to pay? Why does it happen agin and again? What does she say? What does she tell him? What does he want to add? What does she t
 ry to do? What does he need to change? How does she test their knowledge? How does it help you? How does he support you? When doe
-s it happen? When does he feel happy? What does he remember? What does she want to add? What helps you? What interests you? What 
+s it happen? When does he feel happy? What does he remember? What does she want to add? What helps you? What interests you? What
 worries you? Who does it motivate? Who motivates you? Who does she love? Who loves her? Who does he support? Who supports you? Wh
 at English books do you have? What English books does he have? What channels does he watch? What kind of movies does she watch? S
-he watches different movies. Which. What books does she prefer to read? Which channel do you usually watch? Which drink does she 
+he watches different movies. Which. What books does she prefer to read? Which channel do you usually watch? Which drink does she
 prefer: tea or coffee? What drinks does she prefer? What time does he come to work? What time does she leave home? How much money
 does she pay? How much dollars does he have? How regularly do you learn English? How often does she go to the cinema? How ofted d
 oes he go to the zoo? How regularly does he do these exercises? How long does it take you to get to work? Why do you like it? Wha
@@ -1351,13 +1351,13 @@ t do you do in your free time? How do you do it? I read books in English? What E
 ou read?
 
 {44}
-How long does it take you to get to shcool? What channels does he usually watch? What kind of movies does she watch? How does he 
+How long does it take you to get to shcool? What channels does he usually watch? What kind of movies does she watch? How does he
 get home? Why does it attract you? How often does he test their knowledge? What does he need to change? What drinks does she pref
 er? Why does he refuse to do it? How lond does it take you to get to work? Why does it look starnge? How regularly does he do the
-se exercises? What does she want to add? How many English words does he know? When does it happen? What interests you? What does 
+se exercises? What does she want to add? How many English words does he know? When does it happen? What interests you? What does
 he remember? What helps you? How does it help you? What time does he come to work? Who motivates you? What does she try to do? Wh
 en does he feel happy? Why does he say these things again and again? What time does she leave home? Why does it seem useless? Wha
-t English books does he have? What books does she prefer to read? What worries you? Who wants to live abroad? What does she tell 
+t English books does he have? What books does she prefer to read? What worries you? Who wants to live abroad? What does she tell
 him? What attracts him there? How does he support you? What worries you more? Why does he always complain about it?
 
 {45}
@@ -1383,7 +1383,7 @@ How often do these things happen? How regularly does your boss check it? How lon
 oes it take his daughter to get to school?
 
 {47}
-How does your brother control it? Why do your friends disagree with you? How does your sister feel? How regularly does your boss 
+How does your brother control it? Why do your friends disagree with you? How does your sister feel? How regularly does your boss
 check it? How many English words does your friend want to know? What advice do your friends give you? Why does your boss criticiz
 e it? Why do your parents disagree with you? What advice does your teacher give you? What do your friends usually order? Why does
 your friend want to look for a new job? Where does your father work? How long does it take his daughter to get to school? Why doe
@@ -1408,7 +1408,7 @@ get good salary.
 04.01.2023
 {43}
 Where does he work? Where do you work? Where does she study? Where does she go? Why does he complain so often? Why does she refus
-e to pay? Why does it happen again and again? What does she say? What does she tell him? What does he want to add? What does she 
+e to pay? Why does it happen again and again? What does she say? What does she tell him? What does he want to add? What does she
 try to do? What does he need to change? How does she test their knowledge? How does it help you? How does he support you? When do
 es it happen? When does he feel happy? What does he remember? What does she want to add? What helps you? What interests you? What
 worries you? Who does it motavete you? Who motivates you? Who does she love? Who loves her? Who does she support? Who supports yo
@@ -1420,13 +1420,13 @@ long does it take you to get to work? How long does it take him to get to this p
 e time? How do you do it? I read English books? What English books do you read? What movies do you watch?
 
 {44}
-How long does it take you to get to school? What channels does he usually watch? What kind of movies does she watch? How does he 
+How long does it take you to get to school? What channels does he usually watch? What kind of movies does she watch? How does he
 get home? Why does it attract you? How often does he test their knowledge? What does he need to change? What drinks does she pref
 er? Why does he refuse to do it? How long does it take you to get to work? Why does it look strange? How regularly does he do the
-se exercises? What does she want to add? Who many English words does he know? When does it happen? What interests you? What does 
+se exercises? What does she want to add? Who many English words does he know? When does it happen? What interests you? What does
 he remember? What helps you? How does it help you? What time does he come to work? Who motivates you? What does she try to do? Wh
 en does he feel happy? Why does he say these things again and again? What time does she leave home? Why does it seem useless? Wha
-t English books does he have? What books does she prefer to read? What worries you? Who wants to live abroad? What does she tell 
+t English books does he have? What books does she prefer to read? What worries you? Who wants to live abroad? What does she tell
 him? What attracts him there? How does he support you? What worries you more? Why does he always complain about it?
 
 {45}
@@ -1445,7 +1445,7 @@ d get good salary. I implement an idea that will brings a million dollars in thr
 {46}
 Where does your father work? Where do you parents live? Why does your boss criticize it? Why does your mother think so? Why do yo
 u friends don't agree with you? How does your sister feel? How does your brother control it? When does your father leave home? Wh
-en does this thing happen? When do these things happen? What do your friends usually order? What does your boss usually promise? 
+en does this thing happen? When do these things happen? What do your friends usually order? What does your boss usually promise?
 What abvice does your teacher give you? What advice do you teachers give you? What kind of examples does his teacher give? How mu
 ch free time does your business partner have? How many English words does your friend want to know? How often does this thing hap
 pen? How often do these things happen? How regularly does your boss check it? How long does it take his son to get to work? How l
@@ -1477,8 +1477,8 @@ an idea that will brings one million dollars in three/four years. I work on comp
 {49}
 What seems unimportant? Why does she refuse to pay? Where does your father work? What music do you prefer? How do you get to work
 ? How does he get home? What really helps you? What time do you go to bed? Who do you usually see there? What worries you? How of
-ten does he test their knowledge? What books does she prefer to read? What do you know? What do your friends usually order? When 
-do you feel happy? What kind of examples does his teacher give? Why does he say these things again and again? How does she train 
+ten does he test their knowledge? What books does she prefer to read? What do you know? What do your friends usually order? When
+do you feel happy? What kind of examples does his teacher give? Why does he say these things again and again? How does she train
 her memory? Why does it interest him? Who usually checks it? Why do your parents disagree with you? Why do you want to visit this
 place? How do you get ther? How long does it take him to get to that place? What advice do your teachers give you? What do they w
 ant to tell you? Why does he refuse to do it? How regularly do you learn English? What time does your mother come to work? What h
@@ -1492,9 +1492,9 @@ u? What English books does he have? What books do you read? How often do you thi
 ree time does your business partner have? How much free time do you have? Why does it attract you? What attracts you? What does s
 he want to add? How regularly do your teachers tell you these things? Who checks everything? Who checks all the information? What
 works so well? What kind of computer games do they play? Who supports you? What interests them? How often do you listen to the ra
-dio? Where does he work? What does your boss usually promise? What time does she leave home? What does she usually say? How long 
+dio? Where does he work? What does your boss usually promise? What time does she leave home? What does she usually say? How long
 does it take her to get to this place? How regularly does he do these exercises? How does your sister feel? Where do you work? Wh
-y does your mother think so? How does your brother control it? How many English words does your friend want to know? When do you 
+y does your mother think so? How does your brother control it? How many English words does your friend want to know? When do you
 go to work? How does he solve these problems? Why do you need to do it? What do you need to do? How much money do you have with y
 ou? Who knows? Why does he always complain about it? What channels does he usually watch?
 
@@ -1502,10 +1502,10 @@ ou? Who knows? Why does he always complain about it? What channels does he usual
 Statement. I understand it very well. We want much more practice. You think the same. They support us. He studies there. She goes
 to school with great pleasure. It really interests me. I don't agree with you. We dons't share your point of view. You don't do i
 t. They don't want to listen to us. He doesn't feel happy. She doesn't like this idea. It doesn't inspire me. Do you understand m
-e? Do we speak English without mistakes? Do you agree with me? Do they want to do the same? Does he live there? Does she want to 
+e? Do we speak English without mistakes? Do you agree with me? Do they want to do the same? Does he live there? Does she want to
 buy it? Does it look interesting? They do business. They don't do business. Do they do business? It helps me. It doesn't help me.
 Does it help me? My friend likes it. My friend doesn't like it. Does my friend like it? My friends like it. My friends don't like
-it. Do my friends like it? Your friends like it. Your friends don't like it. Do your friends like it? I don't suffer. I'm happy. 
+it. Do my friends like it? Your friends like it. Your friends don't like it. Do your friends like it? I don't suffer. I'm happy.
 I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I implement an idea that will bring on
 e million dollars in three/four years. I work on company project and get good salary.
 
@@ -1514,15 +1514,15 @@ e million dollars in three/four years. I work on company project and get good sa
 Where does your father work? Where do you parents live? Why does your boss criticize it? Why does your mother think so? Why do yo
 ur friends disagree with you? How does your sister feel? How does your brother control it? When does your father leave home? When
 does this thing happen? When do these things happen? What do your friends usually order? What does your boss usually promise? Wha
-t advice does your teacher usually give you? What advice do your teachers give you? What kind of examples does his teacher give? 
+t advice does your teacher usually give you? What advice do your teachers give you? What kind of examples does his teacher give?
 How much free time does your business partner have? How many English words does your friend want to know? How often does this thi
 ng happen? How often do these things happen? How regularly does your boss check it? How long does it take his son to get to work?
 How long does it take his daughter to get to school?
 
 {47}
-How does your brother control it? Why do your friends disagree with you? How does your sister feel? How regularly does your boss 
+How does your brother control it? Why do your friends disagree with you? How does your sister feel? How regularly does your boss
 check it? How many English words does your friend want to know? What advice do your friends give you? Why does your boss criticiz
-e it? Why do you parents disagree with you? What advice does yout teacher give you? What do your friends usually order? Why does 
+e it? Why do you parents disagree with you? What advice does yout teacher give you? What do your friends usually order? Why does
 your friend want to look for a new job? Where does your father work? How long does it take his daughter to get to school? Why doe
 s your mother think so? What advice do your teachers give you? How often does this thing happen? How much free time does your bus
 iness partner have? How long does it take his son to get to work? What king of examples does his teacher give? Where do your pare
@@ -1533,12 +1533,12 @@ ese things?
 
 {48}
 Where do you live? Why does she think so? How do you ususlly spend your free time? When do your parents leave home? What does you
-r boss usually answer? What do you know about it? What do they usully discuss? What seems so interesting? What really helps you? 
+r boss usually answer? What do you know about it? What do they usully discuss? What seems so interesting? What really helps you?
 What interests you? What worries you? Who do you know? What time do you usually get up? What lessons does your teacher find reall
 y useful? What kind of information does she want to have? Which drink does she prefer: tea of coffee? How much money do you need?
 How much money does your friend need? How many friends do you have? How often do you travel? How regularly does his son train the
 re? How regularly do you speak English? How regularly do you practice English? How long does it take to get there? I don't suffer
-. I'm happy. I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I implement an idea that 
+. I'm happy. I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I implement an idea that
 will bring one million dollars in three/four years. I work on company project and get good salary.
 
 12.01.2023
@@ -1555,52 +1555,52 @@ ten does she go to the cinema? Why does this idea seem so interesting? What time
 e? What time does your usually father come home? Where do you live? What motivates you?
 
 {50}
-How many mistakes do you usually make? Why does it look strange? What channels does he usually watch? What advice do you friends 
+How many mistakes do you usually make? Why does it look strange? What channels does he usually watch? What advice do you friends
 give you? What English books does he have? What books do you read? How often do you think about it? Why do you depend on him? How
 much free time does you business partner have? How much free time do you have? Why does it attract you? What attracts you? What d
 oes she want to add? How regualrly do yout teachers tell you these things? Who checks everything? Who checks all the information?
 What works so well? What kind of computer games do they play? Who supports you? What interests them? How often do you listen to t
-he radio? Where does he work? What does your boss usually promise? What time does she leave home? What does she usually say? How 
+he radio? Where does he work? What does your boss usually promise? What time does she leave home? What does she usually say? How
 long does it take her to get to this place? How regularly does he do these exercises? How does your sister feel? Where do you wor
 k? Why does your mother think so? How does your brother control it? How many English words does your friend want to know? When do
 you go to work? How does he solve these problems? Why do you need to do it? What do you need to do? How much money do you have wi
 th you? Who knows? Why does he always complain about it? What channels does he usually watch?
 
 {51}
-I understand it very well. We want much more practice. You think the same. They support us. He studies there. She goes to school 
+I understand it very well. We want much more practice. You think the same. They support us. He studies there. She goes to school
 with great pleasure. It really interests me. I don't agree with you. We don't share your point of view. You don't do it. They don
 't want to listen to us. He doesn't feel happy. She doesn't like this idea. It doesn't inspire me. Do you understand me? Do we sp
 eak without mistakes? Do you agree with me? Do they want to do the same? Does he live there? Does she want to buy it? Does it loo
 k interesting? They do business. They don't do business. Do they do business? It helps me. It doesn't help me. Does it help me? M
 y friend likes it. Me friend doesn't like it. Does my friend like it? My friends like it. My friends don't like it. Do my friends
-like it? I don't suffer. I'm happy. I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I 
+like it? I don't suffer. I'm happy. I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I
 implemen an idea that will bring one million dollars in three/four years. I work on company project and get good salary.
 
 16.01.2023
 {52}
 I like it. We like it. You like it. He likes it. She likes it. They like it. I need it. You need it. They need it. He needs it. S
-he needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like it. They'd 
+he needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like it. They'd
 like it. He'd like it. She'd like it. I'd like a cup of tea. I need to do it. I want to do it. I'd like to do it. I need to speak
 English correctly. I want to know English very well. I'd like to dring a cup of tea. He'd like to order it online. I'd like to th
-ank you for everything. Why do you learn English? What do you think about it? How does it help you? What do you know? What helps 
-you? What interests you? Who do you know? Who does she want to thank? Who knows it? What kind of? What English books do you have 
+ank you for everything. Why do you learn English? What do you think about it? How does it help you? What do you know? What helps
+you? What interests you? Who do you know? Who does she want to thank? Who knows it? What kind of? What English books do you have
 at home? What kind of music do you like? Ho much free time does she have? How many English words do you want to know? How often d
-o you go to the gym? How regularly does she watch these videos? How long does it take you to get to that place? How long does it 
+o you go to the gym? How regularly does she watch these videos? How long does it take you to get to that place? How long does it
 take you to get to work? How often does your girlfriend mention it?
 
 {53}
-I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too. 
-Sometimes he watches that channel. What time does she come home? How long does it take you to take there? How often do you go to 
+I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too.
+Sometimes he watches that channel. What time does she come home? How long does it take you to take there? How often do you go to
 the cinema? I have a sister. I have a car. I have an idea. He has got a family. He's got a family. He wants to buy a new car. She
-wants to find a good job. I need to check all the documents. She knows everything. All people think do. I want to speak English. 
+wants to find a good job. I need to check all the documents. She knows everything. All people think do. I want to speak English.
 Let's speak about it. Let's talk about it. Let's do it. I want to say it. I want to tell you this thing. I know this thing. I oft
 en listen to music. I don't depend on it. I want to do it. I like make money.
 
 {54}
-Live abroad. Make any mistakes at all. Daughter. Thank. Ask. Train my memory. A cup of coffe. Decision. Share your poin of view. 
+Live abroad. Make any mistakes at all. Daughter. Thank. Ask. Train my memory. A cup of coffe. Decision. Share your poin of view.
 Another place. Project. All the truth. How long. Unimportant. Ignore. Add. Motivate. Zoo. Improve my result. Disagree. Less. Attr
 act. Agree. Complain. Advice. Son. Much more. Promise. Worry. Exercise. Use the internet. Depend on you. Spend time together. Sol
-ve this problem. Leave home. Get to work. Answer. Do business. Parents. Become a businessman. Come to work. With great pleasure. 
+ve this problem. Leave home. Get to work. Answer. Do business. Parents. Become a businessman. Come to work. With great pleasure.
 Inspire. Discuss. Order. Find a good job. Get home. Correct. Study harder. Success. Rule. Look for a job. Go abroad. Prefer. Go t
 o the gym. Go to the cinema. Thank. Speak English fluently. Speak English fluently. Get up late. Get up early. Criticize. Useless
 . Useful. Pay. Question. Get to school. I don't suffer. I'm happy. I'm leader. I have great health. I have limitless energy. I en
@@ -1611,9 +1611,9 @@ mpany project and get strong junior salary.
 {49}
 What seems unimportant? Why does she refuse to pay? Where does your father work? What music do you prefer? How do you get to work
 ? How does he get home? What really helps you? What time do you go to bed? Who do you usually see there? What worries you? How of
-ten does he test their knowledge? What books does she prefer to read? What do you know? What do your friends usually order? When 
-do you feel happy? What kind of examples does his teacher give? Why does he say these things again and again? How does she train 
-her memory? Why does it interest him? Who usually checks it? Why do you parents disagree with you? Why do you want to visit this 
+ten does he test their knowledge? What books does she prefer to read? What do you know? What do your friends usually order? When
+do you feel happy? What kind of examples does his teacher give? Why does he say these things again and again? How does she train
+her memory? Why does it interest him? Who usually checks it? Why do you parents disagree with you? Why do you want to visit this
 place? How do you get there? How long does it take him to get to that place? What advice do you teachers give you? What do they w
 ant to tell you? Why does he refuse to do it? How regularly do you learn English? What time does your mother come to work? What h
 elps you? How long does it take his son to get to work? Which channel does she usually watch? Why does it happen again and again?
@@ -1624,7 +1624,7 @@ ee time? What time does your father usually come home? Where do you live? What m
 How many mistakes do you usually make? Why does it look strange? What channels does he watch? What advice do you friends give you
 ? What English books does he have? What books do you read? How often do you think about it? Why do you depend on him? How much fr
 ee time does your business partner have? How much free time do you have? Why does it attract you? What attracts you? What does sh
-e want to add? How regularly do your teachers tell you these things? Who checks everything? Who checks all the information? What 
+e want to add? How regularly do your teachers tell you these things? Who checks everything? Who checks all the information? What
 works so well? What kind computer games do they play? Who supports you? What interests them? How often do you listen to the radio
 ? Where does he work? What does you boss usually promise? What time does she leave home? What does she usually say? How long does
 it take her to get to this place? How regularly does he do these exercises? How does your sister feel? Where do you work? Why doe
@@ -1633,11 +1633,11 @@ work? How does he solve these problems? Why do you need to do it? What do you ne
 o knows? Why does he always complain about it? What channels does he usually watch?
 
 {51}
-I understand it very well. We want much more practice. You think the same. They support us. He studies there. She goes to school 
+I understand it very well. We want much more practice. You think the same. They support us. He studies there. She goes to school
 with great pleasure. It really interests me. I disagree with you. We don't share your poin of view. You don't do it. They don't w
 ant to listen to us. He does feel happy. She doesn't like this idea. It doesn't inspire me. Do you understand me? Do we speak Eng
 lish without mistakes? Do you agree with me? Do they want to do the same? Does he live there? Does she want to buy it? Does it lo
-ok interesting? They do business. They don't do business. Do they do business? It helps me. It doesn't help me? Does it help me? 
+ok interesting? They do business. They don't do business. Do they do business? It helps me. It doesn't help me? Does it help me?
 My friend likes it. My friend does like it. Does my friend like it? My friends like it. My friends don't like it. Do my friends l
 ike it? I don't suffer. I'm happy. I'm gray leader. I have grat health. I have limitless energy. I enjoy that I do. I develop ext
 remely fast. I implement an idea that will bring one million dollars in three/four yeasr. I work on company project an get strong
@@ -1646,32 +1646,32 @@ junior salary.
 22.01.2023
 {52}
 I like it. We like it. You like it. They like it. He likes it. She likes it. I need it. We need it. You need it. They need it. He
-needs it. She needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like 
+needs it. She needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like
 it. They'd like it. He'd like it. She'd like it. I'd like a cup of tea. I need to do it. I want to do it. I'd like to do it. I ne
 ed to speak English correctly. I want to know English very well. I'd like to drink a cup of tea. He'd like to order it online. Wh
-y do you learn English? What do you think about it? How does it help you? What do you know? What helps you? Who do you know? Who 
-does she want to thank? Who knows it? What English books do you have at home? What kind of music do you like? How much free time 
+y do you learn English? What do you think about it? How does it help you? What do you know? What helps you? Who do you know? Who
+does she want to thank? Who knows it? What English books do you have at home? What kind of music do you like? How much free time
 does she have? How many English words you want to know? How often do you go to the gym? How regularly does she watch these videos
 ? How long does it take you to get to work? How long does it take you to get to work? How often does your girlfriend mention it?
 
 {53}
-I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too. 
+I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too.
 Sometimes he watches that channel. Go to work. Go to the cinema. Go to the theater. Go home. Come to work. Come home. Get here. G
 et there. What time does she come home? How long does it take you to get there? How often do you go to the cinema? I have a siste
 r. I have a car. I have an idea. He has a family. He wants to buy a new car. She wants to find a good job. I need to check all th
-e documents. She knows everything. All people think so. I want to speak English. Let's talk about it. Let's discuss it. Let's do 
-it. I want to say it. I want to tell you this thing. I know it. I know this book. I know this thing. I often listen to music. It 
+e documents. She knows everything. All people think so. I want to speak English. Let's talk about it. Let's discuss it. Let's do
+it. I want to say it. I want to tell you this thing. I know it. I know this book. I know this thing. I often listen to music. It
 depends on you. I want to do it.
 
 {54}
-Live abroad. Make any mistakes at all. Daughter. Thank. Ask. Train my memory. A cup of coffee. Decision. Share you poin of view. 
+Live abroad. Make any mistakes at all. Daughter. Thank. Ask. Train my memory. A cup of coffee. Decision. Share you poin of view.
 Another place. Project. All the truth. How long? Unimportant. Ignore. Add. Motivate. Zoo. Imporve my resut. Disagree. Less. Attra
 ct. Agree. Complain. Advice. Son. Much more. Promise. Worry. Exercises. Use the internet. Depend on you. Spend time together. Sol
-ve this problem. Leave home. Get to work. Answer. Do business. Parents. Become a businessman. Come to work. With great pleasure. 
+ve this problem. Leave home. Get to work. Answer. Do business. Parents. Become a businessman. Come to work. With great pleasure.
 Inspire. Discuss. Order. Find a good job. Get home. Correct. Study harder. Success. Rule. Look for a job. Go abroad. Prefer. Go t
 o the gym. Go to the cinema. Thank. Speak English fulently. Speak English corrctly. Get up late. Get up early. Critisize. Useless
 . Useful. Pay. Question. Get to school. I don't suffer. I'm happy. I'm gray leader. I have great health. I have limitless energy.
-I enjoy that I do. I develop extremely fast. I implement an idea that will bring one million dollars in three/four years. I work 
+I enjoy that I do. I develop extremely fast. I implement an idea that will bring one million dollars in three/four years. I work
 on company project and get strong junior salary.
 
 24.01.2023
@@ -1682,15 +1682,15 @@ y get up? She feels happy. Do you often call him? How does he get home. What do 
 s useless. Do we have enough practice? I really like these lessons. He lives in this country. She wants to see you right now. I w
 ant to be happy. She has a car. Does he want to live abroad? What do you friends usually order? He works very hard? It depends on
 them. What English books does he have? He wants more. I understand you very well. She explains all these things very well. She lo
-ves you. These lessons really help. She does those exercises regularly. She always does it on time. What helps you? I want to go 
+ves you. These lessons really help. She does those exercises regularly. She always does it on time. What helps you? I want to go
 abroad? I need money. How often does she go to the cinema?  What does she want to add? She works very hard. My sister studies the
 re. I like your lessons. Who loves her? I remember it. I want a new computer. What helps her? She lives in this place. I'd like a
 cup of coffee. It doesn't seem strange. What wories you more?
 
 {56}
-How does it help you? My parents want to do it. All people do it. How long does it take him to get to that place? He doesn't try 
+How does it help you? My parents want to do it. All people do it. How long does it take him to get to that place? He doesn't try
 to find a good job. You don't try to learn English. What kind of exampled does his teacher give? Does this person seem very good?
-It doesn't seem useful. I think so. They go to work. How does she explain it? She needs to correct these mistakes. What music do 
+It doesn't seem useful. I think so. They go to work. How does she explain it? She needs to correct these mistakes. What music do
 you prefer? My sister lives there but I live here. How long does it take her daughter to get to school? You need to remember this
 rule. I live in this country. Do you remember it? I go to work. I need to speak English without any mistakes at all. I understand
 everything. It helps me. I like it. Which drink does she perefe: tea of coffee? Do you support me? Why do you parents disagree wi
@@ -1708,8 +1708,8 @@ ks English very well. Do they support us? These lessons seem very useful. He oft
 day. My parents know it. Who corrects your mistakes? Does her boyfriend want to go abroad? Why does he say these things again and
 again? He has a cat? Who sees these mistakes? These things attract them. I see you really like English. I want more practice. Doe
 s he often think about it? Why do you think so? We speak English? Do you go to work? Do you work on your mistakes? Do these thing
-s seem unimportant? What does your boss usually answer? I need to study harder. Where do you work? How regularly do you practice 
-English? He also works here. Does this student shoow brilliant results? He understands you very well. What seems strange? I live 
+s seem unimportant? What does your boss usually answer? I need to study harder. Where do you work? How regularly do you practice
+English? He also works here. Does this student shoow brilliant results? He understands you very well. What seems strange? I live
 in Ukraine. My friend doesn't think so. He has an offer. Why does he always complain about it. He knows more. I see everything. H
 e doesn't want to read these books. He wants to read those books. Does he often watch TV? I don't suffer. I'm happy. I'm gray lea
 der. I have great health. I have limitless energy. I enjoy that I do. I develop extremely fast. I implement an idea that will bri
@@ -1718,20 +1718,20 @@ ng one million dollars in three/four years. I get strong junior salary.
 28.01.2023
 {52}
 I like it. We like it. You like it. They like it. He likes it. She likes it. I need it. You need it. We need it. Thet need it. He
-needs it. She needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like 
+needs it. She needs it. My girlfriend likes this idea. My boss needs to know it right now. I'd like it. We'd like it. You'd like
 it. They'd like it. He'd like it. She'd like it. I'd like a cup of tea. I need to do it. I want to do it. I'd like to do it. I ne
 ed to speak English correctly. I want to know English very well. I'd like to drink a cup of tea. He'd like to order it online. Wh
-y do you learn English? What do you think about it? How does it help you? What do you know? What helps you? Who do you know? Who 
+y do you learn English? What do you think about it? How does it help you? What do you know? What helps you? Who do you know? Who
 does she want to thank? Who knows it? What English books do you have at home? What kind of music do you like? Which channel do yo
-u prefer? How much time does she have? How many English words do you want to know? How often do you go to the gym? How regularly 
+u prefer? How much time does she have? How many English words do you want to know? How often do you go to the gym? How regularly
 does she watch these vidoes? How long does it take you to get to school? How long does it take you to get to work? How often does
 your girlfriend mention it?
 
 {53}
-I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too. 
+I know it very well. She often asks me about it. What does your friend like? He works very hard. I also like it. I like it, too.
 Sometimes he watches that channel. What time does she come home? How long does it take you to get there? How often do you go to t
 he cinema? I have a sister. I have a car. I have an idea. He wants to buy a new car. She wants to find a good job. I need to chec
-k all the documents. She knows everything. All people think so. I want to speak English. Lets talk about it. I want to say it. I 
+k all the documents. She knows everything. All people think so. I want to speak English. Lets talk about it. I want to say it. I
 want to tell you this thing. I know it. I know this thing. I often listen to music. It depends on you. I want to do it.
 
 {54}
@@ -1753,35 +1753,71 @@ y get up? She feels happy. Do you often call him? How does he get home? What do 
 s useless? Do we have enough practice? I really like these lessons. He lives in this country. She wants to see you right now. I w
 ant to be happy. She has a car. Does he want to live abroad? What do you friends usually order? He works very hard. It depends on
 them. What Englihs books does he have? He wants more. I understand you very well. She explains all these things very well. She lo
-ves you. These lessons really help. She does those exercises regularly. She always does it on time. What helps you? I want to go 
+ves you. These lessons really help. She does those exercises regularly. She always does it on time. What helps you? I want to go
 abroad? I need moeny. How often does she go to the cinema? What does she want to add? She works very hard. My sister studies ther
-e. I like your lessons. Who loves her. I remember it. I want a new computer. What helps her? She lives in this place. I'd like a 
+e. I like your lessons. Who loves her. I remember it. I want a new computer. What helps her? She lives in this place. I'd like a
 cup of coffee. It doesn't seem strange? What worries you more?
 
 {56}
-How does it help you? My parents want to do it. All people do it. How long does it take him to get to that place? He doesn't try 
+How does it help you? My parents want to do it. All people do it. How long does it take him to get to that place? He doesn't try
 to find a good job. You don't try to learn English. What kind of examples does his teacher give? Does this person seem very good?
-It doesn't seem useful. I think so. They go to work. How does she explain it? She needs to correct these mistakes. What music do 
+It doesn't seem useful. I think so. They go to work. How does she explain it? She needs to correct these mistakes. What music do
 you prefer? My sister lives there but I live here. How long does it take his daughter to get to school. You need to remember this
 rule. I live in this country. Do you remember it? I go to work. I need to speak Englihs without any mistakes at all. I understand
 everything. It helps me. I like it. Which drink does she prefer: tea or coffee? Do you support me? Why do your parents disagree w
 ith you? She feels so happy. He goes to work. It depends on us. Does he hate this thing? How often do you go there? I like this i
-dea. I don't want to study there. When do you have free time? She watches different movies. Do you often listen to music. I like 
+dea. I don't want to study there. When do you have free time? She watches different movies. Do you often listen to music. I like
 this method. She tries to understand me. It doesn't inspire me. I want it. How often do you think about it? Where do the spend ti
 me together? I'd like to drink a cup of coffee. When does he feel happy. I don't want to live in that city. Who wants to live abr
 oad? She doesn't try to discuss it. Your lessons really help. He misses you.
 
 {57}
-I do it with great pleasure. It attracts me. Why does she refuse to pay. This lessons seems interesting. How do you get to home? 
+I do it with great pleasure. It attracts me. Why does she refuse to pay. This lessons seems interesting. How do you get to home?
 He wants more practice. Does that test seem very easy? Do we have enough knowledge? How do you spend your free time? Does she rem
 ember all these rules? Why does it happen again and again. Do they do business? Does she teach Englihs? She reads in English? She
 speaks Englihs very well. Do They support us? These lessons seem very useful. He often plays computer games. I practice English v
 ery day. My parents know it. Who corrects your mistakes? Does her boyfriend want to go abroad? Why does he say these things again
 and again? He has a cat. Who sees these mistakes? These things attract them. I see your really like Englihs. I want more practice
-. Does he often think about it? Why do you think so? We speak Englihs. Do you go to work? Do you work on your mistakes? Do these 
+. Does he often think about it? Why do you think so? We speak Englihs. Do you go to work? Do you work on your mistakes? Do these
 things seem unimportant? What does your boss usually answer? I need to study harder. Where do you work? How regualrly do you prac
 tice English? He also works here? Does this student show brilliant results? He understands you very well. What seems strange? I l
 ive in Ukraine. My friend doesn't think so. He has an offer? Why does he always complain about it? He knows more. I see everythin
 g. He doesn't want to read these books. He wants to read those books. Does he often watch TV? I don't suffer. I'm happy. I'm a le
 ader. I have great health. I have limitless energy. I have limitless life energy. I implement an idea that will brings one millio
 n dollars in three/four years. Every month I get 1500 dallars for programming.
+
+05.02.2023
+{58}
+He thinks so. I like this thing. He teaches English. It doesn't help me. I don't want to play computer games. Do you remember everything?
+Do you need my advice? My boss reads all the documents. She does it very well. How much money do you have with you? He sees that mistake.
+Does this lesson seem useful? Who supports you? It seems interesting. I don't agree with you. She misses you. Do they support this decision?
+She really remembers it. I want to thank you. I want to know it. We live in this country. I really need English. How does he support you? I need to
+correct this mistake. He also knows it. How regularly does your boss check it? How does your sister fell? How regularly does he do these exercises? I want to
+go to another place. Who do you know? This thing seems unimportant. How long does it take her to get to this place? What does he remember? Why do you agree with him?
+It really happens. I'd like a cup of tea. I need this thing. He often goes to the cinema. I want to train my memory. They don'e do business.
+I don't want to talk about it. She doesn't want to think about it. She wants to do it right now. My friend needs your help. Does he ignore her words.
+Does you father need it. Why does it attract you? I know they like it. He does it every day. How regularly do you learn English?
+
+{59}
+Does it seem interesting? How many dollars does he have with him? They go to school. Do I have enough money? I want to do it. My brother tries to do it.
+She does't remember it. I speak English. His lessons seem very useful. What does he want to add? Why do your friends dissagree with you? We understand you.
+What do you want to say? It looks interesting. He doesn't have a car. We neeed to solve this problem. Does your mother tell him all the truth? It inspires me.
+What inspires you? Who does he love? Does she often listen to the radio? I don't want to tell you about this problem. What do you like here. Thier ideas seem
+very interesting. What does he need to change? Does his girlfriend understand it? I find all these lessons really useful. Why do you depend on him? She also works
+there. How does she train her memory? Do your parents understand it? You know it. Why does your boss criticize it? I see he really likes it. I don't want to know it.
+Does that lesson seem boring? Does she ignore it sometimes? It attracts him. She she want to go abroad? I want to speak Englihs fluently and correctly. Where do you go?
+This lesson helps me. They often criticize him. Her brother often says it. Do you like that offer? She tries to learn English? Do they see theri mistakes. Do you like it?
+Does your friend agree with you? My sister lives in this place.
+
+{60}
+I have an idea. How do you usually get to that place? I don't understand these people? How regularly do you speak English? He has dollars.
+I know it. This thing attracts me. What time does she leave home? When do you feel happy? He'd like to become a doctor. He makes so many mistakes.
+What boos do you read? She goes to school. I support this decision. Who does it motivate? It seems useless? Do you have free time? Do you agree with him?
+What channel does he watch? I'd like to visit this place. We like it. I love you. What time does your mother come to work? She watches TV. Whe do you want to
+visit this place. Who does he support? He wants to buy this thing. She wants more practice. I don't want to say it. Does this thing seem important? Does he often
+speak English. My friend like this hotel. I really want it. Does it seem boring. I feel it. It happens. What kind of computer games do they play. I need to solve these
+problems. I like this channel. Those lessons don't help me at all. These lessnons really help. I find them very useful. Whe does it look strange?
+How often do you go to the gym? Does this information seem unimportant? Do you agree with her? I work here. What does she want to add? I'd like to know English
+very well. Our mother thinks the same. That offer seems strange. This project seems very interesting. I don't suffer. I'm happy. I'm a leader. I have great health. I have
+limitless energy. I have limitless life energy. I enjoy that I do. I develop extremely fast. I implement an idea that will brings one million dollars in three/four years.
+I get 1500 dollars for programming every month. 

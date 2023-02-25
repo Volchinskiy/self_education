@@ -14,3 +14,4 @@
 16.01.2023 STEP #14 { secondRepeat: [13], firstRepeat: [14], learn: [15], marker: 'week'}
 30.01.2023 STEP #15 { secondRepeat: [14], firstRepeat: [15], learn: [16], marker: 'week'}
 16.02.2023 STEP #16 { secondRepeat: [15], firstRepeat: [16], learn: [17], marker: 'week'}
+25.02.2023 STEP #17 { secondRepeat: [16], firstRepeat: [17], learn: [18], marker: 'week'}

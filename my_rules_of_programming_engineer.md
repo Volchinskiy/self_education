@@ -18,3 +18,5 @@ FrontEnd
 
 2) When you write forms you need to leave enough space for validation error
 3) If you have choice between show form error as tooltip or show as string under the form, you should chose first variant
+
+4) Need to realize how I should implement web application.

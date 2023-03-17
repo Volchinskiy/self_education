@@ -300,9 +300,10 @@
 │ 15.03.2023 │ secondRepeat: │ https://www.youtube.com/watch?v=sanq2X7Re8o │
 ├────────────┼───────────────┼─────────────────────────────────────────────┤
 │ 15.03.2023 │ firstRepeat:  │ https://www.youtube.com/watch?v=z8Hg6zgi3yQ │
-│ 00.00.0000 │ firstRepeat:  │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
-│ 00.00.0000 │ firstRepeat:  │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
+│ 16.03.2023 │ firstRepeat:  │ https://www.youtube.com/watch?v=RMl4r6s1Y8M │
+│ 16.03.2023 │ firstRepeat:  │ https://www.youtube.com/watch?v=Jdf_tZuJbHI │
 ├────────────┼───────────────┼─────────────────────────────────────────────┤
+│ 17.03.2023 │ learn:        │ https://www.youtube.com/watch?v=9d5TG1VsLeU │
 │ 00.00.0000 │ learn:        │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
 └────────────┴───────────────┴─────────────────────────────────────────────┘
 

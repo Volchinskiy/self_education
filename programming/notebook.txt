@@ -335,6 +335,7 @@
 │ 29.03.2023 │ firstRepeat:  │ https://www.youtube.com/watch?v=kvNm9D32s8s │
 │ 29.03.2023 │ firstRepeat:  │ https://www.youtube.com/watch?v=rBGFlWpVpGs │
 ├────────────┼───────────────┼─────────────────────────────────────────────┤
+│ 29.03.2023 │ learn:        │ https://www.youtube.com/watch?v=BXiKebOIAGI │
 │ 00.00.0000 │ learn:        │ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ │
 └────────────┴───────────────┴─────────────────────────────────────────────┘
 

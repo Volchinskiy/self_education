@@ -18,3 +18,4 @@
 13.03.2023 STEP #18 { secondRepeat: [17], firstRepeat: [18], learn: [20], marker: 'week'}
 17.03.2023 STEP #19 { secondRepeat: [18], firstRepeat: [20], learn: [21], marker: 'week'}
 25.03.2023 STEP #20 { secondRepeat: [20], firstRepeat: [21], learn: [22], marker: 'week'}
+30.03.2023 STEP #20 { secondRepeat: [21], firstRepeat: [22], learn: [23], marker: 'week'}

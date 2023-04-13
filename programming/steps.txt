@@ -20,3 +20,4 @@
 25.03.2023 STEP #20 { secondRepeat: [20], firstRepeat: [21], learn: [22], marker: 'week'}
 30.03.2023 STEP #21 { secondRepeat: [21], firstRepeat: [22], learn: [23], marker: 'week'}
 09.04.2023 STEP #22 { secondRepeat: [22], firstRepeat: [23], learn: [24], marker: 'week'}
+13.04.2023 STEP #23 { repeat all the information you've learned, and add to obsidian }

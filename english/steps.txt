@@ -223,3 +223,8 @@
                       firstRepeat:  { Orange: [118,119,120], Titanium: [40], },
                       learn:        { Orange: [121,122,123], Titanium: [41], },
                      }
+25.04.2023 NEXT STEP {
+                      secondRepeat: { Orange: [118,119,120], Titanium: [40], },
+                      firstRepeat:  { Orange: [121,122,123], Titanium: [41], },
+                      learn:        { Orange: [124,125,126], Titanium: [42], },
+                     }

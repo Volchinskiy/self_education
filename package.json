@@ -1,7 +1,10 @@
 {
   "name": "self_education",
   "author": "thyxaxa@gmail.com",
-  "scripts": { "format": "node ./english/formatter.js" },
+  "scripts": {
+    "format": "node ./english/formatter.js",
+    "push": "node git.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Volchinskiy/SELF-EDUCATION.git"
